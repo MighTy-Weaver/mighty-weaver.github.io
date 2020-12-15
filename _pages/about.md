@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the personal webpage of Weiqi Wang, this website is still under construction!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
