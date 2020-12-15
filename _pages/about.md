@@ -1,6 +1,6 @@
 ---
 permalink: / 
-title: "Welcome to the personal webpage of Weiqi Wang, this website is still under construction!"
+title: "Weiqi Wang"
 excerpt: "About me"
 author_profile: true 
 redirect_from:
