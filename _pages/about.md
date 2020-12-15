@@ -1,6 +1,6 @@
 ---
 permalink: / 
-title: "Weiqi Wang"
+title: "Weiqi Wang 王伟琪"
 excerpt: "About me"
 author_profile: true 
 redirect_from:
@@ -29,4 +29,4 @@ I'm mainly interested in the research of Natural Language Processing, with a spe
 
 **Beijing No.8 Middle School**
 
-- High School Diploma in [BJBZ](http://www.no8ms.bj.cn/)
+- High School Diploma in [BJBZ](http://www.no8ms.bj.cn/).
