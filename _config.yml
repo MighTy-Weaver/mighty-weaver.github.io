@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Weiqi Wang 王伟琪"
-  avatar           : "mighty-avatar.png"
+  avatar           : "avatar.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Hong Kong University of Science and Technology, HKSAR, China"
+  location         : "Hong Kong University of\nScience and Technology\nHKSAR, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "wwangbw@connect.ust.hk"
+  pubmed           :
+  googlescholar    : # TO BE UPDATED
+  email            : "1874240442@qq.com"
   researchgate     : "https://www.researchgate.net/profile/Weiqi_Wang15"
   uri              :
   bitbucket        :
