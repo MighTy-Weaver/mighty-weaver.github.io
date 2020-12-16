@@ -19,7 +19,9 @@ Science and Mathematics. This website is still under construction and more detai
 I'm mainly interested in the research of Natural Language Processing, with a special interest in knowledge graph learning and commonsense extraction, while I'm also trying to know more in the field of Computer Vision. 
 
 Currently, I'm working under the supervison of [Prof.Song Yangqiu](https://www.cse.ust.hk/~yqsong/). And I greatly appreciate the help offered by my best working mentor/partner: 
-[Mr. Tianqing Fang](https://github.com/tqfang) and the advisor when I was a junior in the NLP field: [Mr. Jiefu Ou](https://github.com/JefferyO). Further Research Achievements and Publications will be made available in the future.
+[Mr. Tianqing Fang](https://github.com/tqfang) and the advisor when I was a junior in the NLP field: [Mr. Jiefu Ou](https://github.com/JefferyO). 
+
+Further Research Achievements and Publications will be made available in the future.
 
 ## Education
 
