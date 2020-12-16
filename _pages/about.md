@@ -12,12 +12,14 @@ redirect_from:
 
 Hi there! Welcome to my personal homepage. I'm currently a Year 3 Undergraduate Student in
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pursing a bachelor degree in Computer
-Science and Mathematics.
+Science and Mathematics. This website is still under construction and more details will be upload once available.
 
 ## Research Interest
 
-I'm mainly interested in the research of Natural Language Processing, with a special interest in knowledge graph learning and commonsense extraction. I greatly appreciate the help offered by 
-[Mr. Tianqing Fang](https://github.com/tqfang) and [Mr. Jiefu Ou](https://github.com/JefferyO). Further details will be upload later.
+I'm mainly interested in the research of Natural Language Processing, with a special interest in knowledge graph learning and commonsense extraction, while I'm also trying to know more in the field of Computer Vision. 
+
+Currently, I'm working under the supervison of [Prof.Song Yangqiu](https://www.cse.ust.hk/~yqsong/). And I greatly appreciate the help offered by my best working mentor/partner: 
+[Mr. Tianqing Fang](https://github.com/tqfang) and the advisor when I was a junior in the NLP field: [Mr. Jiefu Ou](https://github.com/JefferyO). Further Research Achievements and Publications will be made available in the future.
 
 ## Education
 
@@ -27,6 +29,10 @@ I'm mainly interested in the research of Natural Language Processing, with a spe
   Now
 - CGA: 3.906/4.3
 
-**Beijing No.8 Middle School**
+**Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
 
-- High School Diploma in [BJBZ](http://www.no8ms.bj.cn/).
+- High School Diploma in Science.
+
+## Contact me!
+
+You can reach me at `1874240442@qq.com`, this email will be active all the time.
