@@ -21,7 +21,5 @@ main:
     - title: "Guide"
       url: /markdown/
 
-    - title: "Course Plan"
-      url: /course/
-  - title: "All sublinks to be designed"
-    url: "https://mighty-weaver.github.io/"
+    - title: "All sublinks to be designed"
+      url: "https://mighty-weaver.github.io/"
