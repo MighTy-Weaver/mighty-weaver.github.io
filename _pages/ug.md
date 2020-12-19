@@ -8,7 +8,8 @@ redirect_from:
 
 This is the course history during my undergraduate study in the Hong Kong University of Science and Technology. 
 
-`They are displayed as Course Code + Number of Credits + Course Name`
+Below are displayed in the format of
+`Course Code + Number of Credits + Course Name`
 ## UG Year 1  
 ### Fall   
 ```angular2html
