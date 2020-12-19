@@ -41,15 +41,18 @@ With the development of graph algorithms, some graph neural networks demonstrate
 
 ## Education
 
-**Hong Kong University of Science and Technology**
+**1. Hong Kong University of Science and Technology**
 
-- Bachelor Degree in [Computer Science](https://cse.ust.hk/) and [Mathematics](http://www.math.ust.hk/), Sep. 2018 --
-  Now
-- CGA: 3.906/4.3
+- Bachelor Degree in [Computer Science](https://cse.ust.hk/) and [Mathematics](http://www.math.ust.hk/),  *Sep. 2018 --
+  Now*
+- CGA: **3.906** / 4.300
+  
+  - First Major: *BSc in Computer Science* CGA: **3.953** / 4.300
+  - Second Major: *BSc in Mathematics* CGA: **3.986** / 4.300
 
-**Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
+**2. Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
 
-- High School Diploma in Science.
+- High School Diploma in Science, *Sep. 2015 -- Jun. 2018*
 
 
 ## Contact me!
