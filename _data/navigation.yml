@@ -20,5 +20,7 @@ main:
 #
 #  - title: "Guide"
 #    url: /markdown/
-  - title: "Course Plan"
+  - title: "UG Courses"
     url: /course/
+  - title: "Research Experience"
+    url: /research/
