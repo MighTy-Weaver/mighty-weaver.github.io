@@ -8,17 +8,18 @@ redirect_from:
 
 # This is the course history during my undergraduate study in the Hong Kong University of Science and Technology 
 
-## UG Year 1  `42 credits`
-### Fall    `16 credits`
-```
+## UG Year 1  
+### Fall   
+```angular2html
 COMP1022P   3   Introduction to Computing with JAVA
 MATH1013    4   Calculus I B
 CHEM1004    3   Chemistry in Everyday Life
 ELEC1100    4   Introduction to Electro-Robot Design
 LANG1002S   3   English for University Studies I
 ```
-### Spring  `20 credits`
-```
+
+### Spring  
+```angular2html
 COMP2011    4   Programming with C++
 COMP2711    4   Discrete Mathematical Tools
 MATH1014    3   Calculus II
@@ -26,15 +27,15 @@ PHYS1112    3   General Physics I with Calculus
 SOSC1780    3   Population and Development in China
 LANG1003S   3   English for University Studies II
 ```
-### Summer  `6 credits`
+### Summer 
 ```
 MATH2411    4   Applied Statistics
 COMP1029P   1   Python Programming Bridge Course
 UROP1100X   1   Undergraduate Research Opportunities Series I - I
 ```
 ---
-## UG Year 2 `48 credits`
-### Fall `20 credits`
+## UG Year 2 
+### Fall 
 ```
 COMP2012    4   OOP and Data Structures
 MATH2023    4   Multivariable Calculus
@@ -43,7 +44,7 @@ MATH2121    4   Linear Algebra
 PHYS1003    3   Energy and Related Environmental Issues
 UROP2100Y   1   Undergraduate Research Opportunities Series I - II
 ```
-### Spring `21 credits`
+### Spring 
 ```
 COMP2611    4   Computer Organizations
 COMP3311    3   Database Management Systems
@@ -52,15 +53,15 @@ MATH2421    4   Probability
 MATH3033    4   Real Analysis
 LANG2030    3   Technical Communication I
 ```
-### Summer `7 credits`
+### Summer 
 ```
 MATH2352    4   Differential Equations
 SOSC1980    3   Discovering Mind and Behaviors
 UROP1000    0   Undergraduate Research Opportunities Series II
 ```
 ---
-## UG Year 3 `16 credits`
-### Fall `16 credits`
+## UG Year 3 
+### Fall 
 ```
 COMP3111    4   Software Engineering
 COMP3511    3   Operating Systems
