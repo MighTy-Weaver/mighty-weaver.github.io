@@ -14,7 +14,7 @@ Hi there! Welcome to my personal homepage. I'm currently a Year 3 Undergraduate 
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pursing a bachelor degree in Computer
 Science and Mathematics. This website is still under construction and more details will be upload once available.
 
-Currently, I'm working under the supervison of [Professor Song,Yangqiu](https://www.cse.ust.hk/~yqsong/). At the same time, I greatly appreciate the help offered by my best working mentor/partner: 
+Currently, It's my great honor to work under the supervision of [Professor Song,Yangqiu](https://www.cse.ust.hk/~yqsong/). At the same time, I greatly appreciate the help offered by my best working mentor/partner: 
 [Mr. Tianqing Fang](https://github.com/tqfang) and the advisor when I was a junior in the NLP field: [Mr. Jiefu Ou](https://github.com/JefferyO). 
 
 Further Research Achievements and Publications will be made available in the future.
