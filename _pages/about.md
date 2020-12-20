@@ -1,6 +1,6 @@
 ---
 permalink: / 
-title: "Weiqi Wang 王伟琪"
+title: "Weiqi Wang"
 excerpt: "About me"
 author_profile: true 
 redirect_from:
