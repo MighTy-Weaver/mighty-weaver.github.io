@@ -10,15 +10,17 @@ There is no doubt that each research opportunity has brought me different aspect
 
 **I would like to thank all the professors and PhD/MPhil students for providing me with the research opportunities and hand-on experiences below.**
 
-Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/404.html).
+Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/404.html). **(The webpage is not currently available due to review reason)**.
 
-## 1. **Improvement on Contrastive-Learning Based Video Action Recognition**
+## 1. **Contrastive-Learning Based Video Action Recognition**
 ### *(Supervisor: [Prof. Qifeng Chen](https://cqf.io/), HKUST, Dec. 2020 - Now)*
+
+* This project aims to improve the accuracy of video action recognition by improving some state-of-the-art contrastive learning techniques, I have just started it since Dec. 2020, detail will be upload once achieved.
 
 ## 2. **Bridging the Gap Between Two Knowledge Graphs**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Nov. 2020)*
 
-* This project is mainly bridging the gap between two knowledge graphs, details of this project will be made available once allowed.
+* This project aims to bridge the gap between two knowledge graphs with different kinds of knowledge by the combination of a graph neural network algorithm and BERT model. Details of this work will be uploaded once allowed.
 
 **Remark: This work is leading to a publishable work, it will be updated once accepted.**
 
