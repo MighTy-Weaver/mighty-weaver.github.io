@@ -20,8 +20,8 @@ main:
   - title: "Research Experience"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
   - title: "UG Courses"
     url: /course/
