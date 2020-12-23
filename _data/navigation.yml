@@ -17,6 +17,9 @@ main:
 #
 #  - title: "Guide"
 #    url: /markdown/
+  - title: "Main Page"
+    url: /about/
+
   - title: "Research Experience"
     url: /research/
 
@@ -25,3 +28,4 @@ main:
 
   - title: "UG Courses"
     url: /course/
+
