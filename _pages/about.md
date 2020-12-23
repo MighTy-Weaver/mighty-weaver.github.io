@@ -41,7 +41,7 @@ With the development of graph algorithms, some graph neural networks demonstrate
 
 ## Education
 
-**1. Hong Kong University of Science and Technology**
+**1. Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
 - Bachelor Degree in [Computer Science](https://cse.ust.hk/) and [Mathematics](http://www.math.ust.hk/),  *Sep. 2018 --
   Now*
