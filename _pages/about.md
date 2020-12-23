@@ -1,6 +1,6 @@
 ---
 permalink: / 
-title: "Weiqi Wang"
+title: "Weiqi Wang 王伟琪 Mighty"
 excerpt: "About me"
 author_profile: true 
 redirect_from:
@@ -57,4 +57,4 @@ With the development of graph algorithms, some graph neural networks demonstrate
 
 ## Contact me!
 
-You can reach me at `1874240442@qq.com`, this email will be active all the time.
+You can reach me at `1874240442 [at] qq [dot] com`, this email will be active all the time.
