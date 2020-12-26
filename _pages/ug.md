@@ -72,20 +72,25 @@ COMP4471    3   Deep Learning in Computer Vision
 COMP4901K   3   Machine Learning in Natural Language Processing
 ```
 ### Spring
-
-### Summer
-
+```angular2html
+TO BE UPDATED
+```
 ---
 
 
 ## UG Year 4
 ### Fall
-
+```angular2html
+COMP4981    6   Final Year Project
+LANG4030    3   Technical Communication II for CSE & CPEG
+TO BE UPDATED
+```
 
 ### Spring
-
-
-### Summer
+```angular2html
+COMP4981    6   Final Year Project
+TO BE UPDATED
+```
 
 ---
 
