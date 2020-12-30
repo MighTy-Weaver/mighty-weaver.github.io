@@ -24,8 +24,6 @@ There is no doubt that each research opportunity has brought me different aspect
 
 * This project aims to bridge the gap between two knowledge graphs with different kinds of knowledge by the combination of a graph neural network algorithm and BERT model. Details of this work will be uploaded once allowed.
 
-**Remark: This work is leading to a publishable work, it will be updated once accepted.**
-
 ## 3. **An application of smart meter data: Identification of inefficient air-conditioners by XGBoost model and Shapely Additive Explanations**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Now)*
 
@@ -34,8 +32,6 @@ There is no doubt that each research opportunity has brought me different aspect
 * Build XGBoost models for 134 different datasets, do feature engineering, parameters tuning and cross-validation to increase the model accuracy by 30%. 
 * Implement an optimized SMOTE algorithm which helps solve the imbalance data distribution problem without marginalization.
 * Use Shapely Additive Explanation to interpret the 134 models, identify the relation behind and identify the inefficient air-conditioners between rooms.
-
-**Remark: This work is leading to a publishable work, it will be updated once accepted.**
 
 ## 4. **Web-Porting and Optimization of an outdated Terrain Toolkit** 
 ### *(Supervisor: [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/), HKUST, Jun. 2019 - Dec. 2019)*
