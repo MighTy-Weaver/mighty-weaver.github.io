@@ -23,6 +23,7 @@ There is no doubt that each research opportunity has brought me different aspect
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
 
 * To be updated soon
+* *Remark: The paper is published in Arxiv preprint and is under review at The Web Conference, 2021 (WWW2021)*
 
 ## 3. **An application of smart meter data: Identification of inefficient air-conditioners by XGBoost model and Shapely Additive Explanations**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Now)*
@@ -32,6 +33,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * Build XGBoost models for 134 different datasets, do feature engineering, parameters tuning and cross-validation to increase the model accuracy by 30%. 
 * Implement an optimized SMOTE algorithm which helps solve the imbalance data distribution problem without marginalization.
 * Use Shapely Additive Explanation to interpret the 134 models, identify the relation behind and identify the inefficient air-conditioners between rooms.
+* *Remark: The paper will be submitted to Applied Energy, 2021 Soon*
 
 ## 4. **Web-Porting and Optimization of an outdated Terrain Toolkit** 
 ### *(Supervisor: [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/), HKUST, Jun. 2019 - Dec. 2019)*
