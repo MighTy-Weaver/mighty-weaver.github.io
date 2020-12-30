@@ -19,10 +19,10 @@ There is no doubt that each research opportunity has brought me different aspect
 
 * This project aims to improve the accuracy of video action recognition by improving some state-of-the-art contrastive learning techniques, I have just started it since Dec. 2020, detail will be upload once achieved.
 
-## 2. **Bridging the Gap Between Two Knowledge Graphs**
+## 2. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
 
-* This project aims to bridge the gap between two knowledge graphs with different kinds of knowledge by the combination of a graph neural network algorithm and BERT model. Details of this work will be uploaded once allowed.
+* To be updated soon*
 
 ## 3. **An application of smart meter data: Identification of inefficient air-conditioners by XGBoost model and Shapely Additive Explanations**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Now)*
