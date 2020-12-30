@@ -14,8 +14,6 @@ author_profile: true
 
 [link to the paper](https://mighty-weaver.github.io/), [link to the code](https://mighty-weaver.github.io/)
 
----
-
 ## 2. TO BE UPDATED
 
 <div style="text-align: right"><i>(<b>Weiqi Wang</b>, Zixuan Zhou, Zhongming Lu)</i></div>
