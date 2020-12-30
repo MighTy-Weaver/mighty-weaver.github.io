@@ -20,6 +20,6 @@ Below is a list of my publications, they are sorted by release time.
 
 <div style="text-align: right"><i>(<b>Weiqi Wang</b>, Zixuan Zhou, Zhongming Lu)</i></div>
 
-### Under Review in ***Applied Energy, 2021***
+### To be submitted in ***Applied Energy, 2021***
 
 [link to the paper](https://mighty-weaver.github.io/), [link to the code](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
