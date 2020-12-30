@@ -12,7 +12,7 @@ There is no doubt that each research opportunity has brought me different aspect
 
 *Remarks:*
 - The researching projects below are listed by their starting time.
-- Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/publication).
+- Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/publications/).
 
 ## 1. **Contrastive-Learning Based Video Action Recognition**
 ### *(Supervisor: [Prof. Qifeng Chen](https://cqf.io/), HKUST, Dec. 2020 - Now)*
