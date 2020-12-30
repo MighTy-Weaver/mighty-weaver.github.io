@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Below is a list of my publications, they are sorted by release time.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### 1. ***DISCOS***: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge
+#### *(Tianqing Fang, Hongming Zhang, Weiqi Wang, Yangqiu Song, Bin He)*
+##### *Published in: Arxiv Preprint, 2020*
+Abstract:
+```angular2html
+Abstract:
+```
+[link to the paper]
