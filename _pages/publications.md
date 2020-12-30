@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Below is a list of my publications, they are sorted by release time.
-
 ## 1. ***DISCOS***: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge
 
 <div style="text-align: right"><i>(Tianqing Fang, Hongming Zhang, <b>Weiqi Wang</b>, Yangqiu Song, Bin He)</i></div>
@@ -15,6 +13,8 @@ Below is a list of my publications, they are sorted by release time.
 ### Under Review in *The Web Conference, 2021* **(WWW2021)**
 
 [link to the paper](https://mighty-weaver.github.io/), [link to the code](https://mighty-weaver.github.io/)
+
+---
 
 ## 2. TO BE UPDATED
 
