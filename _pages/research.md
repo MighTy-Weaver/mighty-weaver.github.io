@@ -22,8 +22,10 @@ There is no doubt that each research opportunity has brought me different aspect
 ## 2. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
 
-* To be updated soon
-* *Remark: The paper is published in Arxiv preprint and is under review at The Web Conference, 2021 (WWW2021)*
+* We propose an alternative commonsense knowledge acquisition framework DISCOS (from DIScourse to COmmonSense), which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources. 
+* Experiments demonstrate that we can successfully convert discourse knowledge over eventualities from ASER, a large-scale discourse knowledge graph, into inferential if-then commonsense knowledge defined in ATOMIC without any additional annotation effort. 
+* Further study suggests that DISCOS significantly outperforms previous supervised approaches in terms of novelty and diversity with comparable quality.
+* ***Remark: The paper is published in Arxiv preprint and is under review at The Web Conference, 2021 (WWW2021)***
 
 ## 3. **An application of smart meter data: Identification of inefficient air-conditioners by XGBoost model and Shapely Additive Explanations**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Now)*
@@ -33,7 +35,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * Build XGBoost models for 134 different datasets, do feature engineering, parameters tuning and cross-validation to increase the model accuracy by 30%. 
 * Implement an optimized SMOTE algorithm which helps solve the imbalance data distribution problem without marginalization.
 * Use Shapely Additive Explanation to interpret the 134 models, identify the relation behind and identify the inefficient air-conditioners between rooms.
-* *Remark: The paper will be submitted to Applied Energy, 2021 Soon*
+* ***Remark: The paper will be submitted to Applied Energy, 2021 Soon***
 
 ## 4. **Web-Porting and Optimization of an outdated Terrain Toolkit** 
 ### *(Supervisor: [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/), HKUST, Jun. 2019 - Dec. 2019)*
