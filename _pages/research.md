@@ -14,17 +14,17 @@ There is no doubt that each research opportunity has brought me different aspect
 - The researching projects below are listed by their starting time.
 - Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/publications/).
 
-## 0. **TO BE STARTED SOON**
+## 1. **TO BE STARTED SOON**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
 
 * This project is currently at initial phase, it will start soon.
 
-## 1. **Contrastive-Learning Based Video Action Recognition**
+## 2. **Contrastive-Learning Based Video Action Recognition**
 ### *(Supervisor: [Prof. Qifeng Chen](https://cqf.io/), HKUST, Dec. 2020 - Now)*
 
 * This project aims to improve the accuracy of video action recognition by improving some state-of-the-art contrastive learning techniques, I have just started it since Dec. 2020, detail will be upload once achieved.
 
-## 2. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
+## 3. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
 
 * We propose an alternative commonsense knowledge acquisition framework DISCOS (from DIScourse to COmmonSense), which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources. 
@@ -32,7 +32,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * Further study suggests that DISCOS significantly outperforms previous supervised approaches in terms of novelty and diversity with comparable quality.
 * ***Remark: The paper is published in Arxiv preprint and is under review at The Web Conference, 2021 (WWW2021)***
 
-## 3. **An application of smart meter data: Identification of inefficient air-conditioners by XGBoost model and Shapely Additive Explanations**
+## 4. **An application of smart meter data: Identification of inefficient air-conditioners by XGBoost model and Shapely Additive Explanations**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Now)*
 
 * Processed and Compiled over 1.5 million environmental and atmospheric data with data-analysis tools.
@@ -42,7 +42,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * Use Shapely Additive Explanation to interpret the 134 models, identify the relation behind and identify the inefficient air-conditioners between rooms.
 * ***Remark: The paper will be submitted to Applied Energy, 2021 Soon***
 
-## 4. **Web-Porting and Optimization of an outdated Terrain Toolkit** 
+## 5. **Web-Porting and Optimization of an outdated Terrain Toolkit** 
 ### *(Supervisor: [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/), HKUST, Jun. 2019 - Dec. 2019)*
 
 * Self-learnt some knowledge in HTML5 and PHP and JavaScript, port an outdated (Some OS not supported) program into a web-application.
