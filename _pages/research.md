@@ -14,6 +14,11 @@ There is no doubt that each research opportunity has brought me different aspect
 - The researching projects below are listed by their starting time.
 - Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/publications/).
 
+## 0. **TO BE STARTED SOON**
+### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
+
+* This project is currently at initial phase, it will start soon.
+
 ## 1. **Contrastive-Learning Based Video Action Recognition**
 ### *(Supervisor: [Prof. Qifeng Chen](https://cqf.io/), HKUST, Dec. 2020 - Now)*
 
