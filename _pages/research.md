@@ -27,9 +27,9 @@ There is no doubt that each research opportunity has brought me different aspect
 ## 3. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
 
-* We propose an alternative commonsense knowledge acquisition framework DISCOS (from DIScourse to COmmonSense), which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources. 
-* Experiments demonstrate that we can successfully convert discourse knowledge over eventualities from ASER, a large-scale discourse knowledge graph, into inferential if-then commonsense knowledge defined in ATOMIC without any additional annotation effort. 
-* Further study suggests that DISCOS significantly outperforms previous supervised approaches in terms of novelty and diversity with comparable quality.
+* We propose an alternative commonsense knowledge acquisition framework **DISCOS** *(from DIScourse to COmmonSense)*, which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources. 
+* Experiments demonstrate that we can successfully convert discourse knowledge over eventualities from [ASER](https://hkust-knowcomp.github.io/ASER/), a large-scale discourse knowledge graph, into inferential if-then commonsense knowledge defined in ATOMIC without any additional annotation effort. 
+* Further study suggests that **DISCOS** significantly outperforms previous supervised approaches in terms of novelty and diversity with comparable quality.
 * ***Remark: The paper is published in Arxiv preprint and is under review at The Web Conference, 2021 (WWW2021)***
 
 ## 4. **An application of smart meter data: Identification of inefficient air-conditioners by XGBoost model and Shapely Additive Explanations**
