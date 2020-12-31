@@ -33,7 +33,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * ***Remark: The paper is published in Arxiv preprint and is under review at The Web Conference, 2021 (WWW2021)***
 
 ## 4. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
-### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Now)*
+### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Jan. 2021)*
 
 * Processed and Compiled over 1.5 million environmental and atmospheric data with data-analysis tools.
 * Implement several machine-learning algorithms to predict the AC energy consumption with given data and select the one with higher accuracy (XGBoost), algorithms include SVM, LSTM, XGBoost, MLP.
