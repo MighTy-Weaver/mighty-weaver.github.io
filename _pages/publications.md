@@ -9,10 +9,10 @@ author_profile: true
 
 <div style="text-align: right"><i>(Tianqing Fang, Hongming Zhang, <b>Weiqi Wang</b>, Yangqiu Song, Bin He)</i></div>
 
-### *Published in: Arxiv Preprint, 2020*
+### *Published in: Arxiv Preprint*
 ### Under Review in *The Web Conference, 2021* **(WWW2021)**
 
-[link to the paper](https://mighty-weaver.github.io/), [link to the code](https://mighty-weaver.github.io/)
+[link to the paper](https://mighty-weaver.github.io/), [link to the code](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
 ## 2. TO BE UPDATED
 
