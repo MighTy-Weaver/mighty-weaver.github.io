@@ -32,7 +32,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * Further study suggests that **DISCOS** significantly outperforms previous supervised approaches in terms of novelty and diversity with comparable quality.
 * ***Remark: The paper is published in Arxiv preprint and is under review at The Web Conference, 2021 (WWW2021)***
 
-## 4. **An application of smart meter data: Identification of inefficient air-conditioners by XGBoost model and Shapely Additive Explanations**
+## 4. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Now)*
 
 * Processed and Compiled over 1.5 million environmental and atmospheric data with data-analysis tools.
