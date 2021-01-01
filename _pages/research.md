@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 There is no doubt that each research opportunity has brought me different aspects of harvest and growth.
-
 **I would like to thank all the professors and PhD/MPhil students for providing me with the research opportunities and hand-on experiences below.**
 
 *Remarks:*
@@ -17,7 +16,7 @@ There is no doubt that each research opportunity has brought me different aspect
 ## 1. **TO BE STARTED SOON**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
 
-* This project is currently at initial phase, it will start soon.
+* This project is currently at initial phase, it will be updated once confirmed.
 
 ## 2. **Contrastive-Learning Based Video Action Recognition**
 ### *(Supervisor: [Prof. Qifeng Chen](https://cqf.io/), HKUST, Dec. 2020 - Now)*
