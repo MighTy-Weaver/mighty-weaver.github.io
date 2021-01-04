@@ -43,9 +43,9 @@ Meanwhile, how to construct knowledge graphs that are rich in commonsense knowle
 
 - Bachelor Degree in [Computer Science](https://cse.ust.hk/) and [Mathematics](http://www.math.ust.hk/),  *Sep. 2018 --
   Now*
-- CGA: **3.905** / 4.300
+- CGA: **3.895** / 4.300
   
-  - First Major: *BSc in Computer Science* - CGA: **3.930** / 4.300
+  - First Major: *BSc in Computer Science* - CGA: **3.900** / 4.300
   - Second Major: *BSc in Mathematics* - CGA: **3.986** / 4.300
 
 **2. Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
