@@ -29,7 +29,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * We propose an alternative commonsense knowledge acquisition framework **DISCOS** *(from DIScourse to COmmonSense)*, which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources. 
 * Experiments demonstrate that we can successfully convert discourse knowledge over eventualities from [ASER](https://hkust-knowcomp.github.io/ASER/), a large-scale discourse knowledge graph, into inferential if-then commonsense knowledge defined in ATOMIC without any additional annotation effort. 
 * Further study suggests that **DISCOS** significantly outperforms previous supervised approaches in terms of novelty and diversity with comparable quality.
-* ***Remark: The paper is published in Arxiv preprint and is under review at The Web Conference, 2021 (WWW2021)***
+* ***Remark: The paper is published as Arxiv preprint and is under review at The Web Conference, 2021 (WWW2021)***
 
 ## 4. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Jan. 2021)*
