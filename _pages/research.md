@@ -13,15 +13,16 @@ There is no doubt that each research opportunity has brought me different aspect
 - The researching projects below are listed by their starting time.
 - Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/publications/).
 
-## 1. **TO BE STARTED SOON**
+## 1. **Story Generation**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
 
-* This project is currently at initial phase, it will be updated once confirmed.
+* Details of this research project will be made public in Mid-May.
 
 ## 2. **Contrastive-Learning Based Video Action Recognition**
 ### *(Supervisor: [Prof. Qifeng Chen](https://cqf.io/), HKUST, Dec. 2020 - Now)*
 
-* This project aims to improve the accuracy of video action recognition by improving some state-of-the-art contrastive learning techniques, I have just started it since Dec. 2020, detail will be upload once achieved.
+* This project aims to improve the accuracy of video action recognition by improving some state-of-the-art contrastive learning techniques.
+* Details of this project will be made public in the future.
 
 ## 3. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
@@ -29,7 +30,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * We propose an alternative commonsense knowledge acquisition framework **DISCOS** *(from DIScourse to COmmonSense)*, which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources. 
 * Experiments demonstrate that we can successfully convert discourse knowledge over eventualities from [ASER](https://hkust-knowcomp.github.io/ASER/), a large-scale discourse knowledge graph, into inferential if-then commonsense knowledge defined in ATOMIC without any additional annotation effort. 
 * Further study suggests that **DISCOS** significantly outperforms previous supervised approaches in terms of novelty and diversity with comparable quality.
-* ***Remark: The paper is published as Arxiv preprint and is under review at The Web Conference, 2021 (WWW2021)***
+* ***Remark: The paper is under review at The Web Conference, 2021 (WWW2021)***
 
 ## 4. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Jan. 2021)*
@@ -39,7 +40,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * Build XGBoost models for 134 different datasets, do feature engineering, parameters tuning and cross-validation to increase the model accuracy by 30%. 
 * Implement an optimized SMOTE algorithm which helps solve the imbalance data distribution problem without marginalization.
 * Use Shapely Additive Explanation to interpret the 134 models, identify the relation behind and identify the inefficient air-conditioners between rooms.
-* ***Remark: The paper will be submitted to Applied Energy, 2021 Soon***
+* ***Remark: The paper is under review at Applied Energy***
 
 ## 5. **Web-Porting and Optimization of an outdated Terrain Toolkit** 
 ### *(Supervisor: [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/), HKUST, Jun. 2019 - Dec. 2019)*
