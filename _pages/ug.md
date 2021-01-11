@@ -89,6 +89,7 @@ TO BE UPDATED
 ### Spring
 ```angular2html
 COMP4981    6   Final Year Project
+LANG1118    3   Enhanced Chinese Communication
 TO BE UPDATED
 ```
 
