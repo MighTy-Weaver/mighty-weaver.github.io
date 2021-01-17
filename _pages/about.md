@@ -34,7 +34,6 @@ With the development of graph algorithms, some graph neural networks demonstrate
 Meanwhile, how to construct knowledge graphs that are rich in commonsense knowledge?
 
 ### **Beside the above topics, I'm also actively participating researches in:**
-* Computer Vision with a specific on video action recognition
 * Machine learning based data mining with the combination of other field's knowledge such as environmental and atmospheric data.
 
 ## Education
