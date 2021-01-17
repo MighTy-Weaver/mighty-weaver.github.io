@@ -13,16 +13,15 @@ There is no doubt that each research opportunity has brought me different aspect
 - The researching projects below are listed by their starting time.
 - Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/publications/).
 
-## 1. **Story Generation**
+## 1. **NLP Related Projects**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
 
-* Details of this research project will be made public in Mid-May.
+* Details of this research project will be made public in the future once archived.
 
-## 2. **Contrastive-Learning Based Video Action Recognition**
-### *(Supervisor: [Prof. Qifeng Chen](https://cqf.io/), HKUST, Dec. 2020 - Now)*
+## 2. **NLP Related Projects**
+### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
 
-* This project aims to improve the accuracy of video action recognition by improving some state-of-the-art contrastive learning techniques.
-* Details of this project will be made public in the future.
+* Details of this research project will be made public in the future once archived.
 
 ## 3. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
@@ -30,6 +29,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * We propose an alternative commonsense knowledge acquisition framework **DISCOS** *(from DIScourse to COmmonSense)*, which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources. 
 * Experiments demonstrate that we can successfully convert discourse knowledge over eventualities from [ASER](https://hkust-knowcomp.github.io/ASER/), a large-scale discourse knowledge graph, into inferential if-then commonsense knowledge defined in ATOMIC without any additional annotation effort. 
 * Further study suggests that **DISCOS** significantly outperforms previous supervised approaches in terms of novelty and diversity with comparable quality.
+* Accepted by *The Web Conference, 2021 (WWW2021)*.
 
 ## 4. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Jan. 2021)*
