@@ -19,7 +19,6 @@ CHEM1004    3   Chemistry in Everyday Life
 ELEC1100    4   Introduction to Electro-Robot Design
 LANG1002S   3   English for University Studies I
 ```
-
 ### Spring  
 ```angular2html
 COMP2011    4   Programming with C++
@@ -76,8 +75,6 @@ COMP4901K   3   Machine Learning in Natural Language Processing
 TO BE UPDATED
 ```
 ---
-
-
 ## UG Year 4
 ### Fall
 ```angular2html
@@ -85,7 +82,6 @@ COMP4981    6   Final Year Project
 LANG4030    3   Technical Communication II for CSE & CPEG
 TO BE UPDATED
 ```
-
 ### Spring
 ```angular2html
 COMP4981    6   Final Year Project
