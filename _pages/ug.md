@@ -10,7 +10,7 @@ This is the course history during my undergraduate study in the Hong Kong Univer
 
 Below are displayed in the format of
 `Course Code + Number of Credits + Course Name`
-## UG Year 1  
+## UG Year 1    `16 + 20 + 6 = 36 Credits`
 ### Fall   
 ```angular2html
 COMP1022P   3   Introduction to Computing with Java
@@ -35,7 +35,7 @@ COMP1029P   1   Python Programming Bridge Course
 UROP1100X   1   Undergraduate Research Opportunities Series I - I
 ```
 ---
-## UG Year 2 
+## UG Year 2    `20 + 21 + 7 = 48 Credits`
 ### Fall 
 ```angular2html
 COMP2012    4   OOP and Data Structures
@@ -61,7 +61,7 @@ SOSC1980    3   Discovering Mind and Behaviors
 UROP1000    0   Undergraduate Research Opportunities Series II
 ```
 ---
-## UG Year 3 
+## UG Year 3    `16 + 12 = 28 Credits`
 ### Fall 
 ```angular2html
 COMP3111    4   Software Engineering
@@ -72,23 +72,26 @@ COMP4901K   3   Machine Learning in Natural Language Processing
 ```
 ### Spring
 ```angular2html
-TO BE UPDATED
+COMP4211    3   Machine Learning
+MATH3322    3   Matrix Computation
+MATH3425    3   Stochastic Modelling
+MATH4321    3   Game Theory
 ```
 ---
-## UG Year 4
+## UG Year 4    `12 + 15 = 27 Credits`
 ### Fall
 ```angular2html
-COMP4981    6   Final Year Project
+COMP4981H   6   Final Year Thesis
+MATH4432    3   Statistical Machine Learning
 LANG4030    3   Technical Communication II for CSE & CPEG
-TO BE UPDATED
 ```
 ### Spring
 ```angular2html
-COMP4981    6   Final Year Project
+COMP4981H   6   Final Year Thesis
 LANG1118    3   Enhanced Chinese Communication
-TO BE UPDATED
+HUMAxxxx    3   HUMA Common Core Course
+HUMAxxxx    3   HUMA School-Sponsored Common Core Course
 ```
-
 ---
 
 ## Open-Sourced Course Assignment/Project Repository:
