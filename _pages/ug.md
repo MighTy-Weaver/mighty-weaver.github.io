@@ -90,7 +90,7 @@ HUMA2440    3   20th-Century China in Documentary Films
 COMP4981H   6   Final Year Thesis
 LANG4030    3   Technical Communication II for CSE & CPEG
 LANG1118    3   Enhanced Chinese Communication
-HUMAxxxx    3   HUMA School-Sponsored Common Core Course
+HUMA1000    3   HUMA School-Sponsored Common Core Course
 TO BE UPDATED
 ```
 ---
