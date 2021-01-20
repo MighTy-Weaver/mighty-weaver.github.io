@@ -11,7 +11,7 @@ This is the course history during my undergraduate study in the Hong Kong Univer
 Below are displayed in the format of
 `Course Code + Number of Credits + Course Name`
 ## UG Year 1    
-##### 16 + 20 + 6 = 36 Credits
+##### 16 + 20 + 6 = 42 Credits
 ### Fall   
 ```angular2html
 COMP1022P   3   Introduction to Computing with Java
