@@ -82,10 +82,11 @@ MATH4321    3   Game Theory
 ```
 ---
 ## UG Year 4
-##### 12 + 15 = 27 Credits
+##### 15 + 15 = 30 Credits
 ### Fall
 ```angular2html
 COMP4981H   6   Final Year Thesis
+COMP4621    3   Computer Communication Networks I
 MATH4432    3   Statistical Machine Learning
 LANG4030    3   Technical Communication II for CSE & CPEG
 ```
