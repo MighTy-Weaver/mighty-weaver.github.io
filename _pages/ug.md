@@ -75,20 +75,19 @@ COMP4901K   3   Machine Learning in Natural Language Processing
 ```
 ### Spring
 ```angular2html
-COMP4211    3   Machine Learning
 MATH3322    3   Matrix Computation
 MATH3425    3   Stochastic Modelling
 MATH4321    3   Game Theory
+MATH4336    3   Introduction to Mathematics of Image Processing
 ```
 ---
 ## UG Year 4
-##### 15 + 15 = 30 Credits
+##### 9 + 15 = 24 Credits
 ### Fall
 ```angular2html
 COMP4981H   6   Final Year Thesis
-COMP4621    3   Computer Communication Networks I
-MATH4432    3   Statistical Machine Learning
 LANG4030    3   Technical Communication II for CSE & CPEG
+TO BE UPDATED
 ```
 ### Spring
 ```angular2html
@@ -96,6 +95,7 @@ COMP4981H   6   Final Year Thesis
 LANG1118    3   Enhanced Chinese Communication
 HUMAxxxx    3   HUMA Common Core Course
 HUMAxxxx    3   HUMA School-Sponsored Common Core Course
+TO BE UPDATED
 ```
 ---
 
