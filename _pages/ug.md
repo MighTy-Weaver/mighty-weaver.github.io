@@ -64,7 +64,7 @@ UROP1000    0   Undergraduate Research Opportunities Series II
 ```
 ---
 ## UG Year 3
-##### 16 + 12 + 3 = 31 Credits
+##### 16 + 12 = 28 Credits
 ### Fall 
 ```angular2html
 COMP3111    4   Software Engineering
@@ -75,14 +75,10 @@ COMP4901K   3   Machine Learning in Natural Language Processing
 ```
 ### Spring
 ```angular2html
-MATH3322    3   Matrix Computation
+MATH3423    3   Statistical Inference
 MATH3425    3   Stochastic Modelling
 MATH4321    3   Game Theory
 MATH4336    3   Introduction to Mathematics of Image Processing
-```
-### Summer
-```angular2html
-HUMA2440    3   20th-Century China in Documentary Films
 ```
 ---
 ## UG Year 4
@@ -91,7 +87,7 @@ COMP4981H   6   Final Year Thesis
 LANG4030    3   Technical Communication II for CSE & CPEG
 LANG1118    3   Enhanced Chinese Communication
 HUMA1000    3   HUMA School-Sponsored Common Core Course
-TO BE UPDATED
+HUMAxxxx    3   HUMA Common Core Course
 ```
 ---
 
