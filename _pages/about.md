@@ -51,6 +51,10 @@ Meanwhile, how to construct knowledge graphs that are rich in commonsense knowle
 
 - High School Diploma in Science, *Sep. 2015 -- Jun. 2018*
 
+## Awards
+
+* **Dean's List for the School of Engineering** in `Fall 2018`,`Fall 2019`,`Fall 2020`
+* **University's Scholarship Scheme for Continuing Undergraduate Students** in `2019-2020`,`2020-2021` 
 
 ## Contact me!
 
