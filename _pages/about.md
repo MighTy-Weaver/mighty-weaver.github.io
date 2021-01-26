@@ -15,7 +15,7 @@ the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pur
 Science and Mathematics. 
 
 Currently, It's my great honor to work under the supervision of [Professor Song,Yangqiu](https://www.cse.ust.hk/~yqsong/) at the Knowledge Computation Group in HKUST. At the same time, I greatly appreciate the help offered by my best working mentor/partner: 
-[Mr. Tianqing Fang](https://github.com/tqfang) and the advisor when I was a junior in the NLP field: [Mr. Jiefu Ou](https://github.com/JefferyO). 
+[Mr. Tianqing Fang](https://github.com/tqfang) and my best friend in NLP: [Mr. Jiefu Ou](https://github.com/JefferyO). 
 
 ## Research Interest
 

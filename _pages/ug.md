@@ -82,6 +82,7 @@ MATH4336    3   Introduction to Mathematics of Image Processing
 ```
 ---
 ## UG Year 4
+##### 18 Credits
 ```angular2html
 COMP4981H   6   Final Year Thesis
 LANG4030    3   Technical Communication II for CSE & CPEG
