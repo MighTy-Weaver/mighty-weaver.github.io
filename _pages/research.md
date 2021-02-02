@@ -13,12 +13,17 @@ There is no doubt that each research opportunity has brought me different aspect
 - The researching projects below are listed by their starting time.
 - Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/publications/).
 
-## 1. **NLP Related Projects**
+## 1. **Validation of the Data-driven Smart Assessment of Room AC Efficiency based on various Deep Learning algorithms**
+### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Feb. 2021 - Now)*
+
+* Detail of this project will be released in the Summer of 2021.
+
+## 2. **NLP Related Projects**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
 
 * Details of this research project will be made public in April/May.
 
-## 2. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
+## 3. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
 
 * We propose an alternative commonsense knowledge acquisition framework **DISCOS** *(from DIScourse to COmmonSense)*, which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources. 
@@ -26,7 +31,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * Further study suggests that **DISCOS** significantly outperforms previous supervised approaches in terms of novelty and diversity with comparable quality.
 * Accepted by *The Web Conference, 2021 (WWW2021)*.
 
-## 3. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
+## 4. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Jan. 2021)*
 
 * Processed and Compiled over 1.5 million environmental and atmospheric data with data-analysis tools.
@@ -35,7 +40,7 @@ There is no doubt that each research opportunity has brought me different aspect
 * Implement an optimized SMOTE algorithm which helps solve the imbalance data distribution problem without marginalization.
 * Use Shapely Additive Explanation to interpret the 134 models, identify the relation behind and identify the inefficient air-conditioners between rooms.
 
-## 4. **Web-Porting and Optimization of an outdated Terrain Toolkit** 
+## 5. **Web-Porting and Optimization of an outdated Terrain Toolkit** 
 ### *(Supervisor: [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/), HKUST, Jun. 2019 - Dec. 2019)*
 
 * Self-learnt some knowledge in HTML5 and PHP and JavaScript, port an outdated (Some OS not supported) program into a web-application.
