@@ -77,8 +77,8 @@ COMP4901K   3   Machine Learning in Natural Language Processing
 ```angular2html
 MATH3423    3   Statistical Inference
 MATH3425    3   Stochastic Modelling
+MATH4052    3   Partial Differential Equations
 MATH4321    3   Game Theory
-MATH4336    3   Introduction to Mathematics of Image Processing
 ```
 ---
 ## UG Year 4
