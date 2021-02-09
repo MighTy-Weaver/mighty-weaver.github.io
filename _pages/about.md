@@ -40,7 +40,7 @@ Meanwhile, how to construct knowledge graphs that are rich in commonsense knowle
 
 **1. Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Bachelor Degree in [Computer Science](https://cse.ust.hk/) and [Mathematics](http://www.math.ust.hk/),  *Sep. 2018 --
+- Bachelor Degree in [Computer Science](https://www.cse.ust.hk/) and [Mathematics](https://www.math.hkust.edu.hk/),  *Sep. 2018 --
   Now*
 - CGA: **3.895** / 4.300
   
