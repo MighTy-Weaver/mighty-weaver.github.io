@@ -61,4 +61,4 @@ Meanwhile, how to construct knowledge graphs that are rich in commonsense knowle
 You can reach me at `1874240442 [at] qq [dot] com`, this email will be active all the time.
 
 ## Sitemap
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DE2rC1_XQk9C3olzhHZGibG_eT8m4xfWcetZ15Zm4mQ"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DE2rC1_XQk9C3olzhHZGibG_eT8m4xfWcetZ15Zm4mQ&cl=ffffff&w=a"></script>
