@@ -34,11 +34,11 @@ There is no doubt that each research opportunity has brought me different aspect
 ## 4. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Jan. 2021)*
 
-* Processed and Compiled over 1.5 million environmental and atmospheric data with data-analysis tools.
-* Implement several machine-learning algorithms to predict the AC energy consumption with given data and select the one with higher accuracy (XGBoost), algorithms include SVM, LSTM, XGBoost, MLP.
-* Build XGBoost models for 134 different datasets, do feature engineering, parameters tuning and cross-validation to increase the model accuracy by 30%. 
-* Implement an optimized SMOTE algorithm which helps solve the imbalance data distribution problem without marginalization.
-* Use Shapely Additive Explanation to interpret the 134 models, identify the relation behind and identify the inefficient air-conditioners between rooms.
+* We present a *machine learning approach* to identify non-inverter window air conditioners with *low efficiency* using climate data and smart meter data from the university student hall rooms.
+* First, we applied the XGBoost method to estimate the hourly electricity consumption of an air conditioner with input features including the number of people in the room, outdoor weather, and the operation of air conditioners in previous hours.
+* Second, we examined the impact of outdoor temperature on the XGBoost prediction of hourly electricity consumption of air conditioners using the Shapley Additive Explanation method.
+* Our result shows that the accuracy of XGBoost is 50~70% in estimating the hourly electricity consumption within a 10% error deviation range from the actual data.
+* We conclude that the AC is highly efficient if the predicted hourly electricity consumption increases as the outdoor temperature rises. In contrast, the AC efficiency is rated low-efficiency if the change of outdoor temperature does not affect the prediction of the hourly electricity consumption. This conclusion is further verified by the AC replacement record.
 
 ## 5. **Web-Porting and Optimization of an outdated Terrain Toolkit** 
 ### *(Supervisor: [Prof. Raymond Chi-Wing Wong](https://www.cse.ust.hk/~raywong/), HKUST, Jun. 2019 - Dec. 2019)*
