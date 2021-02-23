@@ -13,7 +13,7 @@ There is no doubt that each research opportunity has brought me different aspect
 - The researching projects below are listed by their starting time.
 - Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/publications/).
 
-## 1. **Validation of the Data-driven Smart Assessment of Room AC Efficiency based on various Deep Learning algorithms**
+## 1. **EVMT-Data Mining Related Projects**
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Feb. 2021 - Now)*
 
 * Detail of this project will be released in the Summer of 2021.
@@ -21,7 +21,7 @@ There is no doubt that each research opportunity has brought me different aspect
 ## 2. **NLP Related Projects**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
 
-* Details of this research project will be made public in April/May.
+* Details of this research project will be made public in April/May once archived.
 
 ## 3. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
