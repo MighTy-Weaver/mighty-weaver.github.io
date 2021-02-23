@@ -60,5 +60,7 @@ Meanwhile, how to construct knowledge graphs that are rich in commonsense knowle
 
 You can reach me at `1874240442 [at] qq [dot] com`, this email will be active all the time.
 
+My current address is *Room 3007, Cheng Yu Tung Building, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China.* 
+
 ## Sitemap
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DE2rC1_XQk9C3olzhHZGibG_eT8m4xfWcetZ15Zm4mQ&cl=ffffff&w=a"></script>
