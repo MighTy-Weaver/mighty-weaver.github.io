@@ -15,7 +15,7 @@ author_profile: true
 
 ### Published in the Proceedings of ***The Web Conference, 2021 (WWW2021)*** (357/1736 = 20.56%).
 
-[link to the paper](https://arxiv.org/abs/2101.00154), [link to the code](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
+[link to the paper](https://arxiv.org/abs/2101.00154), [link to the code](https://github.com/MighTy-Weaver/DISCOS-commonsense)
 
 
 ## 2. Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy
