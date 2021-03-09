@@ -16,7 +16,7 @@ There is no doubt that each research opportunity has brought me different aspect
 ## 1. **NLP Related Projects**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
 
-* Details of this research project will be made public after EMNLP2021 submission.
+* Details of this research project will be made public after Arxiv submission.
 
 ## 2. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
