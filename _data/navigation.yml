@@ -29,8 +29,8 @@ main:
   - title: "UG Courses"
     url: /course/
 
-  - title: "CV"
-    url: /files/WeiqiWang_CV_Web_Version.pdf
-
   - title: "Miscellaneous"
     url: /miscellaneous/
+
+  - title: "CV"
+    url: /files/WeiqiWang_CV_Web_Version.pdf
