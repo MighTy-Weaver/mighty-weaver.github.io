@@ -80,6 +80,10 @@ MATH3425    3   Stochastic Modelling
 MATH4052    3   Partial Differential Equations
 MATH4321    3   Game Theory
 ```
+### Summer
+```angular2html
+UROP1100    1   Undergraduate Research Opportunities Series III
+``` 
 ---
 ## UG Year 4
 ##### 18 Credits
