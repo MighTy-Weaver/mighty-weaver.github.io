@@ -64,7 +64,7 @@ UROP1000    0   Undergraduate Research Opportunities Series II
 ```
 ---
 ## UG Year 3
-##### 16 + 12 = 28 Credits
+##### 16 + 12 + 1 = 29 Credits
 ### Fall 
 ```angular2html
 COMP3111    4   Software Engineering
