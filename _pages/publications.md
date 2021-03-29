@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 *Remarks:*
-- The publications below are listed by their publishing time.
+- The publications below are listed by their finishing time.
 - \* indicates equal contribution.
 
 ## 1. ***DISCOS***: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge
