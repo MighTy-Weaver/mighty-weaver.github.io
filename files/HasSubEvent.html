@@ -25,41 +25,43 @@
 
                         <p style=font-size: 15px">Hi there! Welcome and thank you for participating this survey!</p>
 
-                        <p><strong>In this survey, your task is to decide how each <span style="color: red">HasSubEvent Commonsense Knowledge Tuple</span>
+                        <p><strong>In this survey, your task is to decide how each <span style="color: red">Commonsense Knowledge Tuple</span>
                             is likely to happen.</strong> Each Commonsense Knowledge is presented in the form of <span
-                                style="font-family: 'Cambria Math'">(head, HasSubEvent, tail)</span> tuple.</p>
+                                style="font-family: 'Cambria Math'">([head], [relation], [tail])</span>, where each
+                            element in the triple is a sentence.</p>
 
-                        <p>The definition of <span style="font-family: 'Cambria Math'">(head, HasSubEvent, tail)</span>
+                        <p>The definition of <span
+                                style="font-family: 'Cambria Math'">([head], HasSubEvent, [tail])</span>
                             is given by: <strong style="color: red"><span
-                                    style="font-family: 'Cambria Math'">[head]</span>, includes the event / action <span
-                                    style="font-family: 'Cambria Math'">[tail]</span>.</strong>
+                                    style="font-family: 'Cambria Math'">[head]</span> (a sentence), includes the event /
+                                action
+                                <span style="font-family: 'Cambria Math'">[tail]</span> (a sentence).</strong>
                         </p>
 
-                        <p><strong>Below is a positive example:</strong></p>
-                        <p style="font-family: 'Cambria Math'">(PersonX runs out of steam, <strong>HasSubEvent</strong>,
+                        <p><br></p>
+                        <p><strong>Below is considered as a true [includes the event / action] assertion:</strong></p>
+                        <p style="font-family: 'Cambria Math'">(PersonX runs out of steam, <strong>includes the event /
+                            action</strong>,
                             become tired)</p>
 
                         <p>This is always happening because at the same time of running out of steam, PersonX will also
-                            become tired. Thus this is a always happening event. On the contrast, </p>
+                            become tired. In other words, become tired is included when running out of steam. Thus this
+                            is <strong>a always happening</strong> event.
+                        </p>
 
-                        <p><strong>Below is a negative example:</strong></p>
-                        <p style="font-family: 'Cambria Math'">(PersonX win a match, <strong>HasSubEvent</strong>,
-                            PersonX get drunk in the bar)</p>
+                        <p><strong>Below is a false assertion:</strong></p>
+                        <p style="font-family: 'Cambria Math'">(PersonX win a match, <strong>includes the event /
+                            action</strong>, PersonX get drunk in the bar)</p>
 
                         <p>This is invalid because get drunk in the bar can't be included when PersonX is winning a
                             match, thus it's an invalid knowledge.</p>
 
                         <p><br></p>
-                        <p style="font-size: 20px;text-align: center; color: red"><strong>For every question below, you
-                            should grade the knowledge provided in each question with the instruction above, and the
-                            hints below:</strong></p>
+                        <p><strong>Additional Hints:</strong></p>
                         <p>1. The knowledge is machine-generated, thus please ignore grammar mistakes, focus ONLY on the
                             main events in both head and tail.</p>
-                        <p>2. If the tuple is meaningful in the way that it can happen in any circumstance, then it is
-                            plausible. Otherwise it's not.</p>
-                        <p>3. The Human Readable Text in each question is for reference only, it might not be suitable
-                            for every knowledge tuple, please always stick to the tuple.</p>
-                        <p>4. The definition of choices are:</p>
+                        <p>2. <strong><span style="color: red;font-size: 18px">You should grade the tuples with the choices defined below:</span></strong>
+                        </p>
                         <table>
                             <thead>
                             <tr>
@@ -93,7 +95,7 @@
                         <crowd-checkbox name="ReadInstruction" required><span style="color: red;">I declare that I've
                             read the instructions carefully. Failing to do so may cause a rejection.</span>
                         </crowd-checkbox>
-                        <p>For any questions or comments, feel free to drop me an email!</p>
+                        <p>For any questions, feel free to drop us an email!</p>
                     </div>
                 </div>
             </div>
@@ -108,9 +110,7 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 1</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 17px"><strong>Knowledge Tuple: </strong>(${q1_head}, HasSubEvent,
-                            ${q1_tail})</p>
-                        <p style="font-size: 15px"><strong>Human Readable Text (For Reference Only): </strong>${q1_head},
+                        <p style="font-size: 17px"><strong>Candidate commonsense assertion: </strong>${q1_head},
                             includes the event / action ${q1_tail}</p>
                         <div class="radio"><label><input name="q1" required=""
                                                          type="radio" value="0"/>Always / Often </label></div>
@@ -125,9 +125,7 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 2</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 17px"><strong>Knowledge Tuple: </strong>(${q2_head}, HasSubEvent,
-                            ${q2_tail})</p>
-                        <p style="font-size: 15px"><strong>Human Readable Text (For Reference Only): </strong>${q2_head},
+                        <p style="font-size: 17px"><strong>Candidate commonsense assertion: </strong>${q2_head},
                             includes the event / action ${q2_tail}</p>
                         <div class="radio"><label><input name="q2" required=""
                                                          type="radio" value="0"/>Always / Often </label></div>
@@ -142,9 +140,7 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 3</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 17px"><strong>Knowledge Tuple: </strong>(${q3_head}, HasSubEvent,
-                            ${q3_tail})</p>
-                        <p style="font-size: 15px"><strong>Human Readable Text (For Reference Only): </strong>${q3_head},
+                        <p style="font-size: 17px"><strong>Candidate commonsense assertion: </strong>${q3_head},
                             includes the event / action ${q3_tail}</p>
                         <div class="radio"><label><input name="q3" required=""
                                                          type="radio" value="0"/>Always / Often </label></div>
@@ -159,9 +155,7 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 4</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 17px"><strong>Knowledge Tuple: </strong>(${q4_head}, HasSubEvent,
-                            ${q4_tail})</p>
-                        <p style="font-size: 15px"><strong>Human Readable Text (For Reference Only): </strong>${q4_head},
+                        <p style="font-size: 17px"><strong>Candidate commonsense assertion: </strong>${q4_head},
                             includes the event / action ${q4_tail}</p>
                         <div class="radio"><label><input name="q4" required=""
                                                          type="radio" value="0"/>Always / Often </label></div>
@@ -176,9 +170,7 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 5</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 17px"><strong>Knowledge Tuple: </strong>(${q5_head}, HasSubEvent,
-                            ${q5_tail})</p>
-                        <p style="font-size: 15px"><strong>Human Readable Text (For Reference Only): </strong>${q5_head},
+                        <p style="font-size: 17px"><strong>Candidate commonsense assertion: </strong>${q5_head},
                             includes the event / action ${q5_tail}</p>
                         <div class="radio"><label><input name="q5" required=""
                                                          type="radio" value="0"/>Always / Often </label></div>

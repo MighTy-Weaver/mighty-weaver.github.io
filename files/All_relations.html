@@ -24,7 +24,8 @@
                             for participating this survey!</p>
                         <p><strong>In this survey, your task is to decide whether each <span style="color: red">Commonsense Knowledge Tuple</span>
                             is palusible or not.</strong> Each Commonsense Knowledge is presented in the form of <span
-                                style="font-family: 'Cambria Math'">(head, relation, tail)</span> tuple.</p>
+                                style="font-family: 'Cambria Math'">([head], [relation], [tail])</span>, where each
+                            element in the triple is a sentence.
                         <p><strong>Below are some PLAUSIBLE examples:</strong></p>
                         <p style="font-family: 'Cambria Math'">(PersonX go to play the match, <strong>isBefore</strong>,
                             PersonX win the match)</p>
@@ -61,93 +62,93 @@
                             </thead>
                             <tbody>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>oEffect</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>oEffect</strong>, [tail])</span>&nbsp;
                                 </td>
-                                <td>&nbsp;[head], as a result, PersonY or others will [tail]&nbsp;</td>
+                                <td>&nbsp;[head], then, PersonY or others will [tail]&nbsp;</td>
                             </tr>
                             <tr>
                                 <td>&nbsp;<span
-                                        style="font-family: 'Cambria Math'">(head, <strong>xEffect</strong>, tail)</span>&nbsp;
+                                        style="font-family: 'Cambria Math'">([head], <strong>xEffect</strong>, [tail])</span>&nbsp;
                                 </td>
-                                <td>&nbsp;[head], as a result, PersonX will [tail]&nbsp;</td>
+                                <td>&nbsp;[head], then, PersonX will [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>gEffect</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>gEffect</strong>, [tail])</span>&nbsp;
                                 </td>
-                                <td>&nbsp;[head], as a result, (any) Others will [tail]&nbsp;</td>
+                                <td>&nbsp;[head], then, others (things or people) will [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>oWant</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>oWant</strong>, [tail])</span>&nbsp;
                                 </td>
-                                <td>&nbsp;[head], as a result, PersonY or others want [tail]&nbsp;</td>
+                                <td>&nbsp;[head], then, PersonY or others want [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>xWant</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>xWant</strong>, [tail])</span>&nbsp;
                                 </td>
-                                <td>&nbsp;[head], as a result, PersonX want [tail]&nbsp;</td>
+                                <td>&nbsp;[head], then, PersonX want [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>gWant</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>gWant</strong>, [tail])</span>&nbsp;
                                 </td>
-                                <td>&nbsp;[head], as a result, (any) Others want [tail]&nbsp;</td>
+                                <td>&nbsp;[head], then, others (things or people) want [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>oReact</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>oReact</strong>, [tail])</span>&nbsp;
                                 </td>
-                                <td>&nbsp;[head], as a result, PersonY or others feels [tail]&nbsp;</td>
+                                <td>&nbsp;[head], then, PersonY or others feels [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>xReact</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>xReact</strong>, [tail])</span>&nbsp;
                                 </td>
-                                <td>&nbsp;[head], as a result, PersonX feels [tail]&nbsp;</td>
+                                <td>&nbsp;[head], then, PersonX feels [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>gReact</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>gReact</strong>, [tail])</span>&nbsp;
                                 </td>
-                                <td>&nbsp;[head], as a result, (any) Others feels [tail]&nbsp;</td>
+                                <td>&nbsp;[head], then, others (things or people) feels [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>xAttr</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>xAttr</strong>, [tail])</span>&nbsp;
                                 </td>
                                 <td>&nbsp;[head] is seen as [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>xNeed</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>xNeed</strong>, [tail])</span>&nbsp;
                                 </td>
                                 <td>&nbsp;[head], but before, PersonX needed [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>xIntent</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>xIntent</strong>, [tail])</span>&nbsp;
                                 </td>
                                 <td>&nbsp;[head] because PersonX wanted [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>isBefore</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>isBefore</strong>, [tail])</span>&nbsp;
                                 </td>
                                 <td>&nbsp;[head] happens before [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>isAfter</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>isAfter</strong>, [tail])</span>&nbsp;
                                 </td>
                                 <td>&nbsp;[head] happens after [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>HindererBy</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>HindererBy</strong>, [tail])</span>&nbsp;
                                 </td>
                                 <td>&nbsp;[head] can be hindered by [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>Causes</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>Causes</strong>, [tail])</span>&nbsp;
                                 </td>
                                 <td>&nbsp;[head] causes [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>xReason</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>xReason</strong>, [tail])</span>&nbsp;
                                 </td>
                                 <td>&nbsp;[head] because [tail]&nbsp;</td>
                             </tr>
                             <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">(head, <strong>HasSubEvent</strong>, tail)</span>&nbsp;
+                                <td>&nbsp;<span style="font-family: 'Cambria Math'">([head], <strong>HasSubEvent</strong>, [tail])</span>&nbsp;
                                 </td>
                                 <td>&nbsp;[head] includes the event/action [tail]&nbsp;</td>
                             </tr>
@@ -171,7 +172,7 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 1</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 17px"><strong>Knowledge Tuple: </strong>(${q1_head}, ${q1_rela},
+                        <p style="font-size: 17px"><strong>Tuple: </strong>(${q1_head}, ${q1_rela},
                             ${q1_tail})</p>
                         <div class="radio"><label><input name="q1" required=""
                                                          type="radio" value="0"/>Plausible </label></div>
@@ -182,7 +183,7 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 2</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 17px"><strong>Knowledge Tuple: </strong>(${q2_head}, ${q2_rela},
+                        <p style="font-size: 17px"><strong>Tuple: </strong>(${q2_head}, ${q2_rela},
                             ${q2_tail})</p>
                         <div class="radio"><label><input name="q2" required=""
                                                          type="radio" value="0"/>Plausible </label></div>
@@ -193,7 +194,7 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 3</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 17px"><strong>Knowledge Tuple: </strong>(${q3_head}, ${q3_rela},
+                        <p style="font-size: 17px"><strong>Tuple: </strong>(${q3_head}, ${q3_rela},
                             ${q3_tail})</p>
                         <div class="radio"><label><input name="q3" required=""
                                                          type="radio" value="0"/>Plausible </label></div>
@@ -204,7 +205,7 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 4</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 17px"><strong>Knowledge Tuple: </strong>(${q4_head}, ${q4_rela},
+                        <p style="font-size: 17px"><strong>Tuple: </strong>(${q4_head}, ${q4_rela},
                             ${q4_tail})</p>
                         <div class="radio"><label><input name="q4" required=""
                                                          type="radio" value="0"/>Plausible </label></div>
@@ -215,7 +216,7 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 5</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 17px"><strong>Knowledge Tuple: </strong>(${q5_head}, ${q5_rela},
+                        <p style="font-size: 17px"><strong>Tuple: </strong>(${q5_head}, ${q5_rela},
                             ${q5_tail})</p>
                         <div class="radio"><label><input name="q5" required=""
                                                          type="radio" value="0"/>Plausible </label></div>
