@@ -88,7 +88,7 @@ UROP1100    1   Undergraduate Research Opportunities Series III
 ## UG Year 4
 ##### 18 Credits
 ```angular2html
-COMP4981H   6   Final Year Thesis
+COMP4981H   6   Final Year Thesis -- Supervised by Prof. Yangqiu Song
 LANG4030    3   Technical Communication II for CSE & CPEG
 LANG1118    3   Enhanced Chinese Communication
 HUMA1000    3   HUMA School-Sponsored Common Core Course
