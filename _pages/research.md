@@ -13,10 +13,15 @@ There is no doubt that each research opportunity has brought me different aspect
 - The researching projects below are listed by their starting time.
 - Some researches below may lead to publication related works, for details of my publications, please go to [this page](https://mighty-weaver.github.io/publications/).
 
+## 0. **Final Year Thesis**
+### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, May. 2021 - Jun. 2022)*
+
+* To be discussed.
+
 ## 1. **NLP Related Projects**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
 
-* Details of this research project will be made public once available. 
+* Details of this research project will be made public after EMNLP notification. 
 
 ## 2. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
