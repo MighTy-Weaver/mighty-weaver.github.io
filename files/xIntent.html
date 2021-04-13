@@ -21,77 +21,38 @@
                         Instructions</strong> <span class="collapse-text">(Click to expand)</span> </a>
                     <div class="panel-body" id="instructionBody">
 
-                        <h3 style="text-align: center">Commonsense Knowledge Tuple Evaluation - xIntent</h3>
+                        <h3 style="text-align: center">Sentence Plausibility Evaluation - xIntent</h3>
 
-                        <p style=font-size: 15px">Hi there! Welcome and thank you for participating this survey!</p>
+                        <p style="font-size: 15px">Hi there! Welcome and thank you for participating this survey!</p>
 
-                        <p><strong>In this survey, your task is to decide how each <span style="color: red">Commonsense Knowledge Tuple</span>
-                            is likely to happen.</strong> Each Commonsense Knowledge is presented in the form of <span
-                                style="font-family: 'Cambria Math'">([head], [relation], [tail])</span>, where each
-                            element in the triple is a sentence.</p>
-
-                        <p>The definition of <span style="font-family: 'Cambria Math'">([head], xIntent, [tail])</span>
-                            is given by: <strong style="color: red"><span
-                                    style="font-family: 'Cambria Math'">[head]</span> (a sentence), because PersonX
-                                wanted <span style="font-family: 'Cambria Math'">[tail]</span> (a sentence).</strong>
-                        </p>
+                        <p style="font-size: 17px"><strong>In this survey, your task is to decide how each <span
+                                style="color: red">Sentence Assertion</span> is likely to happen.</strong>
 
                         <p><br></p>
                         <p><strong>Below is considered as a true [because PersonX wanted] assertion:</strong></p>
-                        <p style="font-family: 'Cambria Math'">(PersonX votes for PersonY, <strong>because PersonX
-                            wanted</strong>, to give support)</p>
+                        <p style="font-family: 'Cambria Math',serif">PersonX votes for PersonY, <strong>because PersonX
+                            wanted</strong>, to give support.</p>
 
                         <p>This is always happening because if PersonX votes for PersonY, the reason PersonX is doing
                             this is because he wanted to support PersonY. Thus this is <strong>a always
                                 happening</strong> event.</p>
 
                         <p><strong>Below is a false assertion:</strong></p>
-                        <p style="font-family: 'Cambria Math'">(PersonX go to play the match, <strong>because PersonX
-                            wanted</strong>, to drink coffee)</p>
+                        <p style="font-family: 'Cambria Math',serif">PersonX go to play the match, <strong>because
+                            PersonX wanted</strong>, to drink coffee.</p>
 
                         <p>This is invalid because if PersonX go to play a match, we can not tell this is because he
                             wanted to drink some coffee. Thus it's an invalid knowledge.</p>
 
                         <p><br></p>
                         <p><strong>Additional Hints:</strong></p>
-                        <p>1. The knowledge is machine-generated, thus please ignore grammar mistakes, focus ONLY on the
-                            main events in both head and tail.</p>
-                        <p>2. <strong><span style="color: red;font-size: 18px">You should grade the tuples with the choices defined below:</span></strong>
-                        </p>
-                        <table>
-                            <thead>
-                            <tr>
-                                <th colspan="2">&nbsp;&nbsp;Full defenition of All choices</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">always / often</span>&nbsp;
-                                </td>
-                                <td>&nbsp;The knowledge assertion presented is always or often true.&nbsp;</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">sometimes / likely</span>&nbsp;
-                                </td>
-                                <td>&nbsp;The knowledge assertion presented is sometimes or likely true.&nbsp;</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">farfetched / never</span>&nbsp;
-                                </td>
-                                <td>&nbsp;The knowledge assertion presented is false or far-fetched at best.&nbsp;</td>
-                            </tr>
-                            <tr>
-                                <td>&nbsp;<span style="font-family: 'Cambria Math'">invalid</span>&nbsp;
-                                </td>
-                                <td>&nbsp;The knowledge assertion presented is invalid or makes no sense.&nbsp;</td>
-                            </tr>
-                            </tbody>
-                        </table>
-                        <p><br><br> Please check the following box before you start reading the questions. </p>
+                        <p><strong>The sentence is machine-generated, thus please ignore grammar mistakes, focus ONLY on
+                            the main events in the sentence.</strong></p>
+
+                        <p><br> Please check the following box before you start reading the questions. </p>
                         <crowd-checkbox name="ReadInstruction" required><span style="color: red;">I declare that I've
                             read the instructions carefully. Failing to do so may cause a rejection.</span>
                         </crowd-checkbox>
-                        <p>For any questions, feel free to drop us an email!</p>
                     </div>
                 </div>
             </div>
@@ -106,8 +67,10 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 1</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 18px"><strong>Candidate commonsense assertion: ${q1_head}</strong>,
+                        <p style="font-size: 18px"><strong>${q1_head}</strong>,
                             <i>because PersonX wanted</i> <strong>${q1_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
                         <div class="radio"><label><input name="q1" required=""
                                                          type="radio" value="0"/>Always / Often </label></div>
                         <div class="radio"><label><input name="q1" required=""
@@ -121,8 +84,10 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 2</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 18px"><strong>Candidate commonsense assertion: ${q2_head}</strong>,
+                        <p style="font-size: 18px"><strong>${q2_head}</strong>,
                             <i>because PersonX wanted</i> <strong>${q2_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
                         <div class="radio"><label><input name="q2" required=""
                                                          type="radio" value="0"/>Always / Often </label></div>
                         <div class="radio"><label><input name="q2" required=""
@@ -136,8 +101,10 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 3</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 18px"><strong>Candidate commonsense assertion: ${q3_head}</strong>,
+                        <p style="font-size: 18px"><strong>${q3_head}</strong>,
                             <i>because PersonX wanted</i> <strong>${q3_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
                         <div class="radio"><label><input name="q3" required=""
                                                          type="radio" value="0"/>Always / Often </label></div>
                         <div class="radio"><label><input name="q3" required=""
@@ -151,8 +118,10 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 4</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 18px"><strong>Candidate commonsense assertion: ${q4_head}</strong>,
+                        <p style="font-size: 18px"><strong>${q4_head}</strong>,
                             <i>because PersonX wanted</i> <strong>${q4_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
                         <div class="radio"><label><input name="q4" required=""
                                                          type="radio" value="0"/>Always / Often </label></div>
                         <div class="radio"><label><input name="q4" required=""
@@ -166,8 +135,10 @@
                 <div class="panel panel-default">
                     <h4 style="text-align: center;"><strong>Question 5</strong></h4>
                     <div class="panel-body">
-                        <p style="font-size: 18px"><strong>Candidate commonsense assertion: ${q5_head}</strong>,
+                        <p style="font-size: 18px"><strong>${q5_head}</strong>,
                             <i>because PersonX wanted</i> <strong>${q5_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
                         <div class="radio"><label><input name="q5" required=""
                                                          type="radio" value="0"/>Always / Often </label></div>
                         <div class="radio"><label><input name="q5" required=""
