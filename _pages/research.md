@@ -43,8 +43,7 @@ hand-on experiences below.**
 
 ## 3. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 
-### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu),
-HKUST, Jun. 2020 - Jan. 2021)*
+### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Jan. 2021)*
 
 * We present a *machine learning approach* to identify non-inverter window air conditioners with *low efficiency* using
   climate data and smart meter data from the university student hall rooms.
