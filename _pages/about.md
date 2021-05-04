@@ -24,16 +24,16 @@ time, I greatly appreciate the help offered by my best working mentor/partner:
 I'm mainly interested in the research of Natural Language Processing, with a special interest in solving the following
 questions:
 
-### **1. Commonsense Knowledge in Natural Language Processing:**
+### **1. Commonsense Reasoning in Natural Language Processing:**
 
 When human communicates, we rely on a vast background of unspoken assumptions. Everyone knows that "water is wet" and "
 we need food when we feel hungry", and we assume everyone we meet shares this knowledge. It forms the basis of how we
 interact and allows us to communicate quickly, efficiently, and with deep meaning.
 
 However, current NLP models mainly relies on the explicit context information provided by some large corpus, how can we
-build deep learning models to efficiently and accurately learn the commonsense knowledge from large corpus? Even more,
-how can we achieve a highly adaptive and unsupervised NLP system with the help of commonsense learning? What is the
-ultimate way of learning discourse knowledge and commonsense knowledge?
+build deep learning models to efficiently and accurately learn the commonsense knowledge from large corpus? Is current
+model learning knowledge or simply fitting data? How can machine or model learn the commonsense related information or 
+attributes behind? What is the ultimate way to realize understanding human language by machine?
 
 ### **2. Information Extraction and Graph Learning with Knowledge Graphs:**
 
@@ -44,7 +44,7 @@ unification, analytics and sharing.
 With the development of graph algorithms, some graph neural networks demonstrated high performance in learning knowledge
 graphs. How can we design and implement more complicated graph learning algorithms to better extract the knowledge in
 different knowledge graphs? And how can we bridge the gap between different knowledge graphs to generate more explicit
-or discourse knowledge? Meanwhile, how to construct knowledge graphs that are rich in commonsense knowledge?
+or discourse knowledge? Is it possible to take advantage of commonsense knowledge graph to learn some inference knowledge?
 
 ### **Beside the above topics, I'm also actively participating researches in:**
 
@@ -55,7 +55,7 @@ or discourse knowledge? Meanwhile, how to construct knowledge graphs that are ri
 
 **1. Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Bachelor Degree in [Computer Science](https://www.cse.ust.hk/) and [Mathematics](https://www.math.hkust.edu.hk/),  *Sep. 2018 -- Now*
+- Bachelor Degree in [Computer Science](https://www.cse.ust.hk/) and [Mathematics](https://www.math.hkust.edu.hk/),  *Sep. 2018 -- Jun. 2022 (Expected)*
 - CGA: **3.895** / 4.300
 
     - First Major: *BSc in Computer Science* - CGA: **3.900** / 4.300
