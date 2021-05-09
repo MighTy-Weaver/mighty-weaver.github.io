@@ -17,7 +17,7 @@ Science and Mathematics. *And I'll be actively searching for a PhD position afte
 Currently, It's my great honor to work under the supervision
 of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at the Knowledge Computation Group in HKUST. At the same
 time, I greatly appreciate the help offered by my best working mentor/partner:
-[Mr. Tianqing Fang](https://github.com/tqfang) and my best friend in NLP: [Mr. Jiefu Ou](https://github.com/JefferyO).
+[Mr. Tianqing Fang](https://github.com/tqfang) and my best friend in NLP: [Mr. Jiefu Ou](https://jefferyo.github.io/).
 
 ## Research Interest
 
