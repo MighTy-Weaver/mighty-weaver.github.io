@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Undergraduate Course Study Plan"
+title: "Undergraduate Course Study Path"
 permalink: /course/
 redirect_from:
   - /course
