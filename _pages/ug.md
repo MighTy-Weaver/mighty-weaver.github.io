@@ -33,7 +33,7 @@ LANG1003S   3   English for University Studies II
 ```angular2html
 MATH2411    4   Applied Statistics
 COMP1029P   1   Python Programming Bridge Course
-UROP1100X   1   Undergraduate Research Opportunities Series I - I
+UROP1100    1   Undergraduate Research Opportunities Series I - I
 ```
 ---
 ## UG Year 2
@@ -45,7 +45,7 @@ MATH2023    4   Multivariable Calculus
 MATH2033    4   Mathematical Analysis
 MATH2121    4   Linear Algebra
 PHYS1003    3   Energy and Related Environmental Issues
-UROP2100Y   1   Undergraduate Research Opportunities Series I - II
+UROP2100    1   Undergraduate Research Opportunities Series I - II
 ```
 ### Spring 
 ```angular2html
