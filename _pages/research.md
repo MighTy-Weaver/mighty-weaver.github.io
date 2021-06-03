@@ -24,11 +24,17 @@ hand-on experiences below.**
 
 ## 1. **NLP Research Project**
 
-### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
+### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jul. 2021 - Sep. 2021)*
 
-* Details of this research project will be made public in August after EMNLP notification.
+* Details of this research project will be made public in the future.
 
-## 2. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
+## 2. **NLP Research Project**
+
+### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - May. 2021)*
+
+* Details of this research project will be made public in the future.
+
+## 3. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
 
@@ -41,7 +47,7 @@ hand-on experiences below.**
   and diversity with comparable quality.
 * Accepted by *The Web Conference, 2021 (WWW2021)*.
 
-## 3. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
+## 4. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Jan. 2021)*
 
