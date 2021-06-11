@@ -56,10 +56,8 @@ or discourse knowledge? Is it possible to take advantage of commonsense knowledg
 **1. Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
 - Bachelor Degree in [Computer Science](https://www.cse.ust.hk/) and [Mathematics](https://www.math.hkust.edu.hk/),  *Sep. 2018 -- Jun. 2022 (Expected)*
-- CGA: **3.895** / 4.300
-
-    - First Major: *BSc in Computer Science* - CGA: **3.900** / 4.300
-    - Second Major: *BSc in Mathematics* - CGA: **3.986** / 4.300
+- CGA: **3.86** / 4.30
+- MCGA: **3.87** / 4.30
 
 **2. Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
 
