@@ -64,7 +64,7 @@ UROP1000    0   Undergraduate Research Opportunities Series II
 ```
 ---
 ## UG Year 3
-##### 16 + 12 + 4 = 32 Credits
+##### 16 + 12 + 1 = 29 Credits
 ### Fall 
 ```angular2html
 COMP3111    4   Software Engineering
@@ -82,17 +82,24 @@ MATH4321    3   Game Theory
 ```
 ### Summer
 ```angular2html
-HUMA2310    3   Traditional Chinese Fiction
+COMP4981H   6   Final Year Thesis
 UROP1100    1   Undergraduate Research Opportunities Series III
 ``` 
 ---
 ## UG Year 4
-##### 15 Credits
+##### 9 + 12 = 21 Credits
+### Fall 
+```angular2html
+COMP4331    3   Data Mining
+COMP4981H   6   Final Year Thesis
+HUMA1720    3   Logic
+LANG4030    3   Technical Communication II for CSE & CPEG
+```
+### Spring
 ```angular2html
 COMP4981H   6   Final Year Thesis
-LANG4030    3   Technical Communication II for CSE & CPEG
 LANG1118    3   Enhanced Chinese Communication
-HUMA1000    3   HUMA School-Sponsored Common Core Course
+HUMA1000    3   SSC-CCC HUMA
 ```
 ---
 
