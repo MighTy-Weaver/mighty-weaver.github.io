@@ -64,4 +64,4 @@ hand-on experiences below.**
   temperature rises. In contrast, the AC efficiency is rated low-efficiency if the change of outdoor temperature does
   not affect the prediction of the hourly electricity consumption. This conclusion is further verified by the AC
   replacement record.
-
+* To be submitted to **Energy Conversion and Management**.

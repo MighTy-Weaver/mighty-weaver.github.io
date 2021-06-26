@@ -93,13 +93,13 @@ UROP1100    1   Undergraduate Research Opportunities Series III
 COMP4331    3   Data Mining
 COMP4981H   6   Final Year Thesis
 HUMA1720    3   Logic
-LANG4030    3   Technical Communication II for CSE & CPEG
+LANG1118    3   Enhanced Chinese Communication
 ```
 ### Spring
 ```angular2html
 COMP4981H   6   Final Year Thesis
-LANG1118    3   Enhanced Chinese Communication
 HUMA1000    3   SSC-CCC HUMA
+LANG4030    3   Technical Communication II for CSE & CPEG
 ```
 ---
 
