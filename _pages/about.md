@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-Hi there! Welcome to my personal homepage. I'm currently a Year 3 Undergraduate Student in
+Hi there! Welcome to my personal homepage. I'm currently a Final Year Undergraduate Student in
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pursing a bachelor degree in Computer
 Science and Mathematics. *And I'll be actively searching for a PhD position after my graduation*.
 
@@ -18,6 +18,8 @@ Currently, It's my great honor to work under the supervision
 of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at the Knowledge Computation Group in HKUST. At the same
 time, I greatly appreciate the help offered by my best working mentor/partner:
 [Mr. Tianqing Fang](https://github.com/tqfang) and my best friend in NLP: [Mr. Jiefu Ou](https://jefferyo.github.io/).
+
+This webpage is last updated at **2021/7/8**.
 
 ## Research Interest
 
@@ -71,9 +73,6 @@ or discourse knowledge? Is it possible to take advantage of commonsense knowledg
 ## Contact me!
 
 You can reach me at `1874240442 [at] qq [dot] com`, this email will be active all the time.
-
-My current address is
-<address>Room 3007, Cheng Yu Tung Building, HKUST,<br/> Clear Water Bay, <br/>Kowloon, <br/>Hong Kong SAR, China </address>
 
 ## Sitemap
 

@@ -16,25 +16,25 @@ hand-on experiences below.**
 - Some researches below may lead to publication related works, for details of my publications, please go
   to [this page](https://mighty-weaver.github.io/publications/).
 
-## 0. **Final Year Thesis: Commonsense Reasoning with Natural Languages**
-
-### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jun. 2021 - May. 2022)*
-
-* To Be Discussed.
-
 ## 1. **NLP Research Project**
 
-### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jul. 2021 - Sep. 2021)*
+### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jul. 2021 - Now)*
 
 * Details of this research project will be made public in the future.
 
-## 2. **NLP Research Project**
+## 2. **Sustainable Smart Campus Project**
 
-### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - May. 2021)*
+### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2021 - Now)*
+
+* We aim to extend the scope of previous research *Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy* by applying explainable deep learning techniques. 
+
+## 3. **NLP Research Project**
+
+### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Now)*
 
 * Details of this research project will be made public in the future.
 
-## 3. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
+## 4. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
 
@@ -47,7 +47,7 @@ hand-on experiences below.**
   and diversity with comparable quality.
 * Accepted by *The Web Conference, 2021 (WWW2021)*.
 
-## 4. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
+## 5. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Jan. 2021)*
 
@@ -64,4 +64,4 @@ hand-on experiences below.**
   temperature rises. In contrast, the AC efficiency is rated low-efficiency if the change of outdoor temperature does
   not affect the prediction of the hourly electricity consumption. This conclusion is further verified by the AC
   replacement record.
-* To be submitted to **Energy Conversion and Management**.
+* To be submitted to *Energy Conversion and Management (ECM)*.
