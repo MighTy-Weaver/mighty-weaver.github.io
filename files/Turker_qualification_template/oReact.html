@@ -1,0 +1,333 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+
+    <meta content="width=device-width,initial-scale=1" name="viewport"/>
+    <section class="container" id="Survey">
+
+        <!--    --------------------------------------------------------------------->
+        <!--    ------------------------Instruction Area----------------------------->
+        <!--    ------Modify after  <div class="panel-body" id="instructionBody">---->
+        <!--    --------------------------------------------------------------------->
+
+        <div class="row">
+            <div class="col-xs-12 col-md-12">
+                <div class="panel panel-primary">
+                    <!-- WARNING: the ids "collapseTrigger" and "instructionBody" are being used to enable expand/collapse feature -->
+                    <a class="panel-heading" href="javascript:void(0);" id="collapseTrigger"><strong>Survey
+                        Instructions</strong> <span class="collapse-text">(Click to expand)</span> </a>
+                    <div class="panel-body" id="instructionBody">
+
+                        <h3 style="text-align: center">Sentence Plausibility Evaluation - oReact</h3>
+
+                        <p style="font-size: 15px">Hi there! Welcome to our qualification round HITS! In the
+                            qualification round, we'll invite workers with at least 70% questions correct to the main
+                            round, where MUCH MORE HITS will be released. Please do your best!</p>
+
+                        <p style="font-size: 17px"><strong>In this survey, your task is to decide how each <span
+                                style="color: red">Sentence Assertion</span> is likely to happen.</strong>
+                        <h3>Concept Explaination</h3>
+                        <p style="font-size: 16px">In each sentence below, there are words within the bracket, they are
+                            <strong style="color: red">CONCEPT</strong>, which may not be a proper noun. It
+                            generally means some subjects/objects that belong to this concept. Here are some examples:
+                        </p>
+                        <ul>
+                            <li><p style="font-size:15px; font-family: 'Cambria Math',serif">PersonX takes [a second
+                                job].</p></li>
+                            <p>Here, [a second job] is a pretty concrete concept. You can just regard this as "PersonX
+                                takes
+                                a second job"</p>
+                            <li><p style="font-size:15px; font-family: 'Cambria Math',serif">PersonX takes
+                                [employment]</p></li>
+                            <p>Here, [employment] is quite a broad concept. You can regard the object of this sentence
+                                as an
+                                employment at anywhere or anytime. You can regard this as "PersonX takes an employment
+                                at
+                                hospital", "PersonX takes an employment at school", etc.</p>
+                        </ul>
+
+                        <h3>Relation Explaination</h3>
+                        <ul>
+                            <li><p><strong>Below is considered as a <b style="color: red">true</b> [then, PersonY or
+                                others feel] assertion:</strong></p></li>
+                            <p style="font-family: 'Cambria Math',serif">PersonX votes for PersonY, <strong>then,
+                                PersonY or others feels</strong>, grateful.</p>
+                            <p>This is always happening because if PersonX votes for PersonY, then PersonX recognise
+                                PersonY's behavior, thus PersonY will receive the praise from PersonX, so he feels
+                                grateful. Thus this is <strong>a always happening</strong> event.</p>
+
+                            <li><p><strong>Below is a <b style="color: red">false</b> assertion:</strong></p></li>
+                            <p style="font-family: 'Cambria Math',serif">PersonX go to play the match, <strong>then,
+                                PersonY or others feels</strong>, dance at home.</p>
+                            <p>This assertion is invalid as the head and tail have no definite correlation.</p>
+
+                        </ul>
+                        <p><br></p>
+                        <p><strong>Additional Hints:</strong></p>
+                        <p><strong>The sentence is machine-generated, thus please ignore grammar mistakes, focus ONLY on
+                            the main events in the sentence.</strong></p>
+
+                        <p><br> Please check the following box before you start reading the questions. </p>
+                        <crowd-checkbox name="ReadInstruction" required><span style="color: red;">I declare that I've
+                            read the instructions carefully. Failing to do so may cause a rejection.</span>
+                        </crowd-checkbox>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!--    --------------------------------------------------------------------->
+        <!--    ------------------------Question Area-------------------------------->
+        <!--    --------------------------------------------------------------------->
+        <div class="row" id="workContent">
+            <div class="col-sm-8 col-sm-offset-2">
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 1</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">If <strong>${q1_head}</strong>,
+                            <i>then, PersonY or others feel</i> <strong>${q1_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
+                        <div class="radio"><label><input name="q1" required=""
+                                                         type="radio" value="0"/>Always / Often </label></div>
+                        <div class="radio"><label><input name="q1" required=""
+                                                         type="radio" value="1"/>Sometimes / Likely </label></div>
+                        <div class="radio"><label><input name="q1" required=""
+                                                         type="radio" value="2"/>Farfetched / Never </label></div>
+                        <div class="radio"><label><input name="q1" required=""
+                                                         type="radio" value="3"/>Invalid </label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 2</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">If <strong>${q2_head}</strong>,
+                            <i>then, PersonY or others feel</i> <strong>${q2_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
+                        <div class="radio"><label><input name="q2" required=""
+                                                         type="radio" value="0"/>Always / Often </label></div>
+                        <div class="radio"><label><input name="q2" required=""
+                                                         type="radio" value="1"/>Sometimes / Likely </label></div>
+                        <div class="radio"><label><input name="q2" required=""
+                                                         type="radio" value="2"/>Farfetched / Never </label></div>
+                        <div class="radio"><label><input name="q2" required=""
+                                                         type="radio" value="3"/>Invalid </label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 3</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">If <strong>${q3_head}</strong>,
+                            <i>then, PersonY or others feel</i> <strong>${q3_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
+                        <div class="radio"><label><input name="q3" required=""
+                                                         type="radio" value="0"/>Always / Often </label></div>
+                        <div class="radio"><label><input name="q3" required=""
+                                                         type="radio" value="1"/>Sometimes / Likely </label></div>
+                        <div class="radio"><label><input name="q3" required=""
+                                                         type="radio" value="2"/>Farfetched / Never </label></div>
+                        <div class="radio"><label><input name="q3" required=""
+                                                         type="radio" value="3"/>Invalid </label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 4</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">If <strong>${q4_head}</strong>,
+                            <i>then, PersonY or others feel</i> <strong>${q4_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
+                        <div class="radio"><label><input name="q4" required=""
+                                                         type="radio" value="0"/>Always / Often </label></div>
+                        <div class="radio"><label><input name="q4" required=""
+                                                         type="radio" value="1"/>Sometimes / Likely </label></div>
+                        <div class="radio"><label><input name="q4" required=""
+                                                         type="radio" value="2"/>Farfetched / Never </label></div>
+                        <div class="radio"><label><input name="q4" required=""
+                                                         type="radio" value="3"/>Invalid </label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 5</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">If <strong>${q5_head}</strong>,
+                            <i>then, PersonY or others feel</i> <strong>${q5_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
+                        <div class="radio"><label><input name="q5" required=""
+                                                         type="radio" value="0"/>Always / Often </label></div>
+                        <div class="radio"><label><input name="q5" required=""
+                                                         type="radio" value="1"/>Sometimes / Likely </label></div>
+                        <div class="radio"><label><input name="q5" required=""
+                                                         type="radio" value="2"/>Farfetched / Never </label></div>
+                        <div class="radio"><label><input name="q5" required=""
+                                                         type="radio" value="3"/>Invalid </label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 6</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">If <strong>${q6_head}</strong>,
+                            <i>then, PersonY or others feel</i> <strong>${q6_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
+                        <div class="radio"><label><input name="q6" required=""
+                                                         type="radio" value="0"/>Always / Often </label></div>
+                        <div class="radio"><label><input name="q6" required=""
+                                                         type="radio" value="1"/>Sometimes / Likely </label></div>
+                        <div class="radio"><label><input name="q6" required=""
+                                                         type="radio" value="2"/>Farfetched / Never </label></div>
+                        <div class="radio"><label><input name="q6" required=""
+                                                         type="radio" value="3"/>Invalid </label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 7</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">If <strong>${q7_head}</strong>,
+                            <i>then, PersonY or others feel</i> <strong>${q7_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
+                        <div class="radio"><label><input name="q7" required=""
+                                                         type="radio" value="0"/>Always / Often </label></div>
+                        <div class="radio"><label><input name="q7" required=""
+                                                         type="radio" value="1"/>Sometimes / Likely </label></div>
+                        <div class="radio"><label><input name="q7" required=""
+                                                         type="radio" value="2"/>Farfetched / Never </label></div>
+                        <div class="radio"><label><input name="q7" required=""
+                                                         type="radio" value="3"/>Invalid </label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 8</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">If <strong>${q8_head}</strong>,
+                            <i>then, PersonY or others feel</i> <strong>${q8_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
+                        <div class="radio"><label><input name="q8" required=""
+                                                         type="radio" value="0"/>Always / Often </label></div>
+                        <div class="radio"><label><input name="q8" required=""
+                                                         type="radio" value="1"/>Sometimes / Likely </label></div>
+                        <div class="radio"><label><input name="q8" required=""
+                                                         type="radio" value="2"/>Farfetched / Never </label></div>
+                        <div class="radio"><label><input name="q8" required=""
+                                                         type="radio" value="3"/>Invalid </label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 9</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">If <strong>${q9_head}</strong>,
+                            <i>then, PersonY or others feel</i> <strong>${q9_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
+                        <div class="radio"><label><input name="q9" required=""
+                                                         type="radio" value="0"/>Always / Often </label></div>
+                        <div class="radio"><label><input name="q9" required=""
+                                                         type="radio" value="1"/>Sometimes / Likely </label></div>
+                        <div class="radio"><label><input name="q9" required=""
+                                                         type="radio" value="2"/>Farfetched / Never </label></div>
+                        <div class="radio"><label><input name="q9" required=""
+                                                         type="radio" value="3"/>Invalid </label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 10</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">If <strong>${q10_head}</strong>,
+                            <i>then, PersonY or others feel</i> <strong>${q10_tail}</strong></p>
+                        <p><i>How likely is this sentence going to happen? (Invalid if it does not make sense to
+                            you)</i></p>
+                        <div class="radio"><label><input name="q10" required=""
+                                                         type="radio" value="0"/>Always / Often </label></div>
+                        <div class="radio"><label><input name="q10" required=""
+                                                         type="radio" value="1"/>Sometimes / Likely </label></div>
+                        <div class="radio"><label><input name="q10" required=""
+                                                         type="radio" value="2"/>Farfetched / Never </label></div>
+                        <div class="radio"><label><input name="q10" required=""
+                                                         type="radio" value="3"/>Invalid </label></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    -----------------------WARNING: DO NOT MODIFY BELOW------------------------------------->
+    <!--    -----------Below are Extra CSS Styles settings and Reference---------------------------->
+    <!--    ---------Nothing related to the content of the survey anymore--------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+
+    <!-- Please note that Bootstrap CSS/JS and JQuery are 3rd party libraries that may update their url/code at any time. Amazon Mechanical Turk (MTurk) is including these libraries as a default option for you, but is not responsible for any changes to the external libraries -->
+    <!-- External CSS references -->
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"
+          integrity="sha384-IS73LIqjtYesmURkDE9MXKbXqYA8rvKEp/ghicjem7Vc3mGRdQRptJSz60tvrB6+" rel="stylesheet"/>
+    <!-- Open internal style sheet -->
+    <style type="text/css">#collapseTrigger {
+        color: #fff;
+        display: block;
+        text-decoration: none;
+    }
+
+    #submitButton {
+        white-space: normal;
+    }
+
+    .image {
+        margin-bottom: 15px;
+    }
+
+    table,
+    td {
+        text-align-all: center;
+        border: 1px solid #333;
+    }
+
+    thead {
+        text-align-all: center;
+        background-color: #333;
+        color: #fff;
+    }
+
+    tfoot {
+        background-color: #333;
+        color: #fff;
+        text-align-all: center;
+    }
+
+    </style>
+    <!-- Close internal style sheet --><!-- External JS references -->
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"
+            integrity="sha384-s1ITto93iSMDxlp/79qhWHi+LsIi9Gx6yL+cOKDuymvihkfol83TYbLbOw+W/wv4"
+            crossorigin="anonymous"></script><!-- Open internal javascript -->
+    <script>
+        $(document).ready(function () {
+            // Instructions expand/collapse
+            var content = $('#instructionBody');
+            var trigger = $('#collapseTrigger');
+            $('.collapse-text').text('');
+            trigger.click(function () {
+                content.toggle();
+                var isVisible = content.is(':visible');
+                if (isVisible) {
+                    $('.collapse-text').text('');
+                } else {
+                    $('.collapse-text').text(' (Click to Expand the Instruction)');
+                }
+            });
+            // end expand/collapse
+        });
+    </script><!-- CLose internal javascript -->
+</crowd-form>
+
