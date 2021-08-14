@@ -26,7 +26,7 @@ hand-on experiences below.**
 
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2021 - Now)*
 
-* We aim to extend the scope of previous research *Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy* by applying explainable deep learning techniques. 
+* We aim to extend the scope of previous research *Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy* by applying explainable deep learning techniques. 
 
 ## 3. **NLP Research Project**
 
@@ -64,4 +64,4 @@ hand-on experiences below.**
   temperature rises. In contrast, the AC efficiency is rated low-efficiency if the change of outdoor temperature does
   not affect the prediction of the hourly electricity consumption. This conclusion is further verified by the AC
   replacement record.
-* To be submitted to *Energy Conversion and Management (ECM)*.
+* Under review at *Sustainable Cities and Society (SCSI)*.

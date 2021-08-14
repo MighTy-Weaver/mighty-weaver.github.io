@@ -87,19 +87,20 @@ UROP1100    1   Undergraduate Research Opportunities Series III
 ``` 
 ---
 ## UG Year 4
-##### 9 + 12 = 21 Credits
+##### 6 + 15 = 21 Credits
 ### Fall 
 ```angular2html
-COMP4331    3   Data Mining
+COMP4211    3   Machine Learning
 COMP4981H   6   Final Year Thesis
 HUMA1720    3   Logic
-LANG1118    3   Enhanced Chinese Communication
+TBD
 ```
 ### Spring
 ```angular2html
 COMP4981H   6   Final Year Thesis
 HUMA1000    3   SSC-CCC HUMA
 LANG4030    3   Technical Communication II for CSE & CPEG
+LANG1118    3   Enhanced Chinese Communication
 ```
 ---
 

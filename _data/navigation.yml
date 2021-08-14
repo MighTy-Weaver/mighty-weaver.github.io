@@ -32,5 +32,5 @@ main:
   - title: "Miscellaneous"
     url: /miscellaneous/
 
-#  - title: "CV"
-#    url: /files/CV_latex.pdf
+  - title: "CV"
+    url: /files/CV_latex.pdf

@@ -18,10 +18,10 @@ author_profile: true
 [link to the paper](https://arxiv.org/abs/2101.00154), [link to the code](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
 
-## 2. Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy
+## 2. Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy
 
 <div style="text-align: right"><i>(<b>Weiqi Wang</b>, Zixuan Zhou, Zhongming Lu)</i></div>
 
-### To be submitted to ***Energy Conversion and Management (ECM)*** (Impact Factor = 9.709).
+### Under review at ***Sustainable Cities and Society (SCSI)*** (Impact Factor = 7.587).
 
 link to the paper, [link to the code](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
