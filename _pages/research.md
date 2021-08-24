@@ -53,15 +53,8 @@ hand-on experiences below.**
 
 * We present a *machine learning approach* to identify non-inverter window air conditioners with *low efficiency* using
   climate data and smart meter data from the university student hall rooms.
-* First, we applied the XGBoost method to estimate the hourly electricity consumption of an air conditioner with input
-  features including the number of people in the room, outdoor weather, and the operation of air conditioners in
-  previous hours.
-* Second, we examined the impact of outdoor temperature on the XGBoost prediction of hourly electricity consumption of
-  air conditioners using the Shapley Additive Explanation method.
-* Our result shows that the accuracy of XGBoost is 50~70% in estimating the hourly electricity consumption within a 10%
-  error deviation range from the actual data.
 * We conclude that the AC is highly efficient if the predicted hourly electricity consumption increases as the outdoor
   temperature rises. In contrast, the AC efficiency is rated low-efficiency if the change of outdoor temperature does
   not affect the prediction of the hourly electricity consumption. This conclusion is further verified by the AC
   replacement record.
-* Under review at *Sustainable Cities and Society (SCSI)*.
+* Under review at *Journal of Cleaner Production (JCLEPRO)*.
