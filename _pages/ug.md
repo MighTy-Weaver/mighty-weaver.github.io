@@ -64,7 +64,7 @@ UROP1000    0   Undergraduate Research Opportunities Series II
 ```
 ---
 ## UG Year 3
-##### 16 + 12 + 1 = 29 Credits
+##### 16 + 12 + 2 = 30 Credits
 ### Fall 
 ```angular2html
 COMP3111    4   Software Engineering
@@ -82,23 +82,25 @@ MATH4321    3   Game Theory
 ```
 ### Summer
 ```angular2html
-COMP4981H   6   Final Year Thesis
+COMP4981H   1   Final Year Thesis
 UROP1100    1   Undergraduate Research Opportunities Series III
 ``` 
 ---
 ## UG Year 4
-##### 12 + 9 = 21 Credits
+##### 14 + 12 = 26 Credits
 ### Fall 
 ```angular2html
 COMP4211    3   Machine Learning
-COMP4981H   6   Final Year Thesis
-HUMA1720    3   Logic
+COMP4651    3   Cloud Computing and Big Data Systems
+COMP4981H   2   Final Year Thesis
+HUMA1000B   3   Cultures and Values: Righteousness, Destiny and Well-being
 LANG4030    3   Technical Communication II for CSE, CPEG & DSCT
 ```
 ### Spring
 ```angular2html
-COMP4981H   6   Final Year Thesis
-HUMA1000    3   SSC-CCC HUMA
+COMP4000    3   TBD
+COMP4981H   3   Final Year Thesis
+HUMA1720    3   Logic
 LANG1118    3   Enhanced Chinese Communication
 ```
 ---
