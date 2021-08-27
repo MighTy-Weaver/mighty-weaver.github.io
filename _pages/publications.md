@@ -9,7 +9,16 @@ author_profile: true
 - The publications below are listed by their finishing time.
 - \* indicates equal contribution.
 
-## 1. ***DISCOS***: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge
+## 1. To be released
+
+[comment]: <> (<div style="text-align: right"><i>&#40;Tianqing Fang, Hongming Zhang, <b>Weiqi Wang</b>, Yangqiu Song, Bin He&#41;</i></div>)
+
+[comment]: <> (### Published in the Proceedings of ***The Web Conference, 2021 &#40;WWW2021&#41;*** &#40;357/1736 = 20.56%&#41;.)
+
+[comment]: <> ([link to the paper]&#40;https://arxiv.org/abs/2101.00154&#41;, [link to the code]&#40;https://github.com/HKUST-KnowComp/DISCOS-commonsense&#41;)
+
+
+## 2. ***DISCOS***: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge
 
 <div style="text-align: right"><i>(Tianqing Fang, Hongming Zhang, <b>Weiqi Wang</b>, Yangqiu Song, Bin He)</i></div>
 
@@ -18,9 +27,9 @@ author_profile: true
 [link to the paper](https://arxiv.org/abs/2101.00154), [link to the code](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
 
-## 2. Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy
+## 3. Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy
 
-<div style="text-align: right"><i>(<b>Weiqi Wang</b>, Zixuan Zhou, Zhongming Lu)</i></div>
+<div style="text-align: right"><i>(<b>Weiqi Wang*</b>, Zixuan Zhou*, Zhongming Lu)</i></div>
 
 ### Under review at ***Journal of Cleaner Production (JCLEPRO)*** (Impact Factor = 9.297).
 
