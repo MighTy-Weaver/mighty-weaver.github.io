@@ -6,17 +6,19 @@ author_profile: true
 ---
 
 *Remarks:*
+
 - The publications below are listed by their finishing time.
 - \* indicates equal contribution.
 
-## 1. To be released
+## 1. Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset
 
-[comment]: <> (<div style="text-align: right"><i>&#40;Tianqing Fang, Hongming Zhang, <b>Weiqi Wang</b>, Yangqiu Song, Bin He&#41;</i></div>)
+<div style="text-align: right"><i>(Tianqing Fang*, <b>Weiqi Wang*</b>, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song and Bin He
+)</i></div>
 
-[comment]: <> (### Published in the Proceedings of ***The Web Conference, 2021 &#40;WWW2021&#41;*** &#40;357/1736 = 20.56%&#41;.)
+### Published in the Proceedings of ***The 2021 Conference on Empirical Methods in Natural Language Processing (
+EMNLP2021)*** (Main Conference).
 
-[comment]: <> ([link to the paper]&#40;https://arxiv.org/abs/2101.00154&#41;, [link to the code]&#40;https://github.com/HKUST-KnowComp/DISCOS-commonsense&#41;)
-
+[link to the paper], [link to the code]
 
 ## 2. ***DISCOS***: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge
 
@@ -24,8 +26,8 @@ author_profile: true
 
 ### Published in the Proceedings of ***The Web Conference, 2021 (WWW2021)*** (357/1736 = 20.56%).
 
-[link to the paper](https://arxiv.org/abs/2101.00154), [link to the code](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
-
+[link to the paper](https://arxiv.org/abs/2101.00154)
+, [link to the code](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
 ## 3. Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy
 
