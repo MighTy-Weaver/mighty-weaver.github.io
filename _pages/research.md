@@ -6,6 +6,7 @@ redirect_from:
   - /research
 ---
 
+
 There is no doubt that each research opportunity has brought me different aspects of harvest and growth.
 **I would like to thank all the professors and PhD/MPhil students for providing me with the research opportunities and
 hand-on experiences below.**
@@ -26,13 +27,17 @@ hand-on experiences below.**
 
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2021 - Now)*
 
-* We aim to extend the scope of previous research *Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy* by applying explainable deep learning techniques. 
+* We aim to extend the scope of previous research *Data-driven Assessment of Room Air Conditioner Efficiency for Saving
+  Energy* by applying explainable deep learning techniques.
 
 ## 3. **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset**
 
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Sep. 2021)*
 
-* Accepted by *The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)* (Main Conference).
+* In this paper, we benchmark the CSKB population task with a new large-scale dataset by first aligning four popular
+  CSKBs, and then presenting a high-quality human-annotated evaluation set to probe neural models’ commonsense reasoning
+  ability. We also propose a novel inductive commonsense reasoning model that reasons over graphs.
+* Accepted by *The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)*. (Main Conference)
 
 ## 4. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 
@@ -40,21 +45,12 @@ hand-on experiences below.**
 
 * We propose an alternative commonsense knowledge acquisition framework **DISCOS** *(from DIScourse to COmmonSense)*,
   which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources.
-* Experiments demonstrate that we can successfully convert discourse knowledge over eventualities
-  from [ASER](https://hkust-knowcomp.github.io/ASER/), a large-scale discourse knowledge graph, into inferential if-then
-  commonsense knowledge defined in ATOMIC without any additional annotation effort.
-* Further study suggests that **DISCOS** significantly outperforms previous supervised approaches in terms of novelty
-  and diversity with comparable quality.
 * Accepted by *The Web Conference, 2021 (WWW2021)*.
 
 ## 5. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Aug. 2021)*
 
-* We present a *machine learning approach* to identify non-inverter window air conditioners with *low efficiency* using
-  climate data and smart meter data from the university student hall rooms.
-* We conclude that the AC is highly efficient if the predicted hourly electricity consumption increases as the outdoor
-  temperature rises. In contrast, the AC efficiency is rated low-efficiency if the change of outdoor temperature does
-  not affect the prediction of the hourly electricity consumption. This conclusion is further verified by the AC
-  replacement record.
+* We present a data-driven approach to identify non-inverter window air conditioners (ACs) with low efficiency by
+  analyzing smart meter data from the university student hall rooms.
 * Under review at *Journal of Cleaner Production (JCLEPRO)*.
