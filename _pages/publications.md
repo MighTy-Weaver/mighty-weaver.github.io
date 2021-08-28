@@ -12,8 +12,7 @@ author_profile: true
 
 ## 1. Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset
 
-<div style="text-align: right"><i>(Tianqing Fang*, <b>Weiqi Wang*</b>, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song and Bin He
-)</i></div>
+<div style="text-align: right"><i>(Tianqing Fang*, <b>Weiqi Wang*</b>, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He)</i></div>
 
 Published in the Proceedings of ***The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)*** (Main Conference).
 
