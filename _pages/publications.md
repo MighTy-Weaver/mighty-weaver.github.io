@@ -15,8 +15,7 @@ author_profile: true
 <div style="text-align: right"><i>(Tianqing Fang*, <b>Weiqi Wang*</b>, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song and Bin He
 )</i></div>
 
-### Published in the Proceedings of ***The 2021 Conference on Empirical Methods in Natural Language Processing (
-EMNLP2021)*** (Main Conference).
+### Published in the Proceedings of ***The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)*** (Main Conference).
 
 [link to the paper], [link to the code]
 
