@@ -28,11 +28,11 @@ hand-on experiences below.**
 
 * We aim to extend the scope of previous research *Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy* by applying explainable deep learning techniques. 
 
-## 3. **NLP Research Project**
+## 3. **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset**
 
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Sep. 2021)*
 
-* Details of this research project will be made public in the future.
+* Accepted by *The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)* (Main Conference).
 
 ## 4. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 
@@ -49,7 +49,7 @@ hand-on experiences below.**
 
 ## 5. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 
-### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Jan. 2021)*
+### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Aug. 2021)*
 
 * We present a *machine learning approach* to identify non-inverter window air conditioners with *low efficiency* using
   climate data and smart meter data from the university student hall rooms.
