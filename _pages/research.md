@@ -8,7 +8,7 @@ redirect_from:
 
 
 There is no doubt that each research opportunity has brought me different aspects of harvest and growth.
-**I would like to thank all the professors and PhD/MPhil students for providing me with the research opportunities and
+**I would like to thank all the professors and PhD/MPhil candidates for providing me with the research opportunities and
 hand-on experiences below.**
 
 *Remarks:*
