@@ -26,8 +26,8 @@ This webpage is last updated on **2021/9/10**.
 
 ## News
 
-- [2021/8/26]    One paper has been accepted by EMNLP2021 Main conference.
-- [2021/1/16]    One paper has been accepted by WWW2021.
+- [2021/8/26]    One paper has been accepted to EMNLP2021 (main conference).
+- [2021/1/16]    One paper has been accepted to WWW2021.
 
 
 ## Research Interest
