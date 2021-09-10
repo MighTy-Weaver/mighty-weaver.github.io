@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! Welcome to my personal homepage. I'm currently a Final Year Undergraduate Student in
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pursing a bachelor degree in Computer
-Science and Mathematics. *And I'll be actively searching for a PhD position after my graduation*. My research interest
+Science and Mathematics. My research interest
 lies in the field of natural language processing, with a specific interest in commonsense reasoning and knowledge base
 completion.
 
