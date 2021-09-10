@@ -16,7 +16,7 @@ author_profile: true
 
 Published in the Proceedings of ***The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)*** (Main Conference).
 
-link to the paper, link to the code
+link to the paper, [link to the code](https://github.com/HKUST-KnowComp/CSKB-Population)
 
 ## 2. ***DISCOS***: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge
 
