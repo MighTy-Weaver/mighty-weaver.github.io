@@ -12,7 +12,9 @@ redirect_from:
 
 Hi there! Welcome to my personal homepage. I'm currently a Final Year Undergraduate Student in
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pursing a bachelor degree in Computer
-Science and Mathematics. *And I'll be actively searching for a PhD position after my graduation*.
+Science and Mathematics. *And I'll be actively searching for a PhD position after my graduation*. My research interest
+lies in the field of natural language processing, with a specific interest in commonsense reasoning and knowledge base
+completion.
 
 Currently, It's my great honor to work under the supervision
 of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at the Knowledge Computation Group in HKUST. At the same
@@ -20,6 +22,13 @@ time, I greatly appreciate the help offered by my best working mentor/partner:
 [Mr. Tianqing Fang](https://github.com/tqfang) and my best friend in NLP: [Mr. Jiefu Ou](https://jefferyo.github.io/).
 
 This webpage is last updated on **2021/9/10**.
+
+
+## News
+
+- 2021/8/26    One paper has been accepted by EMNLP2021 Main conference.
+- 2021/1/16    One paper has been accepted by WWW2021.
+
 
 ## Research Interest
 
