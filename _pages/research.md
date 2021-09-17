@@ -17,20 +17,26 @@ hand-on experiences below.**
 - Some researches below may lead to publication related works, for details of my publications, please go
   to [this page](https://mighty-weaver.github.io/publications/).
 
-## 1. **NLP Research Project**
+## 1. **Final Year Thesis Research Project**
+
+### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2021 - Now)*
+
+* Details of this research project will be made public in the future.
+
+## 2. **NLP Research Project**
 
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jul. 2021 - Now)*
 
 * Details of this research project will be made public in the future.
 
-## 2. **Sustainable Smart Campus Project**
+## 3. **Sustainable Smart Campus Project**
 
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2021 - Now)*
 
 * We aim to extend the scope of previous research *Data-driven Assessment of Room Air Conditioner Efficiency for Saving
   Energy* by applying explainable deep learning techniques.
 
-## 3. **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset**
+## 4. **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset**
 
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jan. 2021 - Sep. 2021)*
 
@@ -39,7 +45,7 @@ hand-on experiences below.**
   ability. We also propose a novel inductive commonsense reasoning model that reasons over graphs.
 * Accepted by *The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)*. (Main Conference)
 
-## 4. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
+## 5. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
 
@@ -47,7 +53,7 @@ hand-on experiences below.**
   which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources.
 * Accepted by *The Web Conference, 2021 (WWW2021)*.
 
-## 5. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
+## 6. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Aug. 2021)*
 
