@@ -33,8 +33,7 @@ hand-on experiences below.**
 
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2021 - Now)*
 
-* We aim to extend the scope of previous research *Data-driven Assessment of Room Air Conditioner Efficiency for Saving
-  Energy* by applying explainable deep learning techniques.
+* Details of this research project will be made public in the future.
 
 ## 4. **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset**
 
