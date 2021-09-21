@@ -19,7 +19,7 @@ completion.
 Currently, It's my great honor to work under the supervision
 of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at the Knowledge Computation Group in HKUST. At the same
 time, I greatly appreciate the help offered by my best working mentor/partner:
-[Mr. Tianqing Fang](https://github.com/tqfang) and my best friend in NLP: [Mr. Jiefu Ou](https://jefferyo.github.io/).
+[Mr. Tianqing Fang](fangtq.com) and my best friend in NLP: [Mr. Jiefu Ou](https://jefferyo.github.io/).
 
 This webpage is last updated on **2021/9/17**.
 
