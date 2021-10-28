@@ -17,7 +17,7 @@ hand-on experiences below.**
 - Some researches below may lead to publication related works, for details of my publications, please go
   to [this page](https://mighty-weaver.github.io/publications/).
 
-## 1. **Final Year Thesis Research Project**
+## 1. **Final Year Thesis**
 
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2021 - Now)*
 
