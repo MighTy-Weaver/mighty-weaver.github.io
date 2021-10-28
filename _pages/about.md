@@ -20,7 +20,7 @@ of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at the Knowledge Co
 time, I greatly appreciate the help offered by my best working mentor/partner:
 <a href="fangtq.com">Mr. Tianqing Fang</a> and my best friend in NLP: [Mr. Jiefu Ou](https://jefferyo.github.io/).
 
-This webpage is last updated on **2021/10/4**.
+This webpage is last updated on **2021/10/28**.
 
 
 ## News
