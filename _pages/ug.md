@@ -110,6 +110,4 @@ LANG1118    3   Enhanced Chinese Communication
 
 [COMP4471: Deep Learning in Computer Vision](https://github.com/MighTy-Weaver/COMP4471-2020Fall)
 
-[COMP4651: Cloud Computing and Big Data Systems](https://github.com/MighTy-Weaver/COMP4651-2021Fall)
-
 [COMP4901K: Machine Learning in Natural Language Processing](https://github.com/MighTy-Weaver/COVID19-NER)
