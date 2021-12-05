@@ -31,7 +31,8 @@ hand-on experiences below.**
 
 ## 3. **Sustainable Smart Campus Project**
 
-### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2021 - Now)*
+### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu),
+HKUST, Jun. 2021 - Now)*
 
 * Details of this research project will be made public in the future.
 
@@ -54,8 +55,9 @@ hand-on experiences below.**
 
 ## 6. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 
-### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Aug. 2021)*
+### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu),
+HKUST, Jun. 2020 - Aug. 2021)*
 
-* We present a data-driven approach to identify non-inverter window air conditioners (ACs) with low efficiency by
+* We present a data-driven framework to identify non-inverter window room air conditioners with low energy efficiency by
   analyzing smart meter data from the university student hall rooms.
-* Under review at *Journal of Cleaner Production (JCLEPRO)*.
+* Re-Submission under review at *Journal of Cleaner Production (JCLEPRO)*.
