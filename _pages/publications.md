@@ -14,7 +14,7 @@ author_profile: true
 
 <div style="text-align: right"><i>(Tianqing Fang*, <b>Weiqi Wang*</b>, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He)</i></div>
 
-Published in the Proceedings of ***The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)*** (Main Conference).
+Published in the Proceedings of ***The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)*** (Main Conference) (650/2540 = 25.59%).
 
 [link to the paper](https://arxiv.org/abs/2109.07679), [link to the code](https://github.com/HKUST-KnowComp/CSKB-Population)
 
