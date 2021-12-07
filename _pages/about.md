@@ -18,9 +18,9 @@ lies in the field of natural language processing, with a specific interest in co
 Currently, It's my great honor to work under the supervision
 of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/) at the Knowledge Computation Group in HKUST. At the same
 time, I greatly appreciate the help offered by my best working mentor/partner:
-<a href="fangtq.com">Mr. Tianqing Fang</a> and my best friend in NLP: [Mr. Jiefu Ou](https://jefferyo.github.io/).
+<a href="http://fangtq.com/">Mr. Tianqing Fang</a> and my best friend in NLP: [Mr. Jiefu Ou](https://jefferyo.github.io/).
 
-This webpage is last updated on **2021/10/28**.
+This webpage is last updated on **2021/12/5**.
 
 
 ## News
@@ -76,7 +76,7 @@ or discourse knowledge? Is it possible to take advantage of commonsense knowledg
 ## Awards
 
 * **Dean's List for the School of Engineering** in `Fall 2018`,`Fall 2019`,`Fall 2020`
-* **University's Scholarship Scheme for Continuing Undergraduate Students** in `2019-2020`,`2020-2021`
+* **University's Scholarship Scheme for Continuing Undergraduate Students** in `2019-2020`,`2020-2021`,`2021-2022`
 
 ## Contact me!
 

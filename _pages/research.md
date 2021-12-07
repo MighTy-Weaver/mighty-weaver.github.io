@@ -56,6 +56,6 @@ hand-on experiences below.**
 
 ### *(Supervisor: [Prof. Zhongming Lu](https://facultyprofiles.ust.hk/profiles.php?profile=zhongming-lu-zhongminglu), HKUST, Jun. 2020 - Aug. 2021)*
 
-* We present a data-driven approach to identify non-inverter window air conditioners (ACs) with low efficiency by
+* We present a data-driven framework to identify non-inverter window room air conditioners with low energy efficiency by
   analyzing smart meter data from the university student hall rooms.
-* Under review at *Journal of Cleaner Production (JCLEPRO)*.
+* Re-Submission under review at *Journal of Cleaner Production (JCLEPRO)*.
