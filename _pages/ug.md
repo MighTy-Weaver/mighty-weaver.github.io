@@ -100,8 +100,8 @@ LANG4030    3   Technical Communication II for CSE, CPEG & DSCT
 ```angular2html
 COMP4332    3   Big Data Mining and Management
 COMP4981H   3   Final Year Thesis
-HUMA1720    3   Logic
-LANG1118    3   Enhanced Chinese Communication
+HUMA1660    3   Introduction to Chinese Art
+HUMA3050    3   Psychology of Language
 ```
 ---
 
