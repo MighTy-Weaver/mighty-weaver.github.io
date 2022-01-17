@@ -21,10 +21,11 @@ time, I greatly appreciate the help offered by my best working mentor/partner:
 <a href="http://fangtq.com/">Mr. Tianqing Fang</a> and my best friend in
 NLP: [Mr. Jiefu Ou](https://jefferyo.github.io/).
 
-This webpage is last updated on **2022/1/4**.
+This webpage is last updated on **2022/1/17**.
 
 ## News
 
+- [2022/1/17]    One paper has been accepted to JCLEPRO.
 - [2021/8/26]    One paper has been accepted to EMNLP2021 (main conference).
 - [2021/1/16]    One paper has been accepted to WWW2021.
 

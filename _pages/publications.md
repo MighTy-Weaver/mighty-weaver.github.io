@@ -31,6 +31,6 @@ Published in the Proceedings of ***The Web Conference, 2021 (WWW2021)*** (357/17
 
 <div style="text-align: right"><i>(<b>Weiqi Wang*</b>, Zixuan Zhou*, Zhongming Lu)</i></div>
 
-Under review at ***Journal of Cleaner Production (JCLEPRO)*** (Impact Factor = 9.297).
+Published in the ***Journal of Cleaner Production (JCLEPRO)*** (Impact Factor = 9.297).
 
 link to the paper, [link to the code](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
