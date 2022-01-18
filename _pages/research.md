@@ -42,7 +42,7 @@ hand-on experiences below.**
 * In this paper, we benchmark the CSKB population task with a new large-scale dataset by first aligning four popular
   CSKBs, and then presenting a high-quality human-annotated evaluation set to probe neural models’ commonsense reasoning
   ability. We also propose a novel inductive commonsense reasoning model that reasons over graphs.
-* Published in the Proceedings of ***The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)*** (Main Conference).
+* Published in the Proceedings of *The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021) (Main Conference)*.
 
 
 ## 5. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
@@ -51,7 +51,7 @@ hand-on experiences below.**
 
 * We propose an alternative commonsense knowledge acquisition framework **DISCOS** *(from DIScourse to COmmonSense)*,
   which automatically mines expensive complex commonsense knowledge from more affordable linguistic knowledge resources.
-* Published in the Proceedings of ***The Web Conference, 2021 (WWW2021)***.
+* Published in the Proceedings of *The Web Conference, 2021 (WWW2021)*.
 
 ## 6. **Data-driven Smart Assessment of Room Air Conditioner Efficiency for Saving Energy**
 
