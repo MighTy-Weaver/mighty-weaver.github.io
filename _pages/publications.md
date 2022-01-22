@@ -24,8 +24,7 @@ Published in the Proceedings of ***The 2021 Conference on Empirical Methods in N
 
 Published in the Proceedings of ***The Web Conference, 2021 (WWW2021)*** (357/1736 = 20.56%).
 
-[link to the paper](https://arxiv.org/abs/2101.00154)
-, [link to the code](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
+[link to the paper](https://arxiv.org/abs/2101.00154), [link to the code](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
 ## Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy
 
@@ -33,4 +32,4 @@ Published in the Proceedings of ***The Web Conference, 2021 (WWW2021)*** (357/17
 
 Published in the ***Journal of Cleaner Production (JCLEPRO)*** (Impact Factor = 9.297).
 
-link to the paper, [link to the code](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
+[link to the paper](https://doi.org/10.1016/j.jclepro.2022.130615), [link to the code](https://github.com/MighTy-Weaver/Inefficient-AC-detection)

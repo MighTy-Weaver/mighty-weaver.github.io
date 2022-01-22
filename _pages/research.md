@@ -44,7 +44,6 @@ hand-on experiences below.**
   ability. We also propose a novel inductive commonsense reasoning model that reasons over graphs.
 * Published in the Proceedings of *The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021) (Main Conference)*.
 
-
 ## 5. ***DISCOS*: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge**
 
 ### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Sep. 2020 - Dec. 2020)*
