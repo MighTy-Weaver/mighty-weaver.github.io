@@ -25,7 +25,7 @@ hand-on experiences below.**
 
 ## 2. **NLP Research Project**
 
-### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jul. 2021 - Now)*
+### *(Supervisor: [Prof. Yangqiu Song](https://www.cse.ust.hk/~yqsong/), HKUST, Jul. 2021 - Jan. 2022)*
 
 * Details of this research project will be made public in the future.
 
