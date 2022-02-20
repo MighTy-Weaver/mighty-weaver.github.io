@@ -12,7 +12,7 @@ Below are displayed in the format of
 `Course Code + Number of Credits + Course Name`
 ## UG Year 1    
 ##### 16 + 20 + 6 = 42 Credits
-### Fall   
+### Fall
 ```angular2html
 COMP1022P   3   Introduction to Computing with Java
 MATH1013    3   Calculus I B
@@ -20,7 +20,7 @@ CHEM1004    3   Chemistry in Everyday Life
 ELEC1100    4   Introduction to Electro-Robot Design
 LANG1002S   3   English for University Studies I
 ```
-### Spring  
+### Spring
 ```angular2html
 COMP2011    4   Programming with C++
 COMP2711    4   Discrete Mathematical Tools
@@ -29,7 +29,7 @@ PHYS1112    3   General Physics I with Calculus
 SOSC1780    3   Population and Development in China
 LANG1003S   3   English for University Studies II
 ```
-### Summer 
+### Summer
 ```angular2html
 MATH2411    4   Applied Statistics
 COMP1029P   1   Python Programming Bridge Course
@@ -38,7 +38,7 @@ UROP1100    1   Undergraduate Research Opportunities Series I - I
 ---
 ## UG Year 2
 ##### 20 + 21 + 7 = 48 Credits
-### Fall 
+### Fall
 ```angular2html
 COMP2012    4   OOP and Data Structures
 MATH2023    4   Multivariable Calculus
@@ -47,7 +47,7 @@ MATH2121    4   Linear Algebra
 PHYS1003    3   Energy and Related Environmental Issues
 UROP2100    1   Undergraduate Research Opportunities Series I - II
 ```
-### Spring 
+### Spring
 ```angular2html
 COMP2611    4   Computer Organizations
 COMP3311    3   Database Management Systems
