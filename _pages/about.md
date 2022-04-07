@@ -1,5 +1,6 @@
 ---
-permalink: / title: "Weiqi Wang 王伟琪 Mighty"
+permalink: / 
+title: "Weiqi Wang 王伟琪 Mighty"
 excerpt: "About me"
 author_profile: true 
 redirect_from:
