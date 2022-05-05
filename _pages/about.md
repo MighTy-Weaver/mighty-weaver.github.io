@@ -14,7 +14,7 @@ Hi there! Welcome to my personal homepage. I'm currently a Final Year Undergradu
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pursing a bachelor degree in Computer
 Science and Mathematics. Starting from Fall 2022, I will be joining [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/)'s Knowledge Computation Group pursuing a PhD degree in Computer Science and Engineering as a [HKPFS](https://pg.ust.hk/prospective-students/scholarship-fees/hong-kong-phd-fellowship-scheme) holder. 
 
-This webpage is last updated on **2022/4/7**.
+This webpage is last updated on **2022/5/5**.
 
 ## News
 
@@ -38,7 +38,7 @@ combination of other field's knowledge such as environmental and atmospheric dat
 
 **1. Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- PhD in [Computer Science and Engineering](https://www.cse.ust.hk/),  *Sep. 2022 -- Jun. 2026 (Expected)*
+- Doctor of Philosophy in [Computer Science and Engineering](https://www.cse.ust.hk/),  *Sep. 2022 -- Jun. 2026 (Expected)*
 
 **2. Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 

@@ -20,8 +20,8 @@ main:
   - title: "Main Page"
     url: /about/
 
-  - title: "Research Experience"
-    url: /research/
+#  - title: "Research Experience"
+#    url: /research/
 
   - title: "Publications"
     url: /publications/
