@@ -16,7 +16,7 @@ author_profile: true
 
 Published in the Proceedings of ***The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)*** (Main Conference) (650/2540 = 25.59%).
 
-[link to the paper](https://arxiv.org/abs/2109.07679), [link to the code](https://github.com/HKUST-KnowComp/CSKB-Population)
+[link to the paper](https://aclanthology.org/2021.emnlp-main.705.pdf), [link to the code](https://github.com/HKUST-KnowComp/CSKB-Population)
 
 ## ***DISCOS***: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge
 
@@ -24,7 +24,7 @@ Published in the Proceedings of ***The 2021 Conference on Empirical Methods in N
 
 Published in the Proceedings of ***The Web Conference, 2021 (WWW2021)*** (357/1736 = 20.56%).
 
-[link to the paper](https://arxiv.org/abs/2101.00154), [link to the code](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
+[link to the paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3450117), [link to the code](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
 ## Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy
 
