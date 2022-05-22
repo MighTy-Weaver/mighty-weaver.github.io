@@ -43,8 +43,6 @@ combination of other field's knowledge such as environmental and atmospheric dat
 **2. Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
 - Bachelor Degree in [Computer Science](https://www.cse.ust.hk/) and [Mathematics](https://www.math.hkust.edu.hk/),  *Sep. 2018 -- Jun. 2022*
-- CGA: **3.82** / 4.30
-- MCGA: **3.87** / 4.30
 
 **3. Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
 
