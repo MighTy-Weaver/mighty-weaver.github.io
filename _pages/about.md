@@ -38,8 +38,8 @@ combination of other field's knowledge such as environmental and atmospheric dat
 
 **Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Doctor of Philosophy in [Computer Science and Engineering](https://www.cse.ust.hk/),  *Sep. 2022 -- Jun. 2026 (Expected)*
-- Bachelor Degree in [Computer Science](https://cse.hkust.edu.hk/) and [Mathematics](https://www.math.hkust.edu.hk/),  *Sep. 2018 -- Jun. 2022*
+- Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Jun. 2026 (Expected)*
+- Bachelor Degree in Computer Science and Mathematics,  *Sep. 2018 -- Jun. 2022*
 
 **Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
 
