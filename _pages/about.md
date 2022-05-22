@@ -14,7 +14,7 @@ Hi there! Welcome to my personal homepage. I'm currently a Final Year Undergradu
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pursing a bachelor degree in Computer
 Science and Mathematics. Starting from Fall 2022, I will be joining [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/)'s Knowledge Computation Group pursuing a PhD degree in Computer Science and Engineering as a [HKPFS](https://pg.ust.hk/prospective-students/scholarship-fees/hong-kong-phd-fellowship-scheme) holder. 
 
-This webpage is last updated on **2022/5/5**.
+This webpage is last updated on **2022/5/22**.
 
 ## News
 
@@ -36,15 +36,12 @@ combination of other field's knowledge such as environmental and atmospheric dat
 
 ## Education
 
-**1. Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
+**Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
 - Doctor of Philosophy in [Computer Science and Engineering](https://www.cse.ust.hk/),  *Sep. 2022 -- Jun. 2026 (Expected)*
+- Bachelor Degree in [Computer Science](https://cse.hkust.edu.hk/) and [Mathematics](https://www.math.hkust.edu.hk/),  *Sep. 2018 -- Jun. 2022*
 
-**2. Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
-
-- Bachelor Degree in [Computer Science](https://www.cse.ust.hk/) and [Mathematics](https://www.math.hkust.edu.hk/),  *Sep. 2018 -- Jun. 2022*
-
-**3. Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
+**Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
 
 - High School Diploma in Science, *Sep. 2015 -- Jun. 2018*
 
