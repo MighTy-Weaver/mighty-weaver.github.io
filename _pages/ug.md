@@ -108,6 +108,8 @@ HUMA2101    3   Enjoyment of Western Opera
 ## Open-Sourced Course Assignment/Project Repository:
 [COMP4021: Internet Computing](https://github.com/MighTy-Weaver/COMP4021-2020Fall) 
 
+[COMP4332: Big Data Mining and Management](https://github.com/MighTy-Weaver/COMP4332-2022Spring)
+
 [COMP4471: Deep Learning in Computer Vision](https://github.com/MighTy-Weaver/COMP4471-2020Fall)
 
 [COMP4901K: Machine Learning in Natural Language Processing](https://github.com/MighTy-Weaver/COVID19-NER)
