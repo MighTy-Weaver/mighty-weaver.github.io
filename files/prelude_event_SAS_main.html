@@ -1,0 +1,218 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+
+    <meta content="width=device-width,initial-scale=1" name="viewport"/>
+    <section class="container" id="Survey">
+
+        <!--    --------------------------------------------------------------------->
+        <!--    ------------------------Instruction Area----------------------------->
+        <!--    ------Modify after  <div class="panel-body" id="instructionBody">---->
+        <!--    --------------------------------------------------------------------->
+
+        <div class="row">
+            <div class="col-xs-12 col-md-12">
+                <div class="panel panel-primary">
+                    <!-- WARNING: the ids "collapseTrigger" and "instructionBody" are being used to enable expand/collapse feature -->
+                    <a class="panel-heading" href="javascript:void(0);" id="collapseTrigger"><strong>Survey
+                        Instructions</strong> <span class="collapse-text">(Click to expand)</span> </a>
+                    <div class="panel-body" id="instructionBody">
+
+                        <h3 style="text-align: center">Event Transition - SAS</h3>
+
+                        <p style="font-size: 15px">Hi there! Welcome to our HIT.</p>
+
+                        <p style="font-size: 17px"><strong>In this survey, your task is to write a <span
+                                style="color: red">STATE (using a stative verb) such that the ACTION (in red)
+                            causes the transition between two STATEs.</span></strong></p>
+
+                        <h3 style="text-align: center">Definition of STATE & ACTION</h3>
+
+                        <p style="font-size: 17px">ACTION describe actions we take (things we do) or things that
+                            happen, they usually end in a certain time period and represent a certain action instead of
+                            a state.<br>STATE are usually described using stative verbs, they refer to the way things
+                            'are'
+                            - their appearance, state of being, smell, etc.<br>The most important difference between
+                            STATE
+                            and ACTION is that action verbs can be used in continuous tenses and stative verbs cannot be
+                            used in continuous tenses.</p>
+
+                        <p style="font-size: 15px"><strong>Note that a number of verbs can refer to states or actions,
+                            depending on the context.</strong><br> For example:<br>I think it's a good idea.<br> Wait a
+                            moment! I'm thinking. </p>
+
+                        <p style="font-size: 15px">The first sentence expresses an opinion. It is a mental state, so we
+                            use present simple. In the second example the speaker is actively processing thoughts about
+                            something. It is an action in progress, so we use present continuous.</p>
+
+                        <p style="font-size: 15px">Some other examples are:</p>
+
+                        <p style="font-size: 15px">
+                            <strong>have</strong><br>
+                            I have an old car. (state – possession)<br>
+                            I'm having a quick break. (action – having a break is an activity)<br><br>
+
+                            <strong>see</strong><br>
+                            Do you see any problems with that? (state – opinion)<br>
+                            We're seeing Tadanari tomorrow afternoon. (action – we're meeting him)<br><br>
+
+                            <strong>be</strong><br>
+                            He's so interesting! (state – his permanent quality)<br>
+                            He's being very unhelpful. (action – he is temporarily behaving this way)<br><br>
+
+                            <strong>taste</strong><br>
+                            This coffee tastes delicious. (state – our perception of the coffee)<br>
+                            Look! The chef is tasting the soup. (action – tasting the soup is an activity)<br><br></p>
+
+                        <h3 style="color: rebeccapurple">Some Hints</h3>
+                        <p style="font-size: 18px">A common way to distinguish a state is that the verbs aren't usually
+                            used in the present continuous form. Take the examples below, the cross-lined sentences
+                            aren't usually used in English, and those uncross-lined sentences are all describing a
+                            state.</p>
+
+                        <blockquote>
+                            <p><em>I don't know the answer. <s>I'm not knowing the answer.</s><br/>
+                                She really likes you. <s>She's really liking you.</s><br/>
+                                He seems happy at the moment. <s>He's seeming happy at the moment.</s></em></p>
+                        </blockquote>
+
+                        <h3 style="text-align: center">Fill in the missing STATE</h3>
+                        <p>After understanding the difference between STATE and ACTION, your task is to fill in a STATE
+                            such that the ACTION marked in red will cause a transition between two STATEs.</p>
+                        <br>
+                        <p>For example:</p>
+                        <blockquote>
+                            <p><em>PersonX feels hungry,<br/>
+                                <span style="color:red;">PersonX eats a hamburger</span><br/>
+                                PersonX is happy</em></p>
+                        </blockquote>
+                        <p style="font-size: 15px">PersonX feels hungry and is happy are both STATEs of PersonX, and
+                            eating a hamburger is an
+                            ACTION taken by PersonX as well. Moreover, PersonX's STATE transit from feeling hungry to
+                            happy because he takes the action of eating hamburger. In this way, we say that eating a
+                            hamburger causes the transition between feel hungry and is happy.</p>
+                        <p style="color:red;">IT'S VERY IMPORTANT THAT THE GIVEN ACTION IN RED WILL CAUSE THE
+                            TRANSITION BETWEEN TWO EVENTS!</p>
+                        <p>Some other examples are:</p>
+                        <blockquote>
+                            <p><em>PersonX is jealous of PersonY,<br/>
+                                <span style="color: red">PersonX makes PersonY ill</span>,<br/>
+                                PersonY wants to go back to work</em></p><br>
+                            <p><em>PersonX is looking for PersonY,<br/>
+                                <span style="color: red">PersonX makes a phone call</span>,<br/>
+                                PersonX wants PersonY to answer</em></p><br>
+                            <p><em>PersonY is thirsty,<br/>
+                                <span style="color: red">PersonX makes a pot of coffee</span>,<br/>
+                                PersonY wants to drink the coffee</em></p><br>
+                        </blockquote>
+
+                        <p style="font-size: 18px;color: darkred">Please answer these question carefully and don't spam
+                            the answer. Make sure that the action will cause the transition between two states.<br>Since
+                            these are writing questions instead of multiple choices, each answer will
+                            be examined manually and there is a chance of rejection if your answer is not related to the
+                            question.<br>Also, please use PersonX and PersonY for subjects.</p>
+                        <crowd-checkbox name="ReadInstruction" required><span style="color: red;">I declare that I've
+                            read the instructions carefully. You will be rejected if you spam the question or type unrelated answers.</span>
+                        </crowd-checkbox>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!--    --------------------------------------------------------------------->
+        <!--    ------------------------Question Area-------------------------------->
+        <!--    --------------------------------------------------------------------->
+        <div class="row" id="workContent">
+            <div class="col-sm-8 col-sm-offset-2">
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question</strong></h4>
+                    <div class="panel-body">
+                        <p>${h_id}${t_id}</p>
+                        <p>STATE 1:</p>
+                        <crowd-input name="state1" placeholder="example: PersonX is hungry" required></crowd-input>
+                        <p>ACTION: <span style="color:red;font-size: 19px"><strong>${action}</strong></span></p>
+                        <p>STATE 2: <span style="font-size: 19px"><strong>${state2}</strong></span></p>
+                        <br><br><br>
+                        <crowd-checkbox name="Report"><span style="color: red;">If you think that the given two phrases are not in the form of ACTION - STATE, e.g. if they are both STATEs, please tick this box to report the question.</span>
+                        </crowd-checkbox>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    -----------------------WARNING: DO NOT MODIFY BELOW------------------------------------->
+    <!--    -----------Below are Extra CSS Styles settings and Reference---------------------------->
+    <!--    ---------Nothing related to the content of the survey anymore--------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+
+    <!-- Please note that Bootstrap CSS/JS and JQuery are 3rd party libraries that may update their url/code at any time. Amazon Mechanical Turk (MTurk) is including these libraries as a default option for you, but is not responsible for any changes to the external libraries -->
+    <!-- External CSS references -->
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"
+          integrity="sha384-IS73LIqjtYesmURkDE9MXKbXqYA8rvKEp/ghicjem7Vc3mGRdQRptJSz60tvrB6+" rel="stylesheet"/>
+    <!-- Open internal style sheet -->
+    <style type="text/css">#collapseTrigger {
+        color: #fff;
+        display: block;
+        text-decoration: none;
+    }
+
+    #submitButton {
+        white-space: normal;
+    }
+
+    .image {
+        margin-bottom: 15px;
+    }
+
+    table,
+    td {
+        text-align-all: center;
+        border: 1px solid #333;
+    }
+
+    thead {
+        text-align-all: center;
+        background-color: #333;
+        color: #fff;
+    }
+
+    tfoot {
+        background-color: #333;
+        color: #fff;
+        text-align-all: center;
+    }
+
+    </style>
+    <!-- Close internal style sheet --><!-- External JS references -->
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"
+            integrity="sha384-s1ITto93iSMDxlp/79qhWHi+LsIi9Gx6yL+cOKDuymvihkfol83TYbLbOw+W/wv4"
+            crossorigin="anonymous"></script><!-- Open internal javascript -->
+    <script>
+        $(document).ready(function () {
+            // Instructions expand/collapse
+            var content = $('#instructionBody');
+            var trigger = $('#collapseTrigger');
+            $('.collapse-text').text('');
+            trigger.click(function () {
+                content.toggle();
+                var isVisible = content.is(':visible');
+                if (isVisible) {
+                    $('.collapse-text').text('');
+                } else {
+                    $('.collapse-text').text(' (Click to Expand the Instruction)');
+                }
+            });
+            // end expand/collapse
+        });
+    </script><!-- CLose internal javascript -->
+</crowd-form>
