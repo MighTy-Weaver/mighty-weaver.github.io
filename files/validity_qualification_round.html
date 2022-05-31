@@ -1,0 +1,364 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+
+    <meta content="width=device-width,initial-scale=1" name="viewport"/>
+    <section class="container" id="Survey">
+
+        <!--    --------------------------------------------------------------------->
+        <!--    ------------------------Instruction Area----------------------------->
+        <!--    ------Modify after  <div class="panel-body" id="instructionBody">---->
+        <!--    --------------------------------------------------------------------->
+
+        <div class="row">
+            <div class="col-xs-12 col-md-12">
+                <div class="panel panel-primary">
+                    <!-- WARNING: the ids "collapseTrigger" and "instructionBody" are being used to enable expand/collapse feature -->
+                    <a class="panel-heading" href="javascript:void(0);" id="collapseTrigger"><strong>Survey
+                        Instructions</strong> <span class="collapse-text">(Click to expand)</span> </a>
+                    <div class="panel-body" id="instructionBody">
+                        <h2 align="center">E-Commerce Behavior Assertion Validation</h2>
+                        <p style="font-size: 16px">Hi there! Welcome to our HITS! In this survey, you will be presented
+                            with two items from Amazon online shopping website. After the two items, there will be five
+                            <strong style="color: red">assertions</strong>, describing a person's behavior when
+                            shopping these two items. These assertions are likely to be related to the attributes,
+                            functions, usages, and intentions of the two items. Your task is to <strong
+                                    style="color: red">determine the validity of each assertion given the scheme
+                                below.</strong></p>
+                        <br>
+                        <p style="font-size: 16px">Please note that this is a qualification round for all workers
+                            invited. There is a <i>correct</i> answer for each of the question below. Those who achieved
+                            85% questions correct will be invited to our future rounds, where thousands of dollars will
+                            be rewarded. So please try your best!</p>
+                        <br>
+                        <p style="font-size: 16px">An assertion can be either valid or invalid. Here we provide you the
+                            detailed requirements of a valid assertion and some examples for both categories.</p>
+                        <h3 align="center">Valid Assertion</h3>
+                        <p style="font-size: 16px">A valid assertion needs to satisfy the following requirements:</p>
+                        <ul style="font-size: 16px">
+                            <li>
+                                <strong>Sentence completeness</strong>: The assertion is a complete sentence, it
+                                generally makes sense and ends naturally. There are no garbled words (words that have no
+                                meaning), and the sentence is not missing any grammar component.
+                            </li>
+                            <li>
+                                <strong>Content relatedness</strong>: The assertion is related with both items, they
+                                should be describing user's shopping behavior regarding the items' attributes,
+                                functions, usages, and intentions. <span style="color: red">Note that if the sentence is only describing one item (the other item doesn't fit into the assertion), or the assertion is completely unrelated with both items, the assertion is NOT VALID.</span>
+                            </li>
+                            <li>
+                                <strong>Content correctness</strong>: As the assertion is describing BOTH items, the
+                                items' attributes, functions, usages, and intentions, mentioned or reflected in the
+                                assertion, should be correctly matched to both items or their categories. <span
+                                    style="color: red">Meanwhile,
+                                the assertion should contain more information than simply the name of the items. If the
+                                assertion repeats the name of items without any other useful information, it is
+                                INVALID.</span>
+                            </li>
+                        </ul>
+                        <p style="font-size: 16px">Some VALID examples are presented for you to have a better
+                            understanding:</p>
+                        <blockquote>
+                            <p><em>PersonX bought a steak and a bacon because they are both used for cooking
+                                dishes.</em></p>
+                            <p><em>PersonX bought a basketball and a jersey because they are both similar to the
+                                equipments used by Lebron James.</em></p>
+                        </blockquote>
+                        <br>
+                        <h3 align="center">Invalid Assertion</h3>
+                        <p style="font-size: 16px">Here we provide some examples for you to understand what makes an
+                            invalid assertion:</p>
+                        <ul style="font-size: 16px">
+                            <li>
+                                <strong>Incomplete assertion</strong>: PersonX bought a steak and a bacon because they
+                                are all
+                            </li>
+                            <li>
+                                <strong>Garbled assertion</strong>: PersonX bought a television and a phone because they
+                                are derived from 2 the early 1960's, 70's to the present, the '80s, '90s etc, of
+                                course.."
+                            </li>
+                            <li>
+                                <strong>Unrelated assertion</strong>: PersonX bought a Halloween costume and Halloween
+                                candies because they can be used to play soccer.
+                            </li>
+                            <li>
+                                <strong>Assertion only related to one item</strong>: PersonX bought a battery and a mask
+                                because they are symbols of energy.
+                            </li>
+                            <li>
+                                <strong>Incorrect contents</strong>: PersonX bought a pair of shoes and a pair of
+                                sneakers because they are made of plastic.
+                            </li>
+                            <li>
+                                <strong>Useless/Repeated information</strong>: PersonX bought a McDonald's Big Mac
+                                because it has the property of being a "McDonald's Big Mac".
+                            </li>
+                        </ul>
+                        <br>
+                        <h3 align="center">Additional Hints</h3>
+                        <p style="font-size: 16px">Please ignore grammar mistakes in all the assertions provided, just
+                            stick to the content of each assertion.</p>
+                        <p style="font-size: 16px">Note that for the assertions that are correct but are too general,
+                            for example: PersonX bought item A and item B because he likes them very much, <span
+                                    style="color: red">they are <strong>VALID</strong></span>.</p>
+                        <p style="font-size: 16px">If the images are unclear or cannot reflect the items clearly, please
+                            click into the amazon link provided below each item to check the details. You are advised to
+                            grab information from the amazon link page if there's assertion that you can't decide.</p>
+                        <p><br>Please check the following box before you start reading the questions.</p>
+                        <crowd-checkbox name="ReadInstruction" required><span style="color: red;">I declare that I've
+                                                    read the instructions carefully. Failing to do so may cause a rejection.</span>
+                        </crowd-checkbox>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!--    --------------------------------------------------------------------->
+        <!--    ------------------------Question Area-------------------------------->
+        <!--    --------------------------------------------------------------------->
+
+        <div class="row" id="workContent">
+            <div class="col-sm-8 col-sm-offset-2">
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Item Card</strong></h4>
+                    <div class="panel-body">
+                        <style type="text/css">
+                            .tg {
+                                border-collapse: collapse;
+                                border-spacing: 0;
+                            }
+
+                            .tg td {
+                                border-color: black;
+                                border-style: solid;
+                                border-width: 1px;
+                                font-family: Arial, sans-serif;
+                                font-size: 14px;
+                                overflow: hidden;
+                                padding: 10px 5px;
+                                word-break: normal;
+                            }
+
+                            .tg th {
+                                border-color: black;
+                                border-style: solid;
+                                border-width: 1px;
+                                font-family: Arial, sans-serif;
+                                font-size: 14px;
+                                font-weight: normal;
+                                overflow: hidden;
+                                padding: 10px 5px;
+                                word-break: normal;
+                            }
+
+                            .tg .tg-baqh {
+                                font-size: 20px;
+                                text-align: center;
+                                vertical-align: top
+                            }
+                        </style>
+                        <table class="tg">
+                            <thead>
+                            <tr>
+                                <th class="tg-baqh" style="width: 362px">Item A</th>
+                                <th class="tg-baqh" style="width: 362px">Item B</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td class="tg-baqh"><img src="${item_a_img1_url}"
+                                                         style="max-width: 350px;max-height: 300px"/><br><img
+                                        src="${item_a_img2_url}" style="max-width: 350px;max-height: 300px"/><br><img
+                                        src="${item_a_img3_url}" style="max-width: 350px;max-height: 300px"/>
+                                </td>
+                                <td class="tg-baqh"><img src="${item_b_img1_url}"
+                                                         style="max-width: 350px;max-height: 300px"/><br><img
+                                        src="${item_b_img2_url}" style="max-width: 350px;max-height: 300px"/><br><img
+                                        src="${item_b_img3_url}" style="max-width: 350px;max-height: 300px"/></td>
+                            </tr>
+                            <tr>
+                                <td class="tg-baqh">ID:${item_a_id} (${item_a_cate})</td>
+                                <td class="tg-baqh">ID:${item_b_id} (${item_b_cate})</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-baqh">${item_a_name}</td>
+                                <td class="tg-baqh">${item_b_name}</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-baqh"><a href="${item_a_link}">Amazon Link</a></td>
+                                <td class="tg-baqh"><a href="${item_b_link}">Amazon Link</a></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <crowd-checkbox name="InformationMismatch"><span style="color: black;">The amazon page is missing, or there is a mismatch between the item and the image, or the image cannot reflect the item clearly.</span>
+                    </crowd-checkbox>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Assertion 1 (${assertion_1_relation}): </strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px;color: darkred"><strong>${assertion1}</strong></p>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 1 Validity</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">Is this a valid assertion? (Invalid if it does not make sense to
+                            you)</p>
+                        <div class="radio"><label><input name="q1" required=""
+                                                         type="radio" value="0"/>Yes, this sentence satisfies all the
+                            requirements of a valid assertion.</label></div>
+                        <div class="radio"><label><input name="q1" required=""
+                                                         type="radio" value="1"/>No, this sentence is invalid as it
+                            falls into one of the reasons that make an invalid assertion.</label>
+                        </div>
+                        <div class="radio"><label><input name="q1" required="" type="radio" value="2"/>Unfamiliar with
+                            Item A or B, so I can't decide.</label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Assertion 2 (${assertion_2_relation}): </strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px;color: darkred"><strong>${assertion2}</strong></p>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 2 Validity</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">Is this a valid assertion? (Invalid if it does not make sense to
+                            you)</p>
+                        <div class="radio"><label><input name="q2" required=""
+                                                         type="radio" value="0"/>Yes, this sentence satisfies all the
+                            requirements of a valid assertion.</label></div>
+                        <div class="radio"><label><input name="q2" required=""
+                                                         type="radio" value="1"/>No, this sentence is invalid as it
+                            falls into one of the reasons that make an invalid assertion.</label>
+                        </div>
+                        <div class="radio"><label><input name="q2" required="" type="radio" value="2"/>Unfamiliar with
+                            Item A or B, so I can't decide.</label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Assertion 3 (${assertion_3_relation}): </strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px;color: darkred"><strong>${assertion3}</strong></p>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 3 Validity</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">Is this a valid assertion? (Invalid if it does not make sense to
+                            you)</p>
+                        <div class="radio"><label><input name="q3" required=""
+                                                         type="radio" value="0"/>Yes, this sentence satisfies all the
+                            requirements of a valid assertion.</label></div>
+                        <div class="radio"><label><input name="q3" required=""
+                                                         type="radio" value="1"/>No, this sentence is invalid as it
+                            falls into one of the reasons that make an invalid assertion.</label>
+                        </div>
+                        <div class="radio"><label><input name="q3" required="" type="radio" value="2"/>Unfamiliar with
+                            Item A or B, so I can't decide.</label></div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Assertion 4 (${assertion_4_relation}): </strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px;color: darkred"><strong>${assertion4}</strong></p>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Question 4 Validity</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">Is this a valid assertion? (Invalid if it does not make sense to
+                            you)</p>
+                        <div class="radio"><label><input name="q4" required=""
+                                                         type="radio" value="0"/>Yes, this sentence satisfies all the
+                            requirements of a valid assertion.</label></div>
+                        <div class="radio"><label><input name="q4" required=""
+                                                         type="radio" value="1"/>No, this sentence is invalid as it
+                            falls into one of the reasons that make an invalid assertion.</label>
+                        </div>
+                        <div class="radio"><label><input name="q4" required="" type="radio" value="2"/>Unfamiliar with
+                            Item A or B, so I can't decide.</label></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    -----------------------WARNING: DO NOT MODIFY BELOW------------------------------------->
+    <!--    -----------Below are Extra CSS Styles settings and Reference---------------------------->
+    <!--    ---------Nothing related to the content of the survey anymore--------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+
+    <!-- Please note that Bootstrap CSS/JS and JQuery are 3rd party libraries that may update their url/code at any time. Amazon Mechanical Turk (MTurk) is including these libraries as a default option for you, but is not responsible for any changes to the external libraries -->
+    <!-- External CSS references -->
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"
+          integrity="sha384-IS73LIqjtYesmURkDE9MXKbXqYA8rvKEp/ghicjem7Vc3mGRdQRptJSz60tvrB6+" rel="stylesheet"/>
+    <!-- Open internal style sheet -->
+    <style type="text/css">#collapseTrigger {
+        color: #fff;
+        display: block;
+        text-decoration: none;
+    }
+
+    #submitButton {
+        white-space: normal;
+    }
+
+    .image {
+        margin-bottom: 15px;
+    }
+
+    table,
+    td {
+        text-align-all: center;
+        border: 1px solid #333;
+    }
+
+    thead {
+        text-align-all: center;
+        background-color: #333;
+        color: #fff;
+    }
+
+    tfoot {
+        background-color: #333;
+        color: #fff;
+        text-align-all: center;
+    }
+
+    </style>
+    <!-- Close internal style sheet --><!-- External JS references -->
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"
+            integrity="sha384-s1ITto93iSMDxlp/79qhWHi+LsIi9Gx6yL+cOKDuymvihkfol83TYbLbOw+W/wv4"
+            crossorigin="anonymous"></script><!-- Open internal javascript -->
+    <script>
+        $(document).ready(function () {
+            // Instructions expand/collapse
+            var content = $('#instructionBody');
+            var trigger = $('#collapseTrigger');
+            $('.collapse-text').text(' (Click to Collapse)');
+            trigger.click(function () {
+                content.toggle();
+                var isVisible = content.is(':visible');
+                if (isVisible) {
+                    $('.collapse-text').text(' (Click to Collapse)');
+                } else {
+                    $('.collapse-text').text(' (Click to Expand the Instruction)');
+                }
+            });
+            // end expand/collapse
+        });
+    </script><!-- CLose internal javascript -->
+</crowd-form>
