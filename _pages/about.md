@@ -10,11 +10,14 @@ redirect_from:
 
 ## About me
 
-Hi there! Welcome to my personal homepage. I'm currently a Final Year Undergraduate Student in
-the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), pursing a bachelor degree in Computer
-Science and Mathematics. Starting from Fall 2022, I will be joining [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/)'s Knowledge Computation Group pursuing a PhD degree in Computer Science and Engineering as a [HKPFS](https://pg.ust.hk/prospective-students/scholarship-fees/hong-kong-phd-fellowship-scheme) holder. 
+Hi there! Welcome to my personal homepage. I'm an incoming Ph.D. Student at
+the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) supervised
+by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in the field of commonsense
+reasoning and natural language processing. I received my bachelor degree in Computer Science and Mathematics from the
+same institution, and I'm now funded by
+the [HKPFS](https://pg.ust.hk/prospective-students/scholarship-fees/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2022/5/22**.
+This webpage is last updated on **2022/6/4**.
 
 ## News
 
@@ -31,8 +34,8 @@ commonsense related information or attributes behind? What additional informatio
 models for them to capture the commonsense knowledge? What is the ultimate way to realize understanding human language
 by machine?
 
-Beside the above topics, I'm also actively participating researches in Machine learning based data mining with the
-combination of other field's knowledge such as environmental and atmospheric data.
+Beside the above topics, I'm also actively participating researches in machine learning based data mining with the
+combination of other field's knowledge such as environmental and energy.
 
 ## Education
 
