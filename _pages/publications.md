@@ -10,6 +10,14 @@ author_profile: true
 - The publications below are listed by their publishing time.
 - \* indicates equal contribution.
 
+## Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization
+
+<div style="text-align: right"><i>(Mutian He, Tianqing Fang, <b>Weiqi Wang</b>, Yangqiu Song)</i></div>
+
+Arxiv Preprint. Currently under review.
+
+[link to the paper](https://arxiv.org/pdf/2206.01532.pdf), [link to the code](https://github.com/HKUST-KnowComp/atomic-conceptualization)
+
 ## Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset
 
 <div style="text-align: right"><i>(Tianqing Fang*, <b>Weiqi Wang*</b>, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He)</i></div>
