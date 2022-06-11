@@ -17,7 +17,7 @@ reasoning and natural language processing. I received my bachelor degree in Comp
 same institution, and I'm now funded by
 the [HKPFS](https://pg.ust.hk/prospective-students/scholarship-fees/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2022/6/4**.
+This webpage is last updated on **2022/6/12**.
 
 ## News
 
@@ -27,15 +27,19 @@ This webpage is last updated on **2022/6/4**.
 
 ## Research Interest
 
-I'm mainly interested in the research of Natural Language Processing, with a special interest in commonsense reasoning
-and acquisition. In general, I'm aspired to answer the following questions: How can we build deep learning models to
-efficiently and accurately learn the commonsense knowledge from large corpus? How can machine learning models learn the
-commonsense related information or attributes behind? What additional information should we provide to deep learning
-models for them to capture the commonsense knowledge? What is the ultimate way to realize understanding human language
-by machine?
+I'm mainly interested in the research of Natural Language Processing, with a special interest in commonsense reasoning. 
 
-Beside the above topics, I'm also actively participating researches in machine learning based data mining with the
-combination of other field's knowledge such as environmental and energy.
+I also participated researches in data mining with the combination of other field's knowledge such as environmental and energy.
+
+[//]: # (In general, I'm aspired to answer the following questions: How can we build deep learning models to)
+
+[//]: # (efficiently and accurately learn the commonsense knowledge from large corpus? How can machine learning models learn the)
+
+[//]: # (commonsense related information or attributes behind? What additional information should we provide to deep learning)
+
+[//]: # (models for them to capture the commonsense knowledge? What is the ultimate way to realize understanding human language)
+
+[//]: # (by machine?)
 
 ## Education
 
