@@ -29,7 +29,7 @@ This webpage is last updated on **2022/6/12**.
 
 I'm mainly interested in the research of Natural Language Processing, with a special interest in commonsense reasoning. 
 
-I also participated researches in data mining with the combination of other field's knowledge such as environmental and energy.
+I also participated researches in data mining with the combination of other field's knowledge such as environment and energy.
 
 [//]: # (In general, I'm aspired to answer the following questions: How can we build deep learning models to)
 
