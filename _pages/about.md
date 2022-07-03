@@ -45,7 +45,7 @@ I'm mainly interested in the research of Natural Language Processing, with a spe
 
 **Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Ph.D. in Computer Science and Engineering,  *Sep. 2022 -- Jun. 2026 (Expected)*
+- Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Jun. 2026 (Expected)*
 - Bachelor Degree in Computer Science and Mathematics,  *Sep. 2018 -- Jun. 2022*
 
 **Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
