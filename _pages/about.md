@@ -17,7 +17,7 @@ reasoning and natural language processing. I received my bachelor degree in Comp
 same institution, and I'm now funded by
 the [HKPFS](https://pg.ust.hk/prospective-students/scholarship-fees/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2022/6/12**.
+This webpage is last updated on **2022/7/3**.
 
 ## News
 
@@ -29,7 +29,7 @@ This webpage is last updated on **2022/6/12**.
 
 I'm mainly interested in the research of Natural Language Processing, with a special interest in commonsense reasoning. 
 
-I also participated researches in data mining with the combination of other field's knowledge such as environment and energy.
+[//]: # (I also participated researches in data mining with the combination of other field's knowledge such as environment and energy.)
 
 [//]: # (In general, I'm aspired to answer the following questions: How can we build deep learning models to)
 
@@ -45,7 +45,7 @@ I also participated researches in data mining with the combination of other fiel
 
 **Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Jun. 2026 (Expected)*
+- Ph.D. in Computer Science and Engineering,  *Sep. 2022 -- Jun. 2026 (Expected)*
 - Bachelor Degree in Computer Science and Mathematics,  *Sep. 2018 -- Jun. 2022*
 
 **Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
@@ -56,7 +56,7 @@ I also participated researches in data mining with the combination of other fiel
 
 * **Hong Kong PhD Fellowship** (2022 - 2026)
 * **HKUST RedBird PhD Scholarship** (2022)
-* **Dean's List for the School of Engineering** (Fall 2018, Fall 2019, Fall 2020)
+* **Dean's List for the School of Engineering** (Fall 2018, Fall 2019, Fall 2020, Spring 2022)
 * **University's Scholarship Scheme for Continuing Undergraduate Students** (2019 - 2022)
 
 ## Contact me!
