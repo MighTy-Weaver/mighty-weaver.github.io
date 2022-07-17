@@ -17,7 +17,7 @@ reasoning and natural language processing. I received my bachelor degree in Comp
 same institution, and I'm now funded by
 the [HKPFS](https://pg.ust.hk/prospective-students/scholarship-fees/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2022/7/3**.
+This webpage is last updated on **2022/7/17**.
 
 ## News
 
