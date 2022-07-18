@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Undergraduate Course Study Path"
+title: "Course Study Path"
 permalink: /course/
 redirect_from:
   - /course
 ---
 
-This is the course history during my undergraduate study in the Hong Kong University of Science and Technology. 
+This is the course history during my study in the Hong Kong University of Science and Technology. 
 
-Below are displayed in the format of
-`Course Code + Number of Credits + Course Name`
+*Remark: Courses are listed in the format of `Course Code + Number of Credits + Course Name`*
+
 ## UG Year 1    
 ##### 16 + 20 + 6 = 42 Credits
 ### Fall
@@ -104,6 +104,16 @@ HUMA1660    3   Introduction to Chinese Art
 HUMA2101    3   Enjoyment of Western Opera
 ```
 ---
+## PhD Year 1
+##### TBD
+### Fall
+```angular2html
+TBD
+```
+### Spring
+```angular2html
+TBD
+```
 
 ## Open-Sourced Course Assignment/Project Repository:
 [COMP4021: Internet Computing](https://github.com/MighTy-Weaver/COMP4021-2020Fall) 

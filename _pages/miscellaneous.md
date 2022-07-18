@@ -21,4 +21,4 @@ I use this webpage to keep track of some non-academic experiences/achievements.
 
 ### Personal Hobbies
 
-- I'm a huge fan of FPS games including CSGO, Call of Duty, etc.
+- I'm a huge fan of FPS games including CSGO, Call of Duty, Battlefield, etc. I also love playing sport games such as NBA2K or FIFA.
