@@ -15,7 +15,7 @@ the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) supe
 by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in the field of commonsense
 reasoning and natural language processing. I received my bachelor degree in Computer Science and Mathematics from the
 same institution, and I'm now funded by
-the [HKPFS](https://pg.ust.hk/prospective-students/scholarship-fees/hong-kong-phd-fellowship-scheme) award.
+the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
 This webpage is last updated on **2022/7/17**.
 
