@@ -1,0 +1,502 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js" xmlns="http://www.w3.org/1999/html"></script>
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+
+    <meta content="width=device-width,initial-scale=1" name="viewport"/>
+    <section class="container" id="Survey">
+
+        <!--    --------------------------------------------------------------------->
+        <!--    ------------------------Instruction Area----------------------------->
+        <!--    ------Modify after  <div class="panel-body" id="instructionBody">---->
+        <!--    --------------------------------------------------------------------->
+
+        <div class="row">
+            <div class="col-xs-12 col-md-12">
+                <div class="panel panel-primary">
+                    <!-- WARNING: the ids "collapseTrigger" and "instructionBody" are being used to enable expand/collapse feature -->
+                    <a class="panel-heading" href="javascript:void(0);" id="collapseTrigger"><strong>Survey
+                        Instructions</strong> <span class="collapse-text">(Click to expand)</span> </a>
+                    <div class="panel-body" id="instructionBody">
+                        <h2 align="center">E-Commerce Behavior Assertion Quality Evaluation</h2>
+                        <p style="font-size: 16px">Hi! Welcome to this qualification HIT. Satisfying a predefined score
+                            will be given the qualification. <strong>You should complete at least
+                                3 HITs to attempt for a qualification.</strong> You will NOT be rejected in this HIT in
+                            any circumstance.
+                            <br>
+                            In this survey, your task in to rate four sentences' quality, which will be explained later.
+                            <br>
+                            But first, please take a look at what's an Invalid sentence. If a sentence is
+                            INVALID, you are required to choose INVALID (the last choice) instead of rating them.</p>
+                        <h3 align="center">Invalid Assertion</h3>
+                        <p style="font-size: 16px">Here we provide some examples for you to understand what makes an
+                            invalid assertion:</p>
+                        <ul style="font-size: 16px">
+                            <li>
+                                <strong>Incomplete assertion</strong>: PersonX bought a steak and a bacon because they
+                                are all
+                            </li>
+                            <li>
+                                <strong>Garbled assertion</strong>: PersonX bought a television and a phone because they
+                                are derived from 2 the early 1960's, 70's to the present, the '80s, '90s etc, of
+                                course.."
+                            </li>
+                            <li>
+                                <strong>Unrelated assertion</strong>: PersonX bought a Halloween costume and Halloween
+                                candies because they can be used to play soccer.
+                            </li>
+                            <li>
+                                <strong>Assertion only related to one item</strong>: PersonX bought a battery and a mask
+                                because they are symbols of energy.
+                            </li>
+                            <li>
+                                <strong>Incorrect information</strong>: PersonX bought a pair of shoes and a pair of
+                                sneakers because they are made of plastic.
+                            </li>
+                            <li>
+                                <strong>Useless/Repeated information</strong>: PersonX bought a McDonald's Big Mac
+                                because it has the property of being a "McDonald's Big Mac".<br>
+                                <strong style="color: red;">Note that repeating any item's name in the sentence will
+                                    make the sentence INVALID.</strong>
+                            </li>
+                        </ul>
+                        <p style="font-size: 18px"><strong>VERY IMPORTANT: if you think a sentence is invalid, please
+                            choose INVALID instead of other three options.</strong></p>
+                        <br><br>
+                        <h3 align="center">Is the QUALITY of this sentence acceptable?</h3>
+                        <p style="font-size: 20px">You'll find out that each sentence describes a shopping behavior of
+                            PersonX. They describe <strong>what causes / why</strong> PersonX bought two items. Your
+                            task is to decide whether the quality of given sentence is acceptable or not. Specifically,
+                            you should consider it in the way that <span style="color: red"><strong>how well does the sentence reflect / characterize the
+                                items' properties, functions, intentions, and usages, <i>that might trigger / cause PersonX buy both
+                                of them?</i></strong></span>
+                            <br><br>
+                            The best sentence should satisfy these two requirements:
+                            <br>
+                            <strong>(1) The sentence contains rich information containing the items' detailed
+                                properties, functions, intentions, or usages. (one of them is enough if sufficiently
+                                detailed)
+                                <br>
+                                (2) The sentence presented a reasonable reason for PersonX's to buy these two
+                                items.
+                            </strong>
+                        </p>
+                        <br>
+                        <p style="font-size: 18px">You'll be provided with three rating options: Strongly Accept, Weakly
+                            Accept, and Reject.</p>
+                        <style type="text/css">
+                            .tg {
+                                border-collapse: collapse;
+                                border-color: #ccc;
+                                border-spacing: 0;
+                            }
+
+                            .tg td {
+                                background-color: #fff;
+                                border-color: #ccc;
+                                border-style: solid;
+                                border-width: 1px;
+                                color: #333;
+                                font-family: Arial, sans-serif;
+                                font-size: 14px;
+                                overflow: hidden;
+                                padding: 10px 5px;
+                                word-break: normal;
+                            }
+
+                            .tg th {
+                                background-color: #f0f0f0;
+                                border-color: #ccc;
+                                border-style: solid;
+                                border-width: 1px;
+                                color: #333;
+                                font-family: Arial, sans-serif;
+                                font-size: 14px;
+                                font-weight: normal;
+                                overflow: hidden;
+                                padding: 10px 5px;
+                                word-break: normal;
+                            }
+
+                            .tg .tg-hxyp {
+                                border-color: inherit;
+                                font-size: 18px;
+                                font-style: italic;
+                                text-align: center;
+                                vertical-align: top
+                            }
+
+                            .tg .tg-7jts {
+                                border-color: inherit;
+                                font-size: 18px;
+                                text-align: center;
+                                vertical-align: top
+                            }
+
+                            .tg .tg-2xbj {
+                                border-color: inherit;
+                                font-size: 18px;
+                                font-weight: bold;
+                                text-align: center;
+                                vertical-align: top
+                            }
+                        </style>
+                        <table class="tg">
+                            <thead>
+                            <tr>
+                                <th class="tg-7jts"></th>
+                                <th class="tg-hxyp">Informativeness</th>
+                                <th class="tg-hxyp">Casuality</th>
+                                <th class="tg-hxyp" style="width: 250px">Examples</th>
+                                <th class="tg-hxyp" style="width: 400px">Explanations</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td class="tg-2xbj">Strongly Accept</td>
+                                <td class="tg-7jts">The sentence contains detailed information regarding the two items.
+                                    It contains the properties, or functions, or intentions, or usages of two items.
+                                </td>
+                                <td class="tg-7jts">The information about the two items in this sentence is an important
+                                    reason for PersonX to buy them.
+                                </td>
+                                <td class="tg-7jts">PersonX bought Two Casio Watches:<br>(1) Because they are capable of
+                                    telling time.<br>(2) Because they are expensive luxury watches.<br>(3) Because they
+                                    are made of silver and high quality material.<br>(4) Because they are comforatble
+                                    and easy to wear.
+                                </td>
+                                <td class="tg-7jts">(1) Describe the functions/usages of Casio watches: Telling time. A
+                                    strong reason for shopping.<br>(2) Describe the property of Casio watches: luxury
+                                    items. Strong reason for shopping.<br>(3) Describe the properties of two Casio
+                                    watches: silver and high quality material. Strong reason for shopping.<br>(4)
+                                    Describe the usages/properties of Casio watches: comfortable and easy to wear.
+                                    Strong reason for shopping.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="tg-2xbj">Weakly Accept</td>
+                                <td class="tg-7jts">The sentence contains limited information regarding the two items.
+                                    The information is not reflecting / characterizing the items specific features.
+                                </td>
+                                <td class="tg-7jts">The information in this sentence about the two items does not form
+                                    an important part of PersonX's reason for buying them.
+                                </td>
+                                <td class="tg-7jts">PersonX bought Two Casio Watches:<br>(1) Because they are both
+                                    watches.<br>(2) Because they are used for the same purpose.<br>(3) Because they are
+                                    made by the same company.<br>(4) Because they are gifts for his wife.
+                                </td>
+                                <td class="tg-7jts">(1) Limited information, both watches can be any watches, not a
+                                    detailed information for buying two Casio watches.<br>(2) Though they are both used
+                                    for the same purpose, the sentence didn't claim what purpose it is, so the
+                                    information is not detailed enough.<br>(3) Not a good reason, if the sentence claims
+                                    made by Casio, then it's a good sentence. However, "same company" is too broad,
+                                    other two watches with the same brand can also satisfy, not necesarrily has to be
+                                    Casio watches.<br>(4) Other items such as rings can also be gifts for his wife, it
+                                    is not the primary purpose of two watches. Thus it doesn't form a strong reason for
+                                    buying two items.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="tg-2xbj">Reject</td>
+                                <td class="tg-7jts">The sentence contains no information regarding the two items. Or the
+                                    information is too general such that any other items would also work for the
+                                    sentence.
+                                </td>
+                                <td class="tg-7jts">The information about the two items in this sentence does not
+                                    reflect why PersonX specifically bought those items. In other words, it does not
+                                    reflect what characteristics of the commodity lead to the purchase behavior.
+                                </td>
+                                <td class="tg-7jts">PersonX bought Two Casio Watches:<br>(1) Because PersonX likes them.<br>(2)
+                                    Because they are distinct from each other.<br>(3) Because they are similar to the
+                                    items he bought before.
+                                </td>
+                                <td class="tg-7jts">(1) Too general, we can know nothing about the two items. Though
+                                    this is a very good reason for shopping, it has poor informativeness.<br>(2)
+                                    Dinstinct from each other is true, but it is purely useless information. Of course
+                                    two items are different. No useful information.<br>(3) Same as (2), purely useless
+                                    information.
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+
+                        <h3 align="center">Additional Hints</h3>
+                        <p style="font-size: 16px"><span style="color: red;font-size: 20px"><strong>If the images are unclear or cannot reflect the items
+                            clearly, please tick the box below the item in the item card! For example, image with only a small part being the item, or the size chart image of clothes items, should all be ticked.</strong></span>
+                            You are advised to grab information from the amazon link page if there's assertion that you
+                            can't decide.</p>
+                        <p style="font-size: 16px">By clicking the item's name, you can access the amazon website to
+                            grab more information. If the link doesn't work, please try to google for some additional
+                            information!</p>
+                        <p>You should complete at least 3 HITs to attempt for a qualification.</p>
+                        <p>ALL HITs will be approved. But only workers satisfying a condition will be invited for future
+                            HITs.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--    --------------------------------------------------------------------->
+        <!--    ------------------------Question Area-------------------------------->
+        <!--    --------------------------------------------------------------------->
+
+        <div class="row" id="workContent">
+            <div class="col-sm-8 col-sm-offset-2">
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Item Card</strong></h4>
+                    <div class="panel-body">
+
+                        <style type="text/css">
+                            .tg {
+                                border-collapse: collapse;
+                                border-spacing: 0;
+                            }
+
+                            .tg td {
+                                border-color: black;
+                                border-style: solid;
+                                border-width: 1px;
+                                font-family: Arial, sans-serif;
+                                font-size: 14px;
+                                overflow: hidden;
+                                padding: 10px 5px;
+                                word-break: normal;
+                            }
+
+                            .tg th {
+                                border-color: black;
+                                border-style: solid;
+                                border-width: 1px;
+                                font-family: Arial, sans-serif;
+                                font-size: 14px;
+                                font-weight: normal;
+                                overflow: hidden;
+                                padding: 10px 5px;
+                                word-break: normal;
+                            }
+
+                            .tg .tg-baqh {
+                                font-size: 20px;
+                                text-align: center;
+                                vertical-align: top
+                            }
+                        </style>
+                        <table class="tg">
+                            <tbody>
+                            <tr>
+                                <td class="tg-baqh" style="width: 750px"><strong>Item A</strong>: <a
+                                        href="${item_a_link}" style="color: red">${item_a_name}</a> (${item_a_cate} -
+                                    ${item_a_id})
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="tg-baqh"><img src="${item_a_img1_url}"
+                                                         style="max-width: 230px;max-height: 300px"/><img
+                                        src="${item_a_img2_url}" style="max-width: 230px;max-height: 300px"/><img
+                                        src="${item_a_img3_url}" style="max-width: 230px;max-height: 300px"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <span style="color: darkred"><strong>Is there any image that cannot clearly show this item A?</strong></span>
+                                    <label> Image 1<input name="item_a_invalid_image" type="checkbox"
+                                                          value="1"/></label><label>Image 2<input
+                                        name="item_a_invalid_image" type="checkbox" value="2"/></label>
+                                    <label>Image 3<input name="item_a_invalid_image" type="checkbox" value="3"/></label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="tg-baqh" style="width: 750px"><strong>Item B</strong>: <a
+                                        href="${item_b_link}" style="color: red">${item_b_name}</a> (${item_b_cate} -
+                                    ${item_b_id})
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="tg-baqh"><img src="${item_b_img1_url}"
+                                                         style="max-width: 230px;max-height: 300px"/><img
+                                        src="${item_b_img2_url}" style="max-width: 230px;max-height: 300px"/><img
+                                        src="${item_b_img3_url}" style="max-width: 230px;max-height: 300px"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <span style="color: darkred"><strong>Is there any image that cannot clearly show this item B?</strong></span>
+                                    <label> Image 1<input name="item_b_invalid_image" type="checkbox"
+                                                          value="1"/></label><label>Image 2<input
+                                        name="item_b_invalid_image" type="checkbox" value="2"/></label>
+                                    <label>Image 3<input name="item_b_invalid_image" type="checkbox" value="3"/></label>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Assertion 1 (${assertion_1_relation}): </strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px;color: darkred"><strong>${assertion1}</strong></p>
+                    </div>
+                    <br>
+                    <h4 style="text-align: center;"><strong>Question 1</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">How acceptable is the quality of this sentence? (Invalid if it
+                            matches with the INVALID assertions defined in the instruction)</p>
+                        <div class="radio"><label><input name="q1" required=""
+                                                         type="radio" value="0"/>Strongly Acceptable! This sentence is
+                            very detailed and is a strong reason for shopping these two items.</label></div>
+                        <div class="radio"><label><input name="q1" required=""
+                                                         type="radio" value="1"/>Weakly Acceptable. Though this sentence
+                            is correct, the information is not detailed enough.</label></div>
+                        <div class="radio"><label><input name="q1" required="" type="radio" value="2"/>Reject. The
+                            information related to both items is too
+                            few or too general, or the reason for shopping is not related to items at all.</label></div>
+                        <div class="radio"><label><input name="q1" required="" type="radio" value="3"/>INVALID Sentence.</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Assertion 2 (${assertion_2_relation}): </strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px;color: darkred"><strong>${assertion2}</strong></p>
+                    </div>
+                    <br>
+                    <h4 style="text-align: center;"><strong>Question 2</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">How acceptable is the quality of this sentence? (Invalid if it
+                            matches with the INVALID assertions defined in the instruction)</p>
+                        <div class="radio"><label><input name="q2" required=""
+                                                         type="radio" value="0"/>Strongly Acceptable! This sentence is
+                            very detailed and is a strong reason for shopping these two items.</label></div>
+                        <div class="radio"><label><input name="q2" required=""
+                                                         type="radio" value="1"/>Weakly Acceptable. Though this sentence
+                            is correct, the information is not detailed enough.</label></div>
+                        <div class="radio"><label><input name="q2" required="" type="radio" value="2"/>Reject. The
+                            information related to both items is too
+                            few or too general, or the reason for shopping is not related to items at all.</label></div>
+                        <div class="radio"><label><input name="q2" required="" type="radio" value="3"/>INVALID Sentence.</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Assertion 3 (${assertion_3_relation}): </strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px;color: darkred"><strong>${assertion3}</strong></p>
+                    </div>
+                    <br>
+                    <h4 style="text-align: center;"><strong>Question 3</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">How acceptable is the quality of this sentence? (Invalid if it
+                            matches with the INVALID assertions defined in the instruction)</p>
+                        <div class="radio"><label><input name="q3" required=""
+                                                         type="radio" value="0"/>Strongly Acceptable! This sentence is
+                            very detailed and is a strong reason for shopping these two items.</label></div>
+                        <div class="radio"><label><input name="q3" required=""
+                                                         type="radio" value="1"/>Weakly Acceptable. Though this sentence
+                            is correct, the information is not detailed enough.</label></div>
+                        <div class="radio"><label><input name="q3" required="" type="radio" value="2"/>Reject. The
+                            information related to both items is too
+                            few or too general, or the reason for shopping is not related to items at all.</label></div>
+                        <div class="radio"><label><input name="q3" required="" type="radio" value="3"/>INVALID Sentence.</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <h4 style="text-align: center;"><strong>Assertion 4 (${assertion_4_relation}): </strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px;color: darkred"><strong>${assertion4}</strong></p>
+                    </div>
+                    <br>
+                    <h4 style="text-align: center;"><strong>Question 4</strong></h4>
+                    <div class="panel-body">
+                        <p style="font-size: 18px">How acceptable is the quality of this sentence? (Invalid if it
+                            matches with the INVALID assertions defined in the instruction)</p>
+                        <div class="radio"><label><input name="q4" required=""
+                                                         type="radio" value="0"/>Strongly Acceptable! This sentence is
+                            very detailed and is a strong reason for shopping these two items.</label></div>
+                        <div class="radio"><label><input name="q4" required=""
+                                                         type="radio" value="1"/>Weakly Acceptable. Though this sentence
+                            is correct, the information is not detailed enough.</label></div>
+                        <div class="radio"><label><input name="q4" required="" type="radio" value="2"/>Reject. The
+                            information related to both items is too
+                            few or too general, or the reason for shopping is not related to items at all.</label></div>
+                        <div class="radio"><label><input name="q4" required="" type="radio" value="3"/>INVALID Sentence.</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    -----------------------WARNING: DO NOT MODIFY BELOW------------------------------------->
+    <!--    -----------Below are Extra CSS Styles settings and Reference---------------------------->
+    <!--    ---------Nothing related to the content of the survey anymore--------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+    <!--    ---------------------------------------------------------------------------------------->
+
+    <!-- Please note that Bootstrap CSS/JS and JQuery are 3rd party libraries that may update their url/code at any time. Amazon Mechanical Turk (MTurk) is including these libraries as a default option for you, but is not responsible for any changes to the external libraries -->
+    <!-- External CSS references -->
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"
+          integrity="sha384-IS73LIqjtYesmURkDE9MXKbXqYA8rvKEp/ghicjem7Vc3mGRdQRptJSz60tvrB6+" rel="stylesheet"/>
+    <!-- Open internal style sheet -->
+    <style type="text/css">#collapseTrigger {
+        color: #fff;
+        display: block;
+        text-decoration: none;
+    }
+
+    #submitButton {
+        white-space: normal;
+    }
+
+    .image {
+        margin-bottom: 15px;
+    }
+
+    table,
+    td {
+        text-align-all: center;
+        border: 1px solid #333;
+    }
+
+    thead {
+        text-align-all: center;
+        background-color: #333;
+        color: #fff;
+    }
+
+    tfoot {
+        background-color: #333;
+        color: #fff;
+        text-align-all: center;
+    }
+
+    </style>
+    <!-- Close internal style sheet --><!-- External JS references -->
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"
+            integrity="sha384-s1ITto93iSMDxlp/79qhWHi+LsIi9Gx6yL+cOKDuymvihkfol83TYbLbOw+W/wv4"
+            crossorigin="anonymous"></script><!-- Open internal javascript -->
+    <script>
+        $(document).ready(function () {
+            // Instructions expand/collapse
+            var content = $('#instructionBody');
+            var trigger = $('#collapseTrigger');
+            $('.collapse-text').text(' (Click to Collapse)');
+            trigger.click(function () {
+                content.toggle();
+                var isVisible = content.is(':visible');
+                if (isVisible) {
+                    $('.collapse-text').text(' (Click to Collapse)');
+                } else {
+                    $('.collapse-text').text(' (Click to Expand the Instruction)');
+                }
+            });
+            // end expand/collapse
+        });
+    </script><!-- CLose internal javascript -->
+</crowd-form>
