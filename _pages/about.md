@@ -19,12 +19,6 @@ the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-sch
 
 This webpage is last updated on **2022/8/9**.
 
-## News
-
-- [2022/1/17]    One paper has been accepted to JCLEPRO.
-- [2021/8/26]    One paper has been accepted to EMNLP2021 (main conference).
-- [2021/1/16]    One paper has been accepted to WWW2021.
-
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing, with a special interest in commonsense reasoning. 
