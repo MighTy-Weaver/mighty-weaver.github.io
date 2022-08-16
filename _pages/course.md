@@ -108,7 +108,8 @@ HUMA2101    3   Enjoyment of Western Opera
 ##### TBD
 ### Fall
 ```angular2html
-TBD
+PDEV6770B   1   Professional Development for Research Postgraduate Students
+PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
 ```
 ### Spring
 ```angular2html
