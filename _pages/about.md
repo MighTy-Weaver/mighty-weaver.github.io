@@ -54,7 +54,7 @@ I'm mainly interested in the research of Natural Language Processing, with a spe
 * **University's Scholarship Scheme for Continuing Undergraduate Students** (2019 - 2022)
 
 ## Academic Service
-Conference Reviewer: EMNLP'22
+- Conference Reviewer: EMNLP'22
 
 ## Contact me!
 
