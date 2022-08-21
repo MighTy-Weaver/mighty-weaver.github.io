@@ -108,6 +108,10 @@ HUMA2101    3   Enjoyment of Western Opera
 ##### TBD
 ### Fall
 ```angular2html
+COMP5212    3   Machine Learning
+COMP5711    3   Introduction to Advanced Algorithmic Techniques
+COMP6911    1   Computer Science and Engineering Seminar I
+IEDA5270    3   Engineering Statistics and Data Analytics
 ENGG6780    1   Career Development for Engineering Research Students
 PDEV6770B   1   Professional Development for Research Postgraduate Students
 PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
