@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weiqi Wang 王伟琪 Mighty"
 title_separator          : "-"
 name                     : &name "Weiqi Wang"
-description              : &description "Penultimate Year Undergraduate Student in HKUST majoring in Computer Science and Mathematics"
+description              : &description "First Year PhD Student in HKUST majoring in Computer Science and Mathematics"
 url                      : "https://mighty-weaver.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MighTy-Weaver/mighty-weaver.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weiqi Wang 王伟琪"
   avatar           : "avatar.jpg"
-  bio              : "Incoming Ph.D. Student at the Hong Kong University of Science and Technology"
+  bio              : "First Year Ph.D. Student at the Hong Kong University of Science and Technology"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           :
