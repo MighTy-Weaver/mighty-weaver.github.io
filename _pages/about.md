@@ -51,4 +51,4 @@ You can reach me at `1874240442 [at] qq [dot] com`, this email will be active al
 
 ## Sitemap
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=DE2rC1_XQk9C3olzhHZGibG_eT8m4xfWcetZ15Zm4mQ"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=t&d=DE2rC1_XQk9C3olzhHZGibG_eT8m4xfWcetZ15Zm4mQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
