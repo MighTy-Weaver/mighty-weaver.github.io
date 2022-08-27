@@ -1,39 +1,29 @@
 ---
-permalink: / 
+permalink: /
 title: "Weiqi Wang 王伟琪 Mighty"
 excerpt: "About me"
-author_profile: true 
+author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+
+- /about/
+- /about.html
+
 ---
 
 ## About me
 
-Hi there! Welcome to my personal homepage. I'm an incoming Ph.D. Student at
+Hi there! Welcome to my personal homepage. I'm a first year Ph.D. Student at
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) supervised
-by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My research interest lies in the field of commonsense
-reasoning and natural language processing. I received my bachelor degree in Computer Science and Mathematics from the
-same institution, and I'm now funded by
+by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science
+and Mathematics from the same institution, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2022/8/9**.
+This webpage is last updated on **2022/8/27**.
 
 ## Research Interest
 
-I'm mainly interested in the research of Natural Language Processing, with a special interest in commonsense reasoning. 
-
-[//]: # (I also participated researches in data mining with the combination of other field's knowledge such as environment and energy.)
-
-[//]: # (In general, I'm aspired to answer the following questions: How can we build deep learning models to)
-
-[//]: # (efficiently and accurately learn the commonsense knowledge from large corpus? How can machine learning models learn the)
-
-[//]: # (commonsense related information or attributes behind? What additional information should we provide to deep learning)
-
-[//]: # (models for them to capture the commonsense knowledge? What is the ultimate way to realize understanding human language)
-
-[//]: # (by machine?)
+I'm mainly interested in the research of Natural Language Processing, with a special interest in commonsense reasoning
+and eventuality conceptualization.
 
 ## Education
 
@@ -61,4 +51,4 @@ You can reach me at `1874240442 [at] qq [dot] com`, this email will be active al
 
 ## Sitemap
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DE2rC1_XQk9C3olzhHZGibG_eT8m4xfWcetZ15Zm4mQ&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=DE2rC1_XQk9C3olzhHZGibG_eT8m4xfWcetZ15Zm4mQ"></script>
