@@ -105,13 +105,22 @@ HUMA2101    3   Enjoyment of Western Opera
 ```
 ---
 ## PhD Year 1
-##### 11 + TBA = TBA Credits
+##### 6 + 12 = 18 Credits
 ### Fall
 ```angular2html
-COMP3711    3   Design and Analysis of Algorithms
 COMP5212    3   Machine Learning
 COMP6911    0   Computer Science and Engineering Seminar I
 IEDA5270    3   Engineering Statistics and Data Analytics
+ENGG6780    0   Career Development for Engineering Research Students
+PDEV6770B   0   Professional Development for Research Postgraduate Students
+PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
+```
+### Spring (Plan)
+```angular2html
+COMP3711    3   Design and Analysis of Algorithms
+COMP5421    3   Computer Vision
+COMP6000+   3   TBD
+COMP6912    1   Computer Science and Engineering Seminar I
 ENGG6780    1   Career Development for Engineering Research Students
 PDEV6770B   1   Professional Development for Research Postgraduate Students
 PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
