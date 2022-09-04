@@ -119,10 +119,25 @@ PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
 ```angular2html
 COMP3711    3   Design and Analysis of Algorithms
 COMP5421    3   Computer Vision
-COMP6000+   3   TBD
-COMP6912    1   Computer Science and Engineering Seminar I
+COMP5631    3   Cryptography and Security
+COMP6912    1   Computer Science and Engineering Seminar II
 ENGG6780    1   Career Development for Engineering Research Students
 PDEV6770B   1   Professional Development for Research Postgraduate Students
+PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
+```
+---
+## PhD Year 2 (Plan)
+##### 6 + 4 = 10 Credits
+### Fall (Plan)
+```angular2html
+COMP3721    3   Theory of Computation
+COMP5331    3   Knowledge Discovery in Databases
+PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
+```
+### Spring (Plan)
+```angular2html
+LANG5001    1   Postgraduate English for Engineering Research Studies
+COMP6211E   3   Optimization for Machine Learning
 PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
 ```
 
