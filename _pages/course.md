@@ -136,7 +136,7 @@ PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
 ### Spring (Plan)
 ```angular2html
 LANG5001    1   Postgraduate English for Engineering Research Studies
-IEDA5230    3   Deterministic Models in Operations Research
+IEDA5250    3   Stochastic Models in Operations Research
 COMP6211E   3   Optimization for Machine Learning
 PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
 ```

@@ -18,7 +18,7 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2022/8/27**.
+This webpage is last updated on **2022/9/15**.
 
 ## Research Interest
 
