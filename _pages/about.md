@@ -15,7 +15,7 @@ redirect_from:
 Hi there! Welcome to my personal homepage. I'm a first year Ph.D. Student at
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) supervised
 by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science
-and Mathematics from the same institution, and I'm now funded by
+and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
 This webpage is last updated on **2022/9/15**.
