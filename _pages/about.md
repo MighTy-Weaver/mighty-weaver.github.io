@@ -24,7 +24,7 @@ This webpage is last updated on **2022/10/9**.
 
 I'm mainly interested in the research of Natural Language Processing, and I'm actively researching in:
 - Commonsense Reasoning via Conceptualization
-- NLP applications in E-Commerce Domain
+- NLP Discovery in E-Commerce Domain
 - Commonsense Knowledge Graph Attack/Defense
 
 ## Education
