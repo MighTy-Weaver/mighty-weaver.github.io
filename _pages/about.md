@@ -18,12 +18,14 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2022/9/15**.
+This webpage is last updated on **2022/10/9**.
 
 ## Research Interest
 
-I'm mainly interested in the research of Natural Language Processing, with a special interest in commonsense reasoning
-and eventuality conceptualization.
+I'm mainly interested in the research of Natural Language Processing, and I'm actively researching in:
+- Commonsense Reasoning via Conceptualization
+- NLP applications in E-Commerce Domain
+- Commonsense Knowledge Graph Attack/Defense
 
 ## Education
 
