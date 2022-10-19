@@ -121,7 +121,6 @@ COMP5421    3   Computer Vision
 COMP5631    3   Cryptography and Security
 COMP6912    1   Computer Science and Engineering Seminar II
 ENGG6780    1   Career Development for Engineering Research Students
-PDEV6770B   1   Professional Development for Research Postgraduate Students
 PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
 ```
 ---

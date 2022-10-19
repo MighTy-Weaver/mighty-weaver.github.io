@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Remark: \* indicates equal contribution. 2 papers currently under review.*
+*Remark: \* indicates equal contribution.*
 
 - Mutian He, Tianqing Fang, **Weiqi Wang**, Yangqiu Song. Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization. *Arxiv Preprint*, 2022. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
