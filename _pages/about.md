@@ -18,21 +18,21 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2022/11/16**.
+This webpage is last updated on **2022/12/7**.
 
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing, and I'm actively researching in:
+
 - Commonsense Reasoning via Conceptualization
-- NLP Discovery in E-Commerce Domain
-- Commonsense Knowledge Graph Attack/Defense
+- Natural Language Processing for E-Commerce Domain
 
 ## Education
 
 **Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
 - Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Jun. 2026 (Expected)*
-- Bachelor Degree in Computer Science and Mathematics,  *Sep. 2018 -- Jun. 2022*
+- Bachelor Degree in Computer Science and Mathematics,  *Sep. 2018 -- Jun. 2022*, *First Class Honors*
 
 **Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
 
