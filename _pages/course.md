@@ -116,7 +116,7 @@ HUMA2101    3   Enjoyment of Western Opera
 ```
 ---
 ## PhD Year 1
-##### 8 + 7 = 15 Credits
+##### 8 + 5 = 13 Credits
 ### Fall
 ```angular2html
 COMP3711    3   Design and Analysis of Algorithms
@@ -128,24 +128,8 @@ PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
 ```
 ### Spring (Plan)
 ```angular2html
-COMP5421    3   Computer Vision
 COMP5631    3   Cryptography and Security
 COMP6912    1   Computer Science and Engineering Seminar II
-PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
-```
----
-## PhD Year 2 (Plan)
-##### 6 + 7 = 13 Credits
-### Fall (Plan)
-```angular2html
-COMP3721    3   Theory of Computation
-COMP5331    3   Knowledge Discovery in Databases
-PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
-```
-### Spring (Plan)
-```angular2html
 LANG5001    1   Postgraduate English for Engineering Research Studies
-IEDA5250    3   Stochastic Models in Operations Research
-COMP6211E   3   Optimization for Machine Learning
 PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```
