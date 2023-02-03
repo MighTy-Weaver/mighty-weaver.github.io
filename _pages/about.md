@@ -27,8 +27,7 @@ Happy Chinese New Year!
 I'm mainly interested in the research of Natural Language Processing, and I'm actively researching in:
 
 - Commonsense Reasoning
-- NLP Application in E-Commerce Domain
-- Trustworthy NLP via Backdoor Attack/Defense
+- E-Commerce Commonsense Discovery
 
 ## Education
 
