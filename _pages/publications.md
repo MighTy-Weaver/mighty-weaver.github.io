@@ -9,16 +9,26 @@ author_profile: true
 
 ## Preprint
 
-- Changlong Yu, **Weiqi Wang**, Xin Liu, Jiaxin Bai, Yangqiu Song, Zheng Li, Yifan Gao, Tianyu Cao, Bing Yin. FolkScope: Intention Knowledge Graph Construction for Discovering E-commerce Commonsense. *Arxiv Preprint*, 2022. [[pdf]](https://arxiv.org/pdf/2211.08316.pdf), [[code]](https://github.com/HKUST-KnowComp/FolkScope)
+- **FolkScope: Intention Knowledge Graph Construction for Discovering E-commerce Commonsense.**\
+Changlong Yu, **Weiqi Wang**, Xin Liu, Jiaxin Bai, Yangqiu Song, Zheng Li, Yifan Gao, Tianyu Cao, Bing Yin.\
+*Arxiv Preprint*, 2022. [[pdf]](https://arxiv.org/pdf/2211.08316.pdf), [[code]](https://github.com/HKUST-KnowComp/FolkScope)
 
-- Mutian He, Tianqing Fang, **Weiqi Wang**, Yangqiu Song. Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization. *Arxiv Preprint*, 2022. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
+- **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.**\
+Mutian He, Tianqing Fang, **Weiqi Wang**, Yangqiu Song.\
+*Arxiv Preprint*, 2022. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
 ## Conference
 
-- Tianqing Fang\*, **Weiqi Wang**\*, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He. Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset. In Proceedings of *The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2021. [[pdf]](https://aclanthology.org/2021.emnlp-main.705.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
+- **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset.**\
+Tianqing Fang\*, **Weiqi Wang**\*, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He.\
+*The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2021. [[pdf]](https://aclanthology.org/2021.emnlp-main.705.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
 
-- Tianqing Fang, Hongming Zhang, **Weiqi Wang**, Yangqiu Song, Bin He. DISCOS: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge. In Proceedings of *The Web Conference (WWW)*, 2021. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450117), [[code]](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
+- **DISCOS: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge.**\
+Tianqing Fang, Hongming Zhang, **Weiqi Wang**, Yangqiu Song, Bin He.\
+*The Web Conference (WWW)*, 2021. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450117), [[code]](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
 ## Journal
 
-- **Weiqi Wang**\*, Zixuan Zhou\*, Zhongming Lu. Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy. In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
+- **Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy.**\
+**Weiqi Wang**\*, Zixuan Zhou\*, Zhongming Lu.\
+*Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
