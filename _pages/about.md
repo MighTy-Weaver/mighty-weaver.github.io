@@ -20,8 +20,6 @@ the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-sch
 
 This webpage is last updated on **2023/2/4**.
 
-Happy Chinese New Year!
-
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing, and I'm actively researching in:
