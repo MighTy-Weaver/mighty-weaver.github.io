@@ -116,7 +116,7 @@ HUMA2101    3   Enjoyment of Western Opera
 ```
 ---
 ## PhD Year 1
-##### 8 + 5 = 13 Credits
+##### 8 + 8 = 16 Credits
 ### Fall
 ```angular2html
 COMP3711    3   Design and Analysis of Algorithms
@@ -126,10 +126,11 @@ ENGG6780    1   Career Development for Engineering Research Students
 PDEV6770B   1   Professional Development for Research Postgraduate Students
 PDEV6800Z   0   Introduction to Teaching and Learning in Higher Education
 ```
-### Spring (Plan)
+### Spring
 ```angular2html
 COMP5631    3   Cryptography and Security
 COMP6912    1   Computer Science and Engineering Seminar II
+ELEC6910Y   3   Topics in Deep NLP
 LANG5001    1   Postgraduate English for Engineering Research Studies
 PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```

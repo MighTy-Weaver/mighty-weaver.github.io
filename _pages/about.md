@@ -18,14 +18,14 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2023/2/4**.
+This webpage is last updated on **2023/2/8**.
 
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing, and I'm actively researching in:
 
-- Commonsense Reasoning
-- E-Commerce Commonsense Discovery
+- Commonsense Reasoning via Conceptualization
+- Commonsense Knowledge Graph Construction in E-Commerce Domain
 
 ## Education
 
@@ -47,7 +47,7 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 
 ## Academic Service
 
-* Conference Reviewer: ACL Rolling Review (Sep. 2022 - Now), EMNLP (2022), ACL (2023), KDD (2023)
+* Conference Reviewer: EMNLP (2022), ACL (2023), KDD (2023)
 
 ## Teaching
 
