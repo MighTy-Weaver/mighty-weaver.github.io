@@ -134,3 +134,17 @@ ELEC6910Y   3   Topics in Deep NLP
 LANG5001    1   Postgraduate English for Engineering Research Studies
 PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```
+---
+## PhD Year 2 (Plan)
+##### 6 + 6 = 12 Credits
+### Fall
+```angular2html
+COMP3721    3   Theory of Computation
+COMP5621    3   Computer Networks
+PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
+```
+### Spring
+```angular2html
+COMP5421    3   Computer Vision
+COMP6000+   3   COMP Elective Course
+```
