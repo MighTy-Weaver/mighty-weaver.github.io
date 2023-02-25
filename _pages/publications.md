@@ -32,3 +32,6 @@ Tianqing Fang, Hongming Zhang, **Weiqi Wang**, Yangqiu Song, Bin He.\
 - **Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy.**\
 **Weiqi Wang**\*, Zixuan Zhou\*, Zhongming Lu.\
 *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
+
+[//]: # (## Workshop)
+
