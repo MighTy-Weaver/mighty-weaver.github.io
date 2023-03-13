@@ -33,10 +33,3 @@ Tianqing Fang, Hongming Zhang, **Weiqi Wang**, Yangqiu Song, Bin He.\
 **Weiqi Wang**\*, Zixuan Zhou\*, Zhongming Lu.\
 *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
-## Workshop
-
-[//]: # (- **KnowComp at SemEval-2023 Task 7: Finetuning Pretrained Language Models for Clinical Trial Entailment Identification.**\)
-
-[//]: # (**Weiqi Wang**\*, Baixuan Xu\*, Tianqing Fang, Lirong Zhang, Yangqiu Song.\)
-
-[//]: # (*The 17th International Workshop on Semantic Evaluation &#40;SemEval&#41;*, 2023. [[pdf]], [[code]])
