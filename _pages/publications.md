@@ -21,15 +21,15 @@ Mutian He, Tianqing Fang, **Weiqi Wang**, Yangqiu Song.\
 
 - **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset.**\
 Tianqing Fang\*, **Weiqi Wang**\*, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He.\
-*The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2021. [[pdf]](https://aclanthology.org/2021.emnlp-main.705.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
+In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP2021)*. [[pdf]](https://aclanthology.org/2021.emnlp-main.705.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
 
 - **DISCOS: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge.**\
 Tianqing Fang, Hongming Zhang, **Weiqi Wang**, Yangqiu Song, Bin He.\
-*The Web Conference (WWW)*, 2021. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450117), [[code]](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
+In *Proceedings of The Web Conference 2021 (WWW2021)*. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450117), [[code]](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
 ## Journal
 
 - **Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy.**\
 **Weiqi Wang**\*, Zixuan Zhou\*, Zhongming Lu.\
-*Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
+In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
