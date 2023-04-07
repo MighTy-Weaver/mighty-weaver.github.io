@@ -10,17 +10,6 @@ This is the course history during my study in the Hong Kong University of Scienc
 
 *Remark: Courses are listed in the format of `Course Code + Number of Credits + Course Name`*
 
-## Open-Sourced Course Assignment/Project Repositories:
-[COMP4021: Internet Computing](https://github.com/MighTy-Weaver/COMP4021-2020Fall) 
-
-[COMP4332: Big Data Mining and Management](https://github.com/MighTy-Weaver/COMP4332-2022Spring)
-
-[COMP4471: Deep Learning in Computer Vision](https://github.com/MighTy-Weaver/COMP4471-2020Fall)
-
-[COMP4901K: Machine Learning in Natural Language Processing](https://github.com/MighTy-Weaver/COVID19-NER)
-
-[COMP5212: Machine Learning](https://github.com/MighTy-Weaver/COMP5212-2022Fall)
-
 ## UG Year 1    
 ##### 16 + 20 + 6 = 42 Credits
 ### Fall
