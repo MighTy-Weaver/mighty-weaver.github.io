@@ -33,3 +33,8 @@ In *Proceedings of The Web Conference 2021 (WWW2021)*. [[pdf]](https://dl.acm.or
 **Weiqi Wang**\*, Zixuan Zhou\*, Zhongming Lu.\
 In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
+## Workshop
+
+- **KnowComp at SemEval-2023 Task 7: Finetuning Pretrained Language Models for Clinical Trial Entailment Identification.**\
+**Weiqi Wang**\*, Baixuan Xu\*, Tianqing Fang, Lirong Zhang, Yangqiu Song.\
+In *Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval2023)*. [[pdf]], [[code]](https://github.com/HKUST-KnowComp/NLI4CT)
