@@ -37,4 +37,4 @@ In Journal of Cleaner Production, 2022. [[pdf]](https://doi.org/10.1016/j.jclepr
 
 - **KnowComp at SemEval-2023 Task 7: Finetuning Pre-Trained Language Models for Clinical Trial Entailment Identification.**\
 **Weiqi Wang**\*, Baixuan Xu\*, Tianqing Fang, Lirong Zhang, Yangqiu Song.\
-SemEval2023. [[pdf]], [[code]](https://github.com/HKUST-KnowComp/NLI4CT)
+SemEval2023. [pdf], [[code]](https://github.com/HKUST-KnowComp/NLI4CT)
