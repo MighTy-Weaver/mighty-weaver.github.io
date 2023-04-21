@@ -17,6 +17,10 @@ Arxiv Preprint, 2022. [[pdf]](https://arxiv.org/pdf/2211.08316.pdf), [[code]](ht
 Mutian He, Tianqing Fang, **Weiqi Wang**, Yangqiu Song.\
 Arxiv Preprint, 2022. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
+- **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population**\
+Tianqing Fang*, Quyet V. Do*, Sehyun Choi, **Weiqi Wang**, Yangqiu Song.\
+Arxiv Preprint, 2023. [[pdf]](https://arxiv.org/pdf/2304.10392.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
+
 ## Conference
 
 - **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset.**\
