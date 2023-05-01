@@ -21,6 +21,10 @@ Mutian He, Tianqing Fang, **Weiqi Wang**, Yangqiu Song.\
 Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, **Weiqi Wang**, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2304.10392.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
 
+- **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
+Chunkit Chan, Jiayang Cheng, **Weiqi Wang**, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.\
+*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2304.14827.pdf)
+
 ## Conference
 
 - **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset**\
