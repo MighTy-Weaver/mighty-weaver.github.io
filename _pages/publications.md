@@ -23,7 +23,7 @@ Chunkit Chan, Jiayang Cheng, **Weiqi Wang**, Yuxin Jiang, Tianqing Fang, Xin Liu
 
 ## Conference
 
-- **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
+- **CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
 **Weiqi Wang**\*, Tianqing Fang\*, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song and Lei Chen.\
 In *Proceedings of ACL2023*. [pdf], [code]
 
