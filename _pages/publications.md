@@ -25,7 +25,7 @@ Chunkit Chan, Jiayang Cheng, **Weiqi Wang**, Yuxin Jiang, Tianqing Fang, Xin Liu
 
 - **CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
 **Weiqi Wang**\*, Tianqing Fang\*, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song and Lei Chen.\
-In *Proceedings of ACL2023*. [pdf], [code](https://github.com/HKUST-KnowComp/CAT)
+In *Proceedings of ACL2023*. [pdf], [[code]](https://github.com/HKUST-KnowComp/CAT)
 
 - **COLA: Contextualized Commonsense Causality Reasoning from the Causal Inference Perspective.**\
 Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, **Weiqi Wang**, Tianqing Fang, Yangqiu Song, Ginny Y. Wong, Simon See.\
