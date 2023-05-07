@@ -129,11 +129,11 @@ PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ### Fall
 ```angular2html
 COMP3721    3   Theory of Computation
-COMP5621    3   Computer Networks
+COMP5222    3   Statistical Learning Models for Text and Graph Data
 PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```
 ### Spring
 ```angular2html
+COMP5311    3   Database Architecture and Implementation
 COMP5421    3   Computer Vision
-COMP6000+   3   COMP Elective Course
 ```
