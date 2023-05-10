@@ -29,7 +29,7 @@ In *Proceedings of ACL2023 (Main Conference)*. [[pdf]](https://arxiv.org/pdf/230
 
 - **COLA: Contextualized Commonsense Causality Reasoning from the Causal Inference Perspective.**\
 Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, **Weiqi Wang**, Tianqing Fang, Yangqiu Song, Ginny Y. Wong, Simon See.\
-In *Proceedings of ACL2023 (Main Conference)*. [pdf], [[code]](https://github.com/HKUST-KnowComp/COLA)
+In *Proceedings of ACL2023 (Main Conference)*. [[pdf]](https://arxiv.org/pdf/2305.05191.pdf), [[code]](https://github.com/HKUST-KnowComp/COLA)
 
 - **FolkScope: Intention Knowledge Graph Construction for Discovering E-commerce Commonsense.**\
 Changlong Yu, **Weiqi Wang**, Xin Liu, Jiaxin Bai, Yangqiu Song, Zheng Li, Yifan Gao, Tianyu Cao, Bing Yin.\
