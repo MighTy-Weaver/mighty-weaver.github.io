@@ -5,20 +5,21 @@ excerpt: "About me"
 author_profile: true
 redirect_from:
 
-- /about/
-- /about.html
+  - /about/
+  - /about.html
 
 ---
 
 ## About me
 
-Hi there! Welcome to my personal homepage. 
-I'm a first year Ph.D. Student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) supervised
+Hi there! Welcome to my personal homepage.
+I'm a first year Ph.D. Student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at
+the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) supervised
 by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2023/5/10**.
+This webpage is last updated on **2023/5/14**.
 
 ## Research Interest
 
@@ -54,6 +55,7 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 ## Teaching
 
 * COMP4332 Big Data Mining and Management (Spring 2023)
+* Teaching Assistant Coordinators (Fall 2023, Spring 2024)
 
 ## Contact me!
 
