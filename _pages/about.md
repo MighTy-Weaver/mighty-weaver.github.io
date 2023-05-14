@@ -27,8 +27,6 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 
 - Commonsense Reasoning via Conceptualization
 - Commonsense Knowledge Graph Construction and Reasoning in E-Commerce Domain
-- AIGC-in-the-loop Knowledge Graph Construction
-- Multimodal Commonsense Reasoning
 
 ## Education
 
@@ -55,7 +53,7 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 ## Teaching
 
 * COMP4332 Big Data Mining and Management (Spring 2023)
-* Teaching Assistant Coordinators (Fall 2023, Spring 2024)
+* CSE Teaching Assistant Coordinators (Fall 2023, Spring 2024)
 
 ## Contact me!
 
