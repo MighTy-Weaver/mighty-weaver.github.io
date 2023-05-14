@@ -53,7 +53,7 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 ## Teaching
 
 * COMP4332 Big Data Mining and Management (Spring 2023)
-* CSE Teaching Assistant Coordinators (Fall 2023, Spring 2024)
+* CSE Teaching Assistant Coordinator (Fall 2023, Spring 2024)
 
 ## Contact me!
 
