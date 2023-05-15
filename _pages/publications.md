@@ -21,9 +21,12 @@ Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, **Weiqi Wang**, Yangqiu Song.\
 Chunkit Chan, Jiayang Cheng, **Weiqi Wang**, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2304.14827.pdf)
 
+- **CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
+**Weiqi Wang**\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song.\
+
 ## Conference
 
-- **CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
+- **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
 **Weiqi Wang**\*, Tianqing Fang\*, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.\
 In *Proceedings of ACL2023 (Main Conference)*. [[pdf]](https://arxiv.org/pdf/2305.04808.pdf), [[code]](https://github.com/HKUST-KnowComp/CAT)
 
