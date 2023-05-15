@@ -21,8 +21,6 @@ Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, **Weiqi Wang**, Yangqiu Song.\
 Chunkit Chan, Jiayang Cheng, **Weiqi Wang**, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2304.14827.pdf)
 
-- **CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
-**Weiqi Wang**\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song.\
 
 ## Conference
 
