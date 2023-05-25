@@ -23,7 +23,7 @@ Chunkit Chan, Jiayang Cheng, **Weiqi Wang**, Yuxin Jiang, Tianqing Fang, Xin Liu
 
 - **🚗CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
 **Weiqi Wang**\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.\
-*Arxiv Preprint*, 2023. [pdf], [[code]](https://github.com/HKUST-KnowComp/CAR)
+*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2305.14869.pdf), [[code]](https://github.com/HKUST-KnowComp/CAR)
 
 ## Conference
 

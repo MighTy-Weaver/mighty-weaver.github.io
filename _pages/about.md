@@ -25,7 +25,7 @@ This webpage is last updated on **2023/5/24**.
 
 I'm mainly interested in the research of Natural Language Processing, and I'm actively researching in:
 
-- Commonsense Reasoning via *Conceptualization* ([🐈](https://arxiv.org/pdf/2305.04808.pdf), 🚗)
+- Commonsense Reasoning via *Conceptualization* ([🐈](https://arxiv.org/pdf/2305.04808.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf))
 - Commonsense Knowledge Graph Construction and Reasoning in E-Commerce Domain 
 
 ## Education
