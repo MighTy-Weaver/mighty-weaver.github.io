@@ -29,11 +29,11 @@ Chunkit Chan, Jiayang Cheng, **Weiqi Wang**, Yuxin Jiang, Tianqing Fang, Xin Liu
 
 - **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
 **Weiqi Wang**\*, Tianqing Fang\*, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.\
-In *Proceedings of ACL2023 (Main Conference, Oral)*. [[pdf]](https://arxiv.org/pdf/2305.04808.pdf), [[code]](https://github.com/HKUST-KnowComp/CAT)
+In *Proceedings of ACL2023 (Main Conference, **Oral**)*. [[pdf]](https://arxiv.org/pdf/2305.04808.pdf), [[code]](https://github.com/HKUST-KnowComp/CAT)
 
 - **COLA: Contextualized Commonsense Causality Reasoning from the Causal Inference Perspective.**\
 Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, **Weiqi Wang**, Tianqing Fang, Yangqiu Song, Ginny Y. Wong, Simon See.\
-In *Proceedings of ACL2023 (Main Conference, Oral)*. [[pdf]](https://arxiv.org/pdf/2305.05191.pdf), [[code]](https://github.com/HKUST-KnowComp/COLA)
+In *Proceedings of ACL2023 (Main Conference, **Oral**)*. [[pdf]](https://arxiv.org/pdf/2305.05191.pdf), [[code]](https://github.com/HKUST-KnowComp/COLA)
 
 - **FolkScope: Intention Knowledge Graph Construction for Discovering E-commerce Commonsense.**\
 Changlong Yu, **Weiqi Wang**, Xin Liu, Jiaxin Bai, Yangqiu Song, Zheng Li, Yifan Gao, Tianyu Cao, Bing Yin.\
