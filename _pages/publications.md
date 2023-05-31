@@ -25,6 +25,10 @@ Chunkit Chan, Jiayang Cheng, <span style="color:darkblue">**Weiqi Wang**</span>,
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2305.14869.pdf), [[code]](https://github.com/HKUST-KnowComp/CAR)
 
+- **Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints.**\
+Jiaxin Bai, Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Chen Luo, Yangqiu Song.\
+*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2305.19068.pdf)
+
 ## Conference
 
 - **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\

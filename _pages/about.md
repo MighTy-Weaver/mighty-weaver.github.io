@@ -19,7 +19,7 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2023/5/24**.
+This webpage is last updated on **2023/5/31**.
 
 ## Research Interest
 
@@ -52,8 +52,8 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 
 ## Teaching
 
-* COMP4332 Big Data Mining and Management (Spring 2023)
-* CSE Teaching Assistant Coordinator (Fall 2023, Spring 2024)
+* COMP4332 Big Data Mining and Management Teaching Assistant (Spring 2023)
+* CSE Department Teaching Assistant Coordinator (Fall 2023, Spring 2024)
 
 ## Contact me!
 
