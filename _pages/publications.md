@@ -7,7 +7,7 @@ author_profile: true
 
 *Remark: \* indicates equal contribution.*
 
-## Preprint
+## Preprints
 
 - **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.**\
 Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
@@ -29,7 +29,7 @@ Chunkit Chan, Jiayang Cheng, <span style="color:darkblue">**Weiqi Wang**</span>,
 Jiaxin Bai, Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Chen Luo, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2305.19068.pdf)
 
-## Conference
+## Conference Proceedings
 
 - **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.\
@@ -51,13 +51,13 @@ In *Proceedings of EMNLP2021 (Main Conference)*. [[pdf]](https://aclanthology.or
 Tianqing Fang, Hongming Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Bin He.\
 In *Proceedings of WWW2021*. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450117), [[code]](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
-## Journal
+## Journals
 
 - **Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Zhongming Lu.\
 In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
-## Workshop
+## Workshop Proceedings
 
 - **KnowComp at SemEval-2023 Task 7: Finetuning Pre-Trained Language Models for Clinical Trial Entailment Identification.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu\*, Tianqing Fang, Lirong Zhang, Yangqiu Song.\

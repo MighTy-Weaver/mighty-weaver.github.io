@@ -26,7 +26,8 @@ This webpage is last updated on **2023/5/31**.
 I'm mainly interested in the research of Natural Language Processing, and I'm actively researching in:
 
 - Commonsense Reasoning via *Conceptualization* ([🐈](https://arxiv.org/pdf/2305.04808.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf))
-- Commonsense Knowledge Graph Construction and Reasoning in E-Commerce Domain 
+- Commonsense Knowledge Graph Construction and Reasoning in E-Commerce Domain
+- Event Calculus for Event Representation and Reasoning
 
 ## Education
 
@@ -48,7 +49,7 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 
 ## Academic Service
 
-* Program Committee Reviewer: ACL Rolling Review (Sep, 2022 - Now), EMNLP (2022), ACL (2023), SemEval (2023), KDD (2023)
+* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EMNLP (2022), ACL (2023), SemEval (2023), KDD (2023)
 
 ## Teaching
 
