@@ -4,10 +4,8 @@ title: "Weiqi Wang 王伟琪 Mighty"
 excerpt: "About me"
 author_profile: true
 redirect_from:
-
   - /about/
   - /about.html
-
 ---
 
 ## About me
@@ -19,13 +17,14 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2023/5/31**.
+This webpage is last updated on **2023/6/2**.
 
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing, and I'm actively researching in:
 
-- Commonsense Reasoning via *Conceptualization* ([🐈](https://arxiv.org/pdf/2305.04808.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf))
+- Commonsense Reasoning via
+  *Conceptualization* ([🐈](https://arxiv.org/pdf/2305.04808.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf))
 - Commonsense Knowledge Graph Construction and Reasoning in E-Commerce Domain
 - Event Calculus for Event Representation and Reasoning
 
@@ -50,6 +49,7 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 ## Academic Service
 
 * Program Committee Reviewer: ACL Rolling Review (2022 - Now), EMNLP (2022), ACL (2023), SemEval (2023), KDD (2023)
+* Student Volunteer: IJCAI-2023
 
 ## Teaching
 
@@ -58,7 +58,7 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 
 ## Contact me!
 
-You can reach me at `1874240442 [at] qq [dot] com`, this email will be active all the time.
+You can reach me at `mightyweaver829 [at] gmail [dot] com`, this email will be active all the time.
 
 ## Sitemap
 
