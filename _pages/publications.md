@@ -39,7 +39,7 @@ In *Proceedings of ACL2023 (Main Conference, <span style="color:red">**Oral**</s
 Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Yangqiu Song, Ginny Y. Wong, Simon See.\
 In *Proceedings of ACL2023 (Main Conference, <span style="color:red">**Oral**</span>)*. [[pdf]](https://arxiv.org/pdf/2305.05191.pdf), [[code]](https://github.com/HKUST-KnowComp/COLA)
 
-- **FolkScope: Intention Knowledge Graph Construction for Discovering E-commerce Commonsense.**\
+- **FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery.**\
 Changlong Yu, <span style="color:darkblue">**Weiqi Wang**</span>, Xin Liu, Jiaxin Bai, Yangqiu Song, Zheng Li, Yifan Gao, Tianyu Cao, Bing Yin.\
 In *Findings of ACL2023*. [[pdf]](https://arxiv.org/pdf/2211.08316.pdf), [[code]](https://github.com/HKUST-KnowComp/FolkScope)
 
