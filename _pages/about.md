@@ -17,7 +17,7 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2023/6/12**.
+This webpage is last updated on **2023/6/20**.
 
 ## Research Interest
 
@@ -27,6 +27,8 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
   *Conceptualization* ([🐈](https://arxiv.org/pdf/2305.04808.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf))
 - Commonsense Knowledge Graph Construction and Reasoning in E-Commerce Domain
 - Event Calculus for Event Representation and Reasoning
+
+<small>I am typically open to supervising highly motivated and academically strong undergraduate students at HKUST who are interested in NLP. If you would like to collaborate with me, please feel free to send me an email with your CV and unofficial transcript. My email can be found at the left.</small>
 
 ## Education
 
@@ -48,7 +50,8 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 
 ## Academic Service
 
-* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EMNLP (2022, 2023), ACL (2023), SemEval (2023), KDD (2023)
+* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EMNLP (2022, 2023), ACL (2023), SemEval (2023), KDD (
+  2023)
 * Conference Volunteer: IJCAI-2023
 
 ## Teaching
