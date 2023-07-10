@@ -19,7 +19,7 @@ the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-sch
 
 <small>I am typically open to supervising highly motivated and academically strong undergraduate students at HKUST who are interested in NLP. If you would like to collaborate with me, please feel free to send me an email with your CV and unofficial transcript. My email can be found at the left.</small>
 
-This webpage is last updated on **2023/6/20**.
+This webpage is last updated on **2023/7/10**.
 
 ## Research Interest
 
