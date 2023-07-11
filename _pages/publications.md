@@ -33,11 +33,11 @@ Jiaxin Bai, Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Chen Lu
 
 - **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.\
-In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, Main Conference, <span style="color:red">**Oral**</span>)*. [[pdf]](https://aclanthology.org/2023.acl-long.733.pdf), [[code]](https://github.com/HKUST-KnowComp/CAT)
+In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, <span style="color:red">**Oral**</span>)*. [[pdf]](https://aclanthology.org/2023.acl-long.733.pdf), [[code]](https://github.com/HKUST-KnowComp/CAT)
 
 - **COLA: Contextualized Commonsense Causality Reasoning from the Causal Inference Perspective.**\
 Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Yangqiu Song, Ginny Y. Wong, Simon See.\
-In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, Main Conference, <span style="color:red">**Oral**</span>)*. [[pdf]](https://aclanthology.org/2023.acl-long.288.pdf), [[code]](https://github.com/HKUST-KnowComp/COLA)
+In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, <span style="color:red">**Oral**</span>)*. [[pdf]](https://aclanthology.org/2023.acl-long.288.pdf), [[code]](https://github.com/HKUST-KnowComp/COLA)
 
 - **FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery.**\
 Changlong Yu, <span style="color:darkblue">**Weiqi Wang**</span>, Xin Liu, Jiaxin Bai, Yangqiu Song, Zheng Li, Yifan Gao, Tianyu Cao, Bing Yin.\
@@ -45,7 +45,7 @@ In *Findings of the Association for Computational Linguistics: ACL 2023 (Finding
 
 - **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset.**\
 Tianqing Fang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He.\
-In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP-2021, Main Conference)*. [[pdf]](https://aclanthology.org/2021.emnlp-main.705.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
+In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP-2021)*. [[pdf]](https://aclanthology.org/2021.emnlp-main.705.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
 
 - **DISCOS: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge.**\
 Tianqing Fang, Hongming Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Bin He.\

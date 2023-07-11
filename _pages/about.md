@@ -19,7 +19,7 @@ the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-sch
 
 <small>I am typically open to supervising highly motivated and academically strong undergraduate students at HKUST who are interested in NLP. If you would like to collaborate with me, please feel free to send me an email with your CV and unofficial transcript. My email can be found at the left.</small>
 
-This webpage is last updated on **2023/7/10**.
+This webpage is last updated on **2023/7/11**.
 
 ## Research Interest
 
@@ -27,7 +27,7 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 
 - Commonsense Reasoning via
   *Conceptualization* ([🐈](https://arxiv.org/pdf/2305.04808.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf))
-- Commonsense Knowledge Graph Construction and Reasoning in E-Commerce Domain
+- Commonsense Knowledge Graph Construction and Reasoning for E-Commerce Domain
 - Event Calculus for Event Representation and Reasoning
 
 ## Education
