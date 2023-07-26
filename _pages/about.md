@@ -17,9 +17,9 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-<small>I am typically open to supervising highly motivated and academically strong undergraduate students at HKUST who are interested in NLP. If you would like to collaborate with me, please feel free to send me an email with your CV and unofficial transcript. My email can be found at the left.</small>
+<small>I am typically open to supervising undergraduate students at HKUST who are highly motivated, academically strong, and possess strong coding ability. If you are interested in NLP and would like to collaborate with me, please email me with your CV and unofficial transcript. My email can be found at the left.</small>
 
-This webpage is last updated on **2023/7/11**.
+This webpage is last updated on **2023/7/26**.
 
 ## Research Interest
 
@@ -27,12 +27,12 @@ I'm mainly interested in the research of Natural Language Processing, and I'm ac
 
 - Commonsense Reasoning via
   *Conceptualization* ([🐈](https://arxiv.org/pdf/2305.04808.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf))
-- Commonsense Knowledge Graph Construction and Reasoning for E-Commerce Domain
+- Intentional Commonsense Knowledge Graph Construction and Reasoning for E-Commerce Domain
 - Event Calculus for Event Representation and Reasoning
 
 ## Education
 
-**Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
+**The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
 - Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Jun. 2026 (Expected)*
 - Bachelor Degree in Computer Science and Mathematics,  *Sep. 2018 -- Jun. 2022*, *First Class Honors*
