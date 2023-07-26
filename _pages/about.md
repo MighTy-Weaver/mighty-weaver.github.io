@@ -17,7 +17,7 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-<small>I am typically open to supervising undergraduate students at HKUST who are highly motivated, academically strong, and possess strong coding ability. If you are interested in NLP and would like to collaborate with me, please email me with your CV and unofficial transcript. My email can be found at the left.</small>
+<small>I am typically open to supervising undergraduate students who are highly motivated, academically strong, and possess strong coding ability. If you are interested in NLP and would like to collaborate with me, please email me with your CV and unofficial transcript. My email can be found at the left.</small>
 
 This webpage is last updated on **2023/7/26**.
 
