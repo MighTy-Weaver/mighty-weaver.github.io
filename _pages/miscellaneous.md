@@ -22,3 +22,7 @@ I use this webpage to keep track of some non-academic experiences/achievements.
 ### Personal Hobbies
 
 - I'm a huge fan of FPS games including CS:GO, Call of Duty, Battlefield, etc. I also love playing sport games such as NBA2K or FIFA. I ranked top 50 in CrossFire in 2018, and I'm now a global elite player in CS:GO.
+
+### Personal Resume
+
+My CV is available upon request. Drop me an email if you need it.
