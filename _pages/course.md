@@ -6,7 +6,7 @@ redirect_from:
   - /course
 ---
 
-This is the course history during my study in the Hong Kong University of Science and Technology. 
+This is the course history during my undergraduate and postgraduate study in the Hong Kong University of Science and Technology. 
 
 *Remark: Courses are listed in the format of `Course Code + Number of Credits + Course Name`*
 
@@ -129,7 +129,7 @@ PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ### Fall
 ```angular2html
 COMP3721    3   Theory of Computation
-COMP5XXX    3   TBD
+COMP5222    3   Statistical Learning Models for Text and Graph Data
 ```
 ### Spring
 ```angular2html
