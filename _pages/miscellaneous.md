@@ -19,10 +19,14 @@ I use this webpage to keep track of some non-academic experiences/achievements.
   Jun. 2021, Jan. 2022, Jun. 2022*, where I shared my experience in HKUST and answered applicants' questions on
   admissions and studying & living in HKUST.
 
-### Personal Hobbies
+### Hobbies
 
 - I am an avid fan of FPS games, such as CS:GO, Call of Duty, and Battlefield. Additionally, I enjoy playing sports games such as NBA2K and FIFA, as well as mobile games such as Honor of Kings. My passion for gaming has led me to achieve notable accomplishments, including ranking in the top 50 of CrossFire Ranking China in 2018 and currently holding the rank of global elite player in CS:GO.
 
+### Buddies
+
+- I'm extremely thankful to [Jiefu](https://jefferyo.github.io/) and [Tianqing](https://tqfang.github.io/) for bringing me into the world of NLP. Check them out!
+
 ### Personal Resume
 
-My CV is available upon request. Drop me an email if you need it.
+- My CV is available upon request. Drop me an email if you need it.
