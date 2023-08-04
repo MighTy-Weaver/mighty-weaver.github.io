@@ -129,7 +129,7 @@ PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ### Fall
 ```angular2html
 COMP3721    3   Theory of Computation
-COMP5222    3   Statistical Learning Models for Text and Graph Data
+COMP5222    3   Advanced Machine Learning with Graphs
 ```
 ### Spring
 ```angular2html
