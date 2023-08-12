@@ -130,6 +130,7 @@ PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```angular2html
 COMP3721    3   Theory of Computation
 COMP5222    3   Advanced Machine Learning with Graphs
+PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```
 ### Spring
 ```angular2html
