@@ -124,7 +124,7 @@ LANG5001    1   Postgraduate English for Engineering Research Studies
 PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```
 ---
-## PhD Year 2 (Plan)
+## PhD Year 2
 ##### 6 + 6 = 12 Credits
 ### Fall
 ```angular2html
@@ -132,7 +132,7 @@ COMP3721    3   Theory of Computation
 COMP5222    3   Advanced Machine Learning with Graphs
 PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```
-### Spring
+### Spring (Plan)
 ```angular2html
 COMP5311    3   Database Architecture and Implementation
 COMP5421    3   Computer Vision
