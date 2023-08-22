@@ -11,7 +11,7 @@ redirect_from:
 ## About me
 
 Hi there! Welcome to my personal homepage.
-I'm a first year Ph.D. Student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at
+I'm a second year Ph.D. Student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) supervised
 by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science
 and Mathematics from the same institution in 2022, and I'm now funded by
@@ -19,7 +19,7 @@ the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-sch
 
 <small>I am open to supervising undergraduate students who are highly motivated, academically strong, and possess strong coding ability. If you are interested in NLP and would like to collaborate with me, please email me with your CV and unofficial transcript. My email can be found at the left.</small>
 
-This webpage is last updated on **2023/8/15**.
+This webpage is last updated on **2023/8/22**.
 
 ## Research Interest
 
