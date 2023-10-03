@@ -62,3 +62,7 @@ In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jcle
 - **KnowComp at SemEval-2023 Task 7: Fine-tuning Pre-trained Language Models for Clinical Trial Entailment Identification.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu\*, Tianqing Fang, Lirong Zhang, Yangqiu Song.\
 In *Proceedings of The 17th International Workshop on Semantic Evaluation (SemEval-2023)*. [[pdf]](https://aclanthology.org/2023.semeval-1.1.pdf), [[code]](https://github.com/HKUST-KnowComp/NLI4CT)
+
+- **TILFA: A Unified Framework for Text, Image, and Layout Fusion in Argument Mining.**\
+Qing Zong, Zhaowei Wang, Baixuan Xu, Tianshi Zheng, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Ginny Wong, Simon See.\
+In *Proceedings of the 10th Workshop on Argument Mining (ArgMining-2023)*. [pdf], [code]
