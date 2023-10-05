@@ -66,3 +66,11 @@ In *Proceedings of The 17th International Workshop on Semantic Evaluation (SemEv
 - **TILFA: A Unified Framework for Text, Image, and Layout Fusion in Argument Mining.**\
 Qing Zong, Zhaowei Wang, Baixuan Xu, Tianshi Zheng, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Ginny Wong, Simon See.\
 In *Proceedings of the 10th Workshop on Argument Mining (ArgMining-2023)*. [pdf], [code]
+
+- **KnowComp Submission for WMT23 Word-Level AutoCompletion Task.**\
+Yi Wu, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
+In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [pdf], [code]
+
+- **KnowComp Submission for WMT23 Sign Language Translation Task.**\
+Baixuan Xu, Haochen Shi, Tianshi Zheng, Qing Zong, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Yangqiu Song.\
+In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [pdf], [code]
