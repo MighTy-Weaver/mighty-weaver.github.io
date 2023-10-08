@@ -21,11 +21,23 @@ Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, <span style="color:darkblue">**Weiq
 Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2022. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
+## Conference Proceedings
+
 - **🚗CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.\
-*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2305.14869.pdf), [[code]](https://github.com/HKUST-KnowComp/CAR)
+In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://arxiv.org/pdf/2305.14869.pdf), [[code]](https://github.com/HKUST-KnowComp/CAR)
 
-## Conference Proceedings
+- **QADYNAMICS: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering.**\
+Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song.\
+In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [pdf], [code]
+
+- **Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection.**\
+Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Xin Liu, Yangqiu Song.\
+In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [pdf], [code]
+
+- **STORYANALOGY: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding.**\
+Jiayang Cheng, Lin Qiu, Tsz Ho CHAN, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Chunkit Chan, Qipeng Guo, Hongming Zhang, Yangqiu Song, Yue Zhang, Zheng Zhang.\
+In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP-2023)*. [pdf], [code]
 
 - **Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints.**\
 Jiaxin Bai, Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Chen Luo, Yangqiu Song.\
