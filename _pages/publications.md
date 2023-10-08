@@ -35,7 +35,7 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Xin Liu, Yangqiu Song.\
 In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [pdf], [code]
 
-- **STORYANALOGY: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding.**\
+- **StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding.**\
 Jiayang Cheng, Lin Qiu, Tsz Ho CHAN, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Chunkit Chan, Qipeng Guo, Hongming Zhang, Yangqiu Song, Yue Zhang, Zheng Zhang.\
 In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP-2023)*. [pdf], [code]
 
