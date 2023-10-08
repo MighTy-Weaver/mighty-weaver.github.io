@@ -28,7 +28,7 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://arxiv.org/pdf/2305.14869.pdf), [[code]](https://github.com/HKUST-KnowComp/CAR)
 
 - **QaDynamics: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering.**\
-Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song.\
+Haochen Shi\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song.\
 In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [pdf], [code]
 
 - **Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection.**\
