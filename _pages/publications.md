@@ -29,11 +29,11 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 
 - **QaDynamics: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering.**\
 Haochen Shi\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [pdf], [code]
+In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [pdf], [[code]](https://github.com/HKUST-KnowComp/QaDynamics)
 
 - **Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection.**\
 Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Xin Liu, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [pdf], [code]
+In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [pdf], [[code]](https://github.com/HKUST-KnowComp/GOLD)
 
 - **StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding.**\
 Jiayang Cheng, Lin Qiu, Tsz Ho CHAN, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Chunkit Chan, Qipeng Guo, Hongming Zhang, Yangqiu Song, Yue Zhang, Zheng Zhang.\
@@ -77,12 +77,12 @@ In *Proceedings of The 17th International Workshop on Semantic Evaluation (SemEv
 
 - **TILFA: A Unified Framework for Text, Image, and Layout Fusion in Argument Mining.**\
 Qing Zong, Zhaowei Wang, Baixuan Xu, Tianshi Zheng, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Ginny Wong, Simon See.\
-In *Proceedings of the 10th Workshop on Argument Mining (ArgMining-2023)*. [pdf], [code]
+In *Proceedings of the 10th Workshop on Argument Mining (ArgMining-2023)*. [[pdf]](https://arxiv.org/pdf/2310.05210.pdf), [[code]](https://github.com/HKUST-KnowComp/TILFA)
 
 - **KnowComp Submission for WMT23 Word-Level AutoCompletion Task.**\
 Yi Wu, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [pdf], [code]
+In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [pdf], [[code]](https://github.com/ethanyiwu/WLAC)
 
 - **KnowComp Submission for WMT23 Sign Language Translation Task.**\
 Baixuan Xu, Haochen Shi, Tianshi Zheng, Qing Zong, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Yangqiu Song.\
-In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [pdf], [code]
+In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [pdf], [[code]](https://github.com/HKUST-KnowComp/SLT)
