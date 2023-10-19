@@ -33,7 +33,7 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 
 - **Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection.**\
 Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Xin Liu, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [pdf], [[code]](https://github.com/HKUST-KnowComp/GOLD)
+In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://arxiv.org/pdf/2310.12011.pdf), [[code]](https://github.com/HKUST-KnowComp/GOLD)
 
 - **StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding.**\
 Jiayang Cheng, Lin Qiu, Tsz Ho CHAN, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Chunkit Chan, Qipeng Guo, Hongming Zhang, Yangqiu Song, Yue Zhang, Zheng Zhang.\
