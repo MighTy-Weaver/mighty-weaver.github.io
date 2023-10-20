@@ -37,7 +37,7 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 
 - **StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding.**\
 Jiayang Cheng, Lin Qiu, Tsz Ho CHAN, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Chunkit Chan, Qipeng Guo, Hongming Zhang, Yangqiu Song, Yue Zhang, Zheng Zhang.\
-In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP-2023)*. [pdf], [code]
+In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP-2023)*. [[pdf]](https://arxiv.org/pdf/2310.12874.pdf), [[code]](https://github.com/loginaway/StoryAnalogy)
 
 - **Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints.**\
 Jiaxin Bai, Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Chen Luo, Yangqiu Song.\
