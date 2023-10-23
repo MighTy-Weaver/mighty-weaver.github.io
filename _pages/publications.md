@@ -25,7 +25,7 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 
 - **🚗CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.\
-In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://arxiv.org/pdf/2305.14869.pdf), [[code]](https://github.com/HKUST-KnowComp/CAR)
+In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://arxiv.org/pdf/2305.14869v2.pdf), [[code]](https://github.com/HKUST-KnowComp/CAR)
 
 - **QaDynamics: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering.**\
 Haochen Shi\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song.\
