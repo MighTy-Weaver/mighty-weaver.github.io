@@ -17,9 +17,9 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-<small>I am open to supervising undergraduate students who are highly motivated, academically strong, and possess strong coding ability. If you are interested in NLP and would like to collaborate with me, please email me with your CV and unofficial transcript. My email can be found at the left.</small>
+<small>I have two openings for undergraduate students who are interested in collaborating with me in the field of NLP (LLM and Reasoning). Looking for individuals who are highly motivated, academically strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
 
-This webpage is last updated on **2023/10/20**.
+This webpage is last updated on **2023/10/30**.
 
 ## Research Interest
 
@@ -50,7 +50,7 @@ I'm mainly interested in the research of Natural Language Processing. In the era
 
 ## Academic Service
 
-* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EMNLP (2022, 2023), ACL (2023), SemEval (2023), KDD (2023)
+* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EMNLP (2022, 2023), ACL (2023), EACL (2024), SemEval (2023), KDD (2023), EACL (2024)
 * Conference Volunteer: IJCAI-2023
 
 ## Teaching

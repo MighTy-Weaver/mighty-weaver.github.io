@@ -9,6 +9,10 @@ author_profile: true
 
 ## Preprints
 
+- **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation.**\
+Wei Fan, Weijia Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Hao Liu.\
+*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2310.17922.pdf), [[code]](https://github.com/AlexFanw/CoCHPL)
+
 - **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations.**\
 Chunkit Chan, Jiayang Cheng, <span style="color:darkblue">**Weiqi Wang**</span>, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2304.14827.pdf)
