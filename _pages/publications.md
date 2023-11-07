@@ -25,6 +25,16 @@ Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, <span style="color:darkblue">**Weiq
 Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2022. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
+## Journals
+
+- **Preventing Efficiency Loss in Air Conditioners: Deep Learning Analysis of Smart Meter Data from a Small Sample.**\
+<span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Sybil Derrible, Yangqiu Song, Zhongming Lu.\
+*Under Review*, 2023.
+
+- **Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy.**\
+<span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Zhongming Lu.\
+In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
+
 ## Conference Proceedings
 
 - **🚗CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
@@ -66,12 +76,6 @@ In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language 
 - **DISCOS: Bridging the Gap between Discourse Knowledge and Commonsense Knowledge.**\
 Tianqing Fang, Hongming Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Bin He.\
 In *Proceedings of the Web Conference 2021 (WWW-2021)*. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450117), [[code]](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
-
-## Journals
-
-- **Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy.**\
-<span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Zhongming Lu.\
-In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
 ## Workshop Proceedings
 
