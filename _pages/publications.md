@@ -9,6 +9,10 @@ author_profile: true
 
 ## Preprints
 
+- **AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph.**\
+Zhaowei Wang, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Hongming Zhang, Sehyun Choi, Xin Liu, Yangqiu Song.\
+*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2311.09174.pdf), [[code]](https://github.com/HKUST-KnowComp/AbsPyramid)
+
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation.**\
 Wei Fan, Weijia Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Hao Liu.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2310.17922.pdf), [[code]](https://github.com/AlexFanw/CoCHPL)
