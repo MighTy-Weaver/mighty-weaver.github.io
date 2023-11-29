@@ -93,8 +93,8 @@ In *Proceedings of the 10th Workshop on Argument Mining (ArgMining-2023)*. [[pdf
 
 - **KnowComp Submission for WMT23 Word-Level AutoCompletion Task.**\
 Yi Wu, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [pdf], [[code]](https://github.com/ethanyiwu/WLAC)
+In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [[pdf]](https://www2.statmt.org/wmt23/pdf/2023.wmt-1.79.pdf), [[code]](https://github.com/ethanyiwu/WLAC)
 
 - **KnowComp Submission for WMT23 Sign Language Translation Task.**\
 Baixuan Xu, Haochen Shi, Tianshi Zheng, Qing Zong, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Yangqiu Song.\
-In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [pdf], [[code]](https://github.com/HKUST-KnowComp/SLT)
+In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [[pdf]](https://www2.statmt.org/wmt23/pdf/2023.wmt-1.36.pdf), [[code]](https://github.com/HKUST-KnowComp/SLT)
