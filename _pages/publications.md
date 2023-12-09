@@ -9,6 +9,10 @@ author_profile: true
 
 ## Preprints
 
+- **CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
+<span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Jiaxin Bai, Xin Liu, Zhaowei Wang, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
+*Coming Soon*, 2023.
+
 - **AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph.**\
 Zhaowei Wang, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Hongming Zhang, Sehyun Choi, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2311.09174.pdf), [[code]](https://github.com/HKUST-KnowComp/AbsPyramid)
@@ -33,7 +37,7 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 
 - **Deep Learning Analysis of Smart Meter Data from a Small Sample of Room Air Conditioners Facilitates Routine Assessment of their Operational Efficiency.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Sybil Derrible, Yangqiu Song, Zhongming Lu.\
-*Under Review*, 2023.
+*Under Review at Energy and AI*, 2023.
 
 - **Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Zhongming Lu.\
@@ -43,19 +47,19 @@ In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jcle
 
 - **🚗CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.\
-In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://arxiv.org/pdf/2305.14869v2.pdf), [[code]](https://github.com/HKUST-KnowComp/CAR)
+In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://aclanthology.org/2023.findings-emnlp.902.pdf), [[code]](https://github.com/HKUST-KnowComp/CAR)
 
 - **QaDynamics: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering.**\
 Haochen Shi\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://arxiv.org/pdf/2310.11303.pdf), [[code]](https://github.com/HKUST-KnowComp/QaDynamics)
+In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://aclanthology.org/2023.findings-emnlp.1023.pdf), [[code]](https://github.com/HKUST-KnowComp/QaDynamics)
 
 - **Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection.**\
 Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Xin Liu, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://arxiv.org/pdf/2310.12011.pdf), [[code]](https://github.com/HKUST-KnowComp/GOLD)
+In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://aclanthology.org/2023.findings-emnlp.232.pdf), [[code]](https://github.com/HKUST-KnowComp/GOLD)
 
 - **StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding.**\
 Jiayang Cheng, Lin Qiu, Tsz Ho CHAN, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Chunkit Chan, Qipeng Guo, Hongming Zhang, Yangqiu Song, Yue Zhang, Zheng Zhang.\
-In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP-2023)*. [[pdf]](https://arxiv.org/pdf/2310.12874.pdf), [[code]](https://github.com/loginaway/StoryAnalogy)
+In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP-2023)*. [[pdf]](https://aclanthology.org/2023.emnlp-main.706.pdf), [[code]](https://github.com/loginaway/StoryAnalogy)
 
 - **Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints.**\
 Jiaxin Bai, Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Chen Luo, Yangqiu Song.\
@@ -89,12 +93,12 @@ In *Proceedings of The 17th International Workshop on Semantic Evaluation (SemEv
 
 - **TILFA: A Unified Framework for Text, Image, and Layout Fusion in Argument Mining.**\
 Qing Zong, Zhaowei Wang, Baixuan Xu, Tianshi Zheng, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Ginny Wong, Simon See.\
-In *Proceedings of the 10th Workshop on Argument Mining (ArgMining-2023)*. [[pdf]](https://arxiv.org/pdf/2310.05210.pdf), [[code]](https://github.com/HKUST-KnowComp/TILFA)
+In *Proceedings of the 10th Workshop on Argument Mining (ArgMining-2023)*. [[pdf]](https://aclanthology.org/2023.argmining-1.14.pdf), [[code]](https://github.com/HKUST-KnowComp/TILFA)
 
 - **KnowComp Submission for WMT23 Word-Level AutoCompletion Task.**\
 Yi Wu, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [[pdf]](https://www2.statmt.org/wmt23/pdf/2023.wmt-1.79.pdf), [[code]](https://github.com/ethanyiwu/WLAC)
+In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [[pdf]](https://aclanthology.org/2023.wmt-1.79.pdf), [[code]](https://github.com/ethanyiwu/WLAC)
 
 - **KnowComp Submission for WMT23 Sign Language Translation Task.**\
 Baixuan Xu, Haochen Shi, Tianshi Zheng, Qing Zong, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Yangqiu Song.\
-In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [[pdf]](https://www2.statmt.org/wmt23/pdf/2023.wmt-1.36.pdf), [[code]](https://github.com/HKUST-KnowComp/SLT)
+In *Proceedings of the Eighth Conference on Machine Translation (WMT-2023)*. [[pdf]](https://aclanthology.org/2023.wmt-1.36.pdf), [[code]](https://github.com/HKUST-KnowComp/SLT)
