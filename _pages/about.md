@@ -17,7 +17,7 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-<small>I have <span style="color:darkblue">**three openings for undergraduate students**</span> who are interested in collaborating with me in the field of NLP (Knowledge-enhanced LLM for Reasoning) and Multimodal (Vision-Language Model's Reasoning) to pursue publications. Looking for individuals who are self-motivated, academically strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
+<small>I have <span style="color:darkblue">**three openings for undergraduate students**</span> who are interested in collaborating with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multimodal (Large Vision-Language Model's Reasoning and Application)** to pursue publications. Looking for individuals who are self-motivated, academically strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
 
 This webpage is last updated on **2023/12/15**.
 
