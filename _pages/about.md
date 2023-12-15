@@ -17,18 +17,16 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-<small>I have <span style="color:darkblue">**three openings for undergraduate students**</span> who are interested in collaborating with me in the field of NLP (Knowledge-enhanced LLM for Reasoning) to pursue publications. Looking for individuals who are self-motivated, academically strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
+<small>I have <span style="color:darkblue">**three openings for undergraduate students**</span> who are interested in collaborating with me in the field of NLP (Knowledge-enhanced LLM for Reasoning) and Multimodal (Vision-Language Model's Reasoning) to pursue publications. Looking for individuals who are self-motivated, academically strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
 
-This webpage is last updated on **2023/12/9**.
+This webpage is last updated on **2023/12/15**.
 
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing. In the era of Large Language Model, I'm actively researching in:
 
-- Commonsense Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf), 🕯️)
-- Large Language Models as Agents with Theory-of-Mind
-- Intentional and Multimodal Commonsense Discovery in E-Commerce Domain
-- Eventuality Calculus for Event Representation and Reasoning
+- Large Langauge Model Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf), 🕯️) and Neural Eventuality Calculus
+- Large Language Models for Intentional and Multimodal Commonsense in E-Commerce
 
 ## Education
 
