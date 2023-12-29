@@ -10,8 +10,8 @@ author_profile: true
 ## Preprints
 
 - **CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
-<span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Jiaxin Bai, Xin Liu, Zhaowei Wang, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
-*Coming Soon*, 2023.
+<span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Jiaxin Bai, Zhaowei Wang, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
+*Coming Soon*, 2023. [pdf], [[code]](https://github.com/HKUST-KnowComp/CANDLE)
 
 - **AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph.**\
 Zhaowei Wang, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Hongming Zhang, Sehyun Choi, Xin Liu, Yangqiu Song.\
