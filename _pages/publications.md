@@ -11,7 +11,7 @@ author_profile: true
 
 - **CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
-*Coming Soon*, 2023. [pdf], [[code]](https://github.com/HKUST-KnowComp/CANDLE)
+*Coming Soon*, 2024. [pdf], [[code]](https://github.com/HKUST-KnowComp/CANDLE)
 
 - **AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph.**\
 Zhaowei Wang, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Hongming Zhang, Sehyun Choi, Xin Liu, Yangqiu Song.\
@@ -37,7 +37,7 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 
 - **Deep Learning Analysis of Smart Meter Data from a Small Sample of Room Air Conditioners Facilitates Routine Assessment of their Operational Efficiency.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Sybil Derrible, Yangqiu Song, Zhongming Lu.\
-*Under Review at Energy and AI*, 2023.
+In *Energy and AI*, 2024. [pdf], [[code]](https://github.com/MighTy-Weaver/SMD4RAC_Detection)
 
 - **Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Zhongming Lu.\
