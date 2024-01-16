@@ -37,7 +37,7 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 
 - **Deep Learning Analysis of Smart Meter Data from a Small Sample of Room Air Conditioners Facilitates Routine Assessment of their Operational Efficiency.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Sybil Derrible, Yangqiu Song, Zhongming Lu.\
-In *Energy and AI*, 2024. [pdf], [[code]](https://github.com/MighTy-Weaver/SMD4RAC_Detection)
+In *Energy and AI*, 2024. [[pdf]](https://doi.org/10.1016/j.egyai.2024.100338), [[code]](https://github.com/MighTy-Weaver/SMD4RAC_Detection)
 
 - **Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Zhongming Lu.\

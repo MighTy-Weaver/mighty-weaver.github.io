@@ -19,7 +19,7 @@ the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-sch
 
 <small>I have [<span style="color:darkblue">**three openings for undergraduate students**</span>](https://urop.hkust.edu.hk/projects/reasoning-large-foundation-models) who are interested in collaborating with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multi-modality (Large Vision-Language Model's Reasoning and Application)** to pursue publications. Looking for individuals who are self-motivated, academically strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
 
-This webpage is last updated on **2024/1/12**.
+This webpage is last updated on **2024/1/16**.
 
 ## Research Interest
 
@@ -48,7 +48,7 @@ I'm mainly interested in the research of Natural Language Processing. In the era
 
 ## Academic Service
 
-* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EMNLP (2022, 2023), ACL (2023), EACL (2024), SemEval (2023), KDD (2023)
+* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL(2024), EMNLP (2022, 2023), ACL (2023, 2024), SemEval (2023), KDD (2023)
 * Conference Volunteer: IJCAI-2023
 
 ## Teaching
