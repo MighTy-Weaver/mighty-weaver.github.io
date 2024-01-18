@@ -21,10 +21,6 @@ Zhaowei Wang, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, T
 Wei Fan, Weijia Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Hao Liu.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2310.17922.pdf), [[code]](https://github.com/AlexFanw/CoCHPL)
 
-- **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations.**\
-Chunkit Chan, Jiayang Cheng, <span style="color:darkblue">**Weiqi Wang**</span>, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.\
-*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2304.14827.pdf)
-
 - **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population.**\
 Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2304.10392.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
@@ -44,6 +40,9 @@ In *Energy and AI*, 2024. [[pdf]](https://doi.org/10.1016/j.egyai.2024.100338), 
 In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
 ## Conference Proceedings
+- **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations.**\
+Chunkit Chan, Jiayang Cheng, <span style="color:darkblue">**Weiqi Wang**</span>, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.\
+In *Findings of the Association for Computational Linguistics: EACL 2024 (Findings of EACL-2024)* [[pdf]](https://arxiv.org/pdf/2304.14827.pdf)
 
 - **🚗CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.\
