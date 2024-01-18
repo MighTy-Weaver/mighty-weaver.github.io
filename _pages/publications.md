@@ -40,7 +40,7 @@ In *Energy and AI*, 2024. [[pdf]](https://doi.org/10.1016/j.egyai.2024.100338), 
 In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
 ## Conference Proceedings
-- **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations.**\
+- **Exploring the Potential of ChatGPT on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations.**\
 Chunkit Chan, Jiayang Cheng, <span style="color:darkblue">**Weiqi Wang**</span>, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.\
 In *Findings of the Association for Computational Linguistics: EACL 2024 (Findings of EACL-2024)* [[pdf]](https://arxiv.org/pdf/2304.14827.pdf)
 
