@@ -25,7 +25,7 @@ This webpage is last updated on **2024/1/16**.
 
 I'm mainly interested in the research of Natural Language Processing. In the era of Large Language Model, I'm actively researching in:
 
-- Large Langauge Model Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf), 🕯️)
+- Large Langauge Model Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf),[🕯️](https://arxiv.org/pdf/2401.07286.pdf))
 - Intentional and Multimodal Commonsense Application in E-Commerce and Social Media
 
 ## Education
