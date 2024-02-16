@@ -13,6 +13,10 @@ author_profile: true
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [[code]](https://github.com/HKUST-KnowComp/CANDLE)
 
+- **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion.**\
+Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf), [code]
+
 - **AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph.**\
 Zhaowei Wang, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Hongming Zhang, Sehyun Choi, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2311.09174.pdf), [[code]](https://github.com/HKUST-KnowComp/AbsPyramid)
