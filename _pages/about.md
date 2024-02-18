@@ -17,13 +17,13 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-<small>I have [<span style="color:darkblue">**two openings for undergraduate students**</span>](https://urop.hkust.edu.hk/projects/reasoning-large-foundation-models) who are interested in collaborating with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multi-modality (Large Vision-Language Model's Reasoning and Application)** to pursue publications. Looking for individuals who are self-motivated, academically strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
+<small>I have [<span style="color:darkblue">**one opening left for undergraduate students**</span>](https://urop.hkust.edu.hk/projects/reasoning-large-foundation-models) who are interested in collaborating with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multi-modality (Large Vision-Language Model's Reasoning and Application)** to pursue publications. Looking for individuals who are self-motivated, academically strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
 
-This webpage is last updated on **2024/2/1**.
+This webpage is last updated on **2024/2/18**.
 
 ## Research Interest
 
-I'm mainly interested in the research of Natural Language Processing. In the era of Large Language Model, I'm actively researching in:
+I'm mainly interested in the research of Natural Language Processing. In the era of Large Foundation Models, I'm actively researching in:
 
 - Large Langauge Model Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf))
 - Intentional and Multimodal Commonsense Discovery in E-Commerce and Social Media
@@ -48,7 +48,8 @@ I'm mainly interested in the research of Natural Language Processing. In the era
 
 ## Academic Service
 
-* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL(2024), EMNLP (2022, 2023), ACL (2023, 2024), SemEval (2023, 2024), KDD (2023, 2024)
+* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL(2024), EMNLP (2022, 2023), ACL (2023), SemEval (2023, 2024), KDD (2023, 2024)
+* Area Chair: ACL (2024)
 * Conference Volunteer: IJCAI-2023
 
 ## Teaching
