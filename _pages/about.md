@@ -48,8 +48,8 @@ I'm mainly interested in the research of Natural Language Processing. In the era
 
 ## Academic Service
 
-* Program Committee Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL(2024), EMNLP (2022, 2023), ACL (2023), SemEval (2023, 2024), KDD (2023, 2024)
 * Area Chair: ACL (2024)
+* Conference Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL(2024), EMNLP (2022, 2023), ACL (2023), SemEval (2023, 2024), KDD (2023, 2024)
 * Conference Volunteer: IJCAI-2023
 
 ## Teaching
