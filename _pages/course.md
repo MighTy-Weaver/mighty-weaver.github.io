@@ -132,7 +132,7 @@ COMP3721    3   Theory of Computation
 COMP5222    3   Advanced Machine Learning with Graphs
 PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```
-### Spring (Plan)
+### Spring
 ```angular2html
 COMP5311    3   Database Architecture and Implementation
 COMP5421    3   Computer Vision
