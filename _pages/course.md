@@ -136,4 +136,5 @@ PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```angular2html
 COMP5311    3   Database Architecture and Implementation
 COMP5421    3   Computer Vision
+PDEV6800B   0   Introduction to Teaching and Learning in Higher Education
 ```
