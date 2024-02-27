@@ -19,14 +19,14 @@ the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-sch
 
 <small>I have [<span style="color:darkblue">**one opening left for undergraduate students**</span>](https://urop.hkust.edu.hk/projects/reasoning-large-foundation-models) who are interested in collaborating with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multi-modality (Large Vision-Language Model's Reasoning and Application)** to pursue publications. Looking for individuals who are self-motivated, academically strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
 
-This webpage is last updated on **2024/2/21**.
+This webpage is last updated on **2024/2/27**.
 
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing. In the era of Large Foundation Models, I'm actively researching in:
 
 - Large Langauge Model Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://arxiv.org/pdf/2305.14869.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf))
-- Intentional and Multimodal Commonsense Discovery in E-Commerce and Social Media
+- Multimodal *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce and Social Media
 
 ## Education
 

@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-- **CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
+- **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [[code]](https://github.com/HKUST-KnowComp/CANDLE)
 
