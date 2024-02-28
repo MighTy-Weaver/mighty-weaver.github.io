@@ -11,7 +11,7 @@ author_profile: true
 
 - **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [[code]](https://github.com/HKUST-KnowComp/CANDLE)
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [code]
 
 - **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
 Feihong Lu*, <span style="color:darkblue">**Weiqi Wang**</span>*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li。、
