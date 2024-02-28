@@ -14,7 +14,7 @@ author_profile: true
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [code]
 
 - **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
-Feihong Lu*, <span style="color:darkblue">**Weiqi Wang**</span>*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li。、
+Feihong Lu*, <span style="color:darkblue">**Weiqi Wang**</span>*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
 *Arxiv Preprint*, 2024. [pdf], [code]
 
 - **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion.**\

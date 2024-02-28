@@ -32,7 +32,7 @@ actively researching in:
 
 - Large Langauge Model Reasoning via
   *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf))
-- Multimodal *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf)) and Social Media ([MIKO])
+- Multimodal *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf)) and Social Media (MIKO)
 
 ## Education
 
