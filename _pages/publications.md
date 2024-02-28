@@ -13,6 +13,10 @@ author_profile: true
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [[code]](https://github.com/HKUST-KnowComp/CANDLE)
 
+- **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
+Feihong Lu*, <span style="color:darkblue">**Weiqi Wang**</span>*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li。、
+*Arxiv Preprint*, 2024. [pdf], [code]
+
 - **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion.**\
 Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf), [code]
