@@ -53,10 +53,10 @@ actively researching in:
 
 ## Awards
 
-* **Hong Kong PhD Fellowship** (2022 - 2026)
-* **HKUST RedBird PhD Scholarship** (2022)
-* **Dean's List for the School of Engineering** (Fall 2018, Fall 2019, Fall 2020, Spring 2022)
-* **University's Scholarship Scheme for Continuing Undergraduate Students** (2019 - 2022)
+* Hong Kong PhD Fellowship (2022 - 2026)
+* HKUST RedBird PhD Scholarship (2022)
+* Dean's List for the School of Engineering (Fall 2018, Fall 2019, Fall 2020, Spring 2022)
+* University's Scholarship Scheme for Continuing Undergraduate Students (2019 - 2022)
 
 ## Academic Service
 
