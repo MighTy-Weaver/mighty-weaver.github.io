@@ -11,15 +11,15 @@ author_profile: true
 
 - **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [code]
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf)
 
 - **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
 Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.18169.pdf), [code]
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.18169.pdf)
 
 - **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion.**\
 Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf), [code]
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
 
 - **AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph.**\
 Zhaowei Wang, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Hongming Zhang, Sehyun Choi, Xin Liu, Yangqiu Song.\
@@ -50,7 +50,7 @@ In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jcle
 ## Conference Proceedings
 - **Exploring the Potential of ChatGPT on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations.**\
 Chunkit Chan, Jiayang Cheng, <span style="color:darkblue">**Weiqi Wang**</span>, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: EACL 2024 (Findings of EACL-2024)* [[pdf]](https://arxiv.org/pdf/2304.14827.pdf)
+In *Findings of the Association for Computational Linguistics: EACL 2024 (Findings of EACL-2024)* [[pdf]](https://arxiv.org/pdf/2304.14827.pdf), [[code]](https://github.com/HKUST-KnowComp/ChatGPT-Inter-Sentential-Relations)
 
 - **🚗CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.\
