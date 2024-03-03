@@ -23,6 +23,8 @@ I use this webpage to keep track of some non-academic experiences/achievements.
 
 - I am an avid fan of FPS games, such as CS:GO, Call of Duty, and Battlefield. Additionally, I enjoy playing sports games such as NBA2K and FIFA, as well as mobile games such as Honor of Kings. My passion for gaming has led me to achieve notable accomplishments, including ranking in the top 50 of CrossFire Ranking China in 2018 and currently holding the rank of global elite player in CS:GO.
 
+![Travis](https://steam-stat.vercel.app/api?profileName=mighty-weaver)
+
 ### Buddies
 
 - I'm extremely thankful to [Jiefu](https://jefferyo.github.io/) and [Tianqing](https://tqfang.github.io/) for bringing me into the world of NLP. Check them out!
