@@ -51,19 +51,19 @@ actively researching in:
 
 - Applied Scientist Intern, *Jun. 2024 -- Sep. 2024*
 
-## Awards
-
-* Hong Kong PhD Fellowship (2022 - 2026)
-* HKUST RedBird PhD Scholarship (2022)
-* Dean's List for the School of Engineering (Fall 2018, Fall 2019, Fall 2020, Spring 2022)
-* University's Scholarship Scheme for Continuing Undergraduate Students (2019 - 2022)
-
 ## Academic Service
 
 * Area Chair: ACL (2024)
 * Conference Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL(2024), EMNLP (2022, 2023), ACL (2023),
   SemEval (2023, 2024), KDD (2023, 2024)
 * Conference Volunteer: IJCAI-2023
+
+## Awards
+
+* Hong Kong PhD Fellowship (2022 - 2026)
+* HKUST RedBird PhD Scholarship (2022)
+* Dean's List for the School of Engineering (Fall 2018, Fall 2019, Fall 2020, Spring 2022)
+* University's Scholarship Scheme for Continuing Undergraduate Students (2019 - 2022)
 
 ## Teaching
 
