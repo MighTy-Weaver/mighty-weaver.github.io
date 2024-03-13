@@ -21,10 +21,6 @@ Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Lu
 Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
 
-- **AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph.**\
-Zhaowei Wang, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Hongming Zhang, Sehyun Choi, Xin Liu, Yangqiu Song.\
-*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2311.09174.pdf), [[code]](https://github.com/HKUST-KnowComp/AbsPyramid)
-
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation.**\
 Wei Fan, Weijia Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Hao Liu.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2310.17922.pdf), [[code]](https://github.com/AlexFanw/CoCHPL)
@@ -48,6 +44,10 @@ In *Energy and AI*, 2024. [[pdf]](https://doi.org/10.1016/j.egyai.2024.100338), 
 In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
 ## Conference Proceedings
+- **AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph.**\
+Zhaowei Wang, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Hongming Zhang, Sehyun Choi, Xin Liu, Yangqiu Song.\
+In *Findings of the Association for Computational Linguistics: NAACL 2024 (Findings of NAACL-2024)* [[pdf]](https://arxiv.org/pdf/2311.09174.pdf), [[code]](https://github.com/HKUST-KnowComp/AbsPyramid)
+
 - **Exploring the Potential of ChatGPT on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations.**\
 Chunkit Chan, Jiayang Cheng, <span style="color:darkblue">**Weiqi Wang**</span>, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.\
 In *Findings of the Association for Computational Linguistics: EACL 2024 (Findings of EACL-2024)* [[pdf]](https://arxiv.org/pdf/2304.14827.pdf), [[code]](https://github.com/HKUST-KnowComp/ChatGPT-Inter-Sentential-Relations)
