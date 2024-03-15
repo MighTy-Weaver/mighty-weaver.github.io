@@ -21,10 +21,6 @@ Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Lu
 Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
 
-- **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation.**\
-Wei Fan, Weijia Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Hao Liu.\
-*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2310.17922.pdf), [[code]](https://github.com/AlexFanw/CoCHPL)
-
 - **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population.**\
 Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2304.10392.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
@@ -44,6 +40,10 @@ In *Energy and AI*, 2024. [[pdf]](https://doi.org/10.1016/j.egyai.2024.100338), 
 In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
 ## Conference Proceedings
+- **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation.**\
+Wei Fan, Weijia Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Hao Liu.\
+In *Proceedings of Database Systems for Advanced Applications - 29th International Conference (DASFAA-2024)*, 2024. [[pdf]](https://arxiv.org/pdf/2310.17922.pdf), [[code]](https://github.com/AlexFanw/CoCHPL)
+
 - **AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph.**\
 Zhaowei Wang, Haochen Shi, <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Hongming Zhang, Sehyun Choi, Xin Liu, Yangqiu Song.\
 In *Findings of the Association for Computational Linguistics: NAACL 2024 (Findings of NAACL-2024)* [[pdf]](https://arxiv.org/pdf/2311.09174.pdf), [[code]](https://github.com/HKUST-KnowComp/AbsPyramid)

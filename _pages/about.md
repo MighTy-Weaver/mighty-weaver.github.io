@@ -23,7 +23,7 @@ Reasoning and Application)** to pursue publications. Looking for individuals who
 strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please
 email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
 
-This webpage is last updated on **2024/2/28**.
+This webpage is last updated on **2024/3/15**.
 
 ## Research Interest
 
