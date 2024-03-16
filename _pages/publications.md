@@ -50,7 +50,7 @@ In *Findings of the Association for Computational Linguistics: NAACL 2024 (Findi
 
 - **Exploring the Potential of ChatGPT on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations.**\
 Chunkit Chan, Jiayang Cheng, <span style="color:darkblue">**Weiqi Wang**</span>, Yuxin Jiang, Tianqing Fang, Xin Liu, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: EACL 2024 (Findings of EACL-2024)*. [[pdf]](https://arxiv.org/pdf/2304.14827.pdf), [[code]](https://github.com/HKUST-KnowComp/ChatGPT-Inter-Sentential-Relations)
+In *Findings of the Association for Computational Linguistics: EACL 2024 (Findings of EACL-2024)*. [[pdf]](https://aclanthology.org/2024.findings-eacl.47.pdf), [[code]](https://github.com/HKUST-KnowComp/ChatGPT-Inter-Sentential-Relations)
 
 - **🚗CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.\
@@ -70,7 +70,7 @@ In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language 
 
 - **Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints.**\
 Jiaxin Bai, Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Chen Luo, Yangqiu Song.\
-In *Advances in Neural Information Processing Systems 2023 (NeurIPS-2023)*. [[pdf]](https://arxiv.org/pdf/2305.19068.pdf), [[code]](https://github.com/HKUST-KnowComp/CEQA)
+In *Advances in Neural Information Processing Systems 2023 (NeurIPS-2023)*. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/6174c67b136621f3f2e4a6b1d3286f6b-Paper-Conference.pdf), [[code]](https://github.com/HKUST-KnowComp/CEQA)
 
 - **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.\
