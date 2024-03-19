@@ -94,6 +94,10 @@ In *Proceedings of the Web Conference 2021 (WWW-2021)*. [[pdf]](https://dl.acm.o
 
 ## Workshop Proceedings
 
+- **KnowComp at SemEval-2024 Task 9: Conceptualization-Augmented Prompting with Large Language Models for Lateral Reasoning.**\
+<span style="color:darkblue">**Weiqi Wang**</span>, Baixuan Xu, Haochen Shi, Jiaxin Bai, Qi Hu, Yangqiu Song.\
+In *Proceedings of The 18th International Workshop on Semantic Evaluation (SemEval-2024)*.
+
 - **KnowComp at SemEval-2023 Task 7: Fine-tuning Pre-trained Language Models for Clinical Trial Entailment Identification.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu\*, Tianqing Fang, Lirong Zhang, Yangqiu Song.\
 In *Proceedings of The 17th International Workshop on Semantic Evaluation (SemEval-2023)*. [[pdf]](https://aclanthology.org/2023.semeval-1.1.pdf), [[code]](https://github.com/HKUST-KnowComp/NLI4CT)
