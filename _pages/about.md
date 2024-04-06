@@ -19,19 +19,18 @@ the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-sch
 
 <small>I'm [<span style="color:darkblue">**actively looking for undergraduate students**</span>](https://urop.hkust.edu.hk/projects/reasoning-large-foundation-models) who are interested in collaborating
 with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multi-modality (Large Vision-Language Model's
-Reasoning and Application)** to pursue publications. Looking for individuals who are self-motivated, academically
-strong, and possess excellent coding abilities. If you meet these criteria and are interested in working with me, please
-email me with your CV and unofficial transcript. You can find my email address on the left-hand side.</small>
+Reasoning and Application)** to pursue publications. Looking for individuals who are **self-motivated, academically**
+**strong, and possess excellent coding abilities**. If you meet these criteria and are interested in working with me, please
+apply by emailing me with your CV and unofficial transcript.</small>
 
-This webpage is last updated on **2024/3/29**.
+This webpage is last updated on **2024/4/6**.
 
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing. In the era of Large Foundation Models, I'm
 actively researching in:
 
-- Large Langauge Model Reasoning via
-  *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf))
+- Large Langauge Model Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf))
 - Multimodal *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf)) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
 
 ## Education
@@ -53,8 +52,8 @@ actively researching in:
 
 ## Academic Service
 
-* Area Chair: ACL (2024)
-* Conference Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL(2024), EMNLP (2022, 2023), ACL (2023),
+* Area Chair: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024)
+* Conference Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023),
   SemEval (2023, 2024), KDD (2023, 2024)
 * Conference Volunteer: IJCAI-2023
 
@@ -68,12 +67,11 @@ actively researching in:
 ## Teaching
 
 * COMP4332 Big Data Mining and Management Teaching Assistant (Spring 2023)
-* CSE Department Teaching Assistant Coordinator (Fall 2023, Spring 2024)
-* CSE Department Teaching Assistant Coordinator (Fall 2024, Spring 2025)
+* CSE Department Teaching Assistant Coordinator (Fall 2023, Spring 2024, Fall 2024, Spring 2025)
 
 ## Contact me!
 
-You can reach me at `mightyweaver829 [at] gmail [dot] com`, this email will be active all the time.
+You can reach me at `mightyweaver829 [at] gmail [dot] com`.
 
 ## Sitemap
 
