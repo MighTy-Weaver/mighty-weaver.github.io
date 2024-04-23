@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 - **NegotiationToM: A Benchmark for Stress-testing Machine Theory of Mind on Negotiation Surrounding.**\
-Chunkit Chan, Cheng Jiayang, Yauwai Yim, Zheye Deng, Wei Fan, Haoran Li, Xin Liu, Hongming Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
+Chunkit Chan, Jiayang Cheng, Yauwai Yim, Zheye Deng, Wei Fan, Haoran Li, Xin Liu, Hongming Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2404.13627.pdf)
 
 - **Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction.**\
