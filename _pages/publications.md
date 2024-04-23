@@ -98,7 +98,7 @@ In *Proceedings of the Web Conference 2021 (WWW-2021)*. [[pdf]](https://dl.acm.o
 ## Workshop Proceedings
 - **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion.**\
 Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
-In *Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024)*. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
+In *Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (\*SEM 2024)*. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
 
 - **KnowComp at SemEval-2024 Task 9: Conceptualization-Augmented Prompting with Large Language Models for Lateral Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Baixuan Xu, Haochen Shi, Jiaxin Bai, Qi Hu, Yangqiu Song.\
