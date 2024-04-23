@@ -20,10 +20,9 @@ the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-sch
 <small>I'm [<span style="color:darkblue">**actively looking for undergraduate students**</span>](https://urop.hkust.edu.hk/projects/reasoning-large-foundation-models) who are interested in collaborating
 with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multi-modality (Large Vision-Language Model's
 Reasoning and Application)** to pursue publications. Looking for individuals who are **self-motivated, academically**
-**strong, and possess excellent coding abilities**. If you meet these criteria and are interested in working with me, please
-apply by emailing me with your CV and unofficial transcript.</small>
+**strong, and possess excellent coding abilities**. Due to limited bandwidth, please first apply by emailing me with your CV and unofficial transcript.</small>
 
-This webpage is last updated on **2024/4/6**.
+This webpage is last updated on **2024/4/23**.
 
 ## Research Interest
 

@@ -9,6 +9,10 @@ author_profile: true
 
 ## Preprints
 
+- **Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction.**\
+Zheye Deng, Chunkit Chan, <span style="color:darkblue">**Weiqi Wang**</span>, Yuxi Sun, Wei Fan, Tianshi Zheng, Yauwai Yim, Yangqiu Song.\
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2404.14215.pdf), [[code]](https://github.com/HKUST-KnowComp/LiveSum-TTT)
+
 - **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [[code]](https://github.com/HKUST-KnowComp/CANDLE)
@@ -16,10 +20,6 @@ author_profile: true
 - **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
 Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.18169.pdf), [[code]](https://github.com/zzq2000/MIKO)
-
-- **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion.**\
-Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
 
 - **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population.**\
 Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
@@ -93,6 +93,9 @@ Tianqing Fang, Hongming Zhang, <span style="color:darkblue">**Weiqi Wang**</span
 In *Proceedings of the Web Conference 2021 (WWW-2021)*. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450117), [[code]](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
 ## Workshop Proceedings
+- **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion.**\
+Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
+In *Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (*SEM 2024)*. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
 
 - **KnowComp at SemEval-2024 Task 9: Conceptualization-Augmented Prompting with Large Language Models for Lateral Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Baixuan Xu, Haochen Shi, Jiaxin Bai, Qi Hu, Yangqiu Song.\
