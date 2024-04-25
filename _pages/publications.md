@@ -32,6 +32,10 @@ Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, <span style="color:darkblue">**Weiq
 Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2022. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
+- **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion.**\
+Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
+*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
+
 ## Journals
 
 - **Deep Learning Analysis of Smart Meter Data from a Small Sample of Room Air Conditioners Facilitates Routine Assessment of their Operational Efficiency.**\
@@ -96,10 +100,6 @@ Tianqing Fang, Hongming Zhang, <span style="color:darkblue">**Weiqi Wang**</span
 In *Proceedings of the Web Conference 2021 (WWW-2021)*. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450117), [[code]](https://github.com/HKUST-KnowComp/DISCOS-commonsense)
 
 ## Workshop Proceedings
-- **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion.**\
-Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
-In *Proceedings of the 13th Joint Conference on Lexical and Computational Semantics (\*SEM 2024)*. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
-
 - **KnowComp at SemEval-2024 Task 9: Conceptualization-Augmented Prompting with Large Language Models for Lateral Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Baixuan Xu, Haochen Shi, Jiaxin Bai, Qi Hu, Yangqiu Song.\
 In *Proceedings of The 18th International Workshop on Semantic Evaluation (SemEval-2024)*.
