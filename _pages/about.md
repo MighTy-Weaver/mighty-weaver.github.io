@@ -29,8 +29,8 @@ This webpage is last updated on **2024/4/25**.
 I'm mainly interested in the research of Natural Language Processing. In the era of Large Foundation Models, I'm
 actively researching in:
 
-- Large Langauge Model Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf))
-- Multimodal *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf)) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
+- Towards more Robust and Generalizable Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf)) and *Metaphysics* (🪐)
+- Multimodal *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), IntentionQA, MIND) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
 
 ## Education
 
