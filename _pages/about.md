@@ -22,7 +22,7 @@ with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multi-m
 Reasoning and Application)** to pursue publications. Looking for individuals who are **self-motivated, academically**
 **strong, and possess excellent coding abilities**. Due to limited bandwidth, please first apply by emailing me with your CV and unofficial transcript.</small>
 
-This webpage is last updated on **2024/4/25**.
+This webpage is last updated on **2024/5/11**.
 
 ## Research Interest
 
@@ -45,7 +45,7 @@ actively researching in:
 
 ## Internship
 
-**Amazon Search Mission and Query Understanding, Amazon Inc, Palo Alto, CA, USA**
+**Amazon Search Mission and Query Understanding, Amazon Inc., Palo Alto, CA, USA**
 
 - Applied Scientist Intern, *Jun. 2024 -- Sep. 2024*
 
