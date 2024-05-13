@@ -22,15 +22,15 @@ with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multi-m
 Reasoning and Application)** to pursue publications. Looking for individuals who are **self-motivated, academically**
 **strong, and possess excellent coding abilities**. Due to limited bandwidth, please first apply by emailing me with your CV and unofficial transcript.</small>
 
-This webpage is last updated on **2024/4/25**.
+This webpage is last updated on **2024/5/11**.
 
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing. In the era of Large Foundation Models, I'm
 actively researching in:
 
-- Large Langauge Model Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf))
-- Multimodal *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf)) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
+- Towards more Robust and Generalizable Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf)) and *Metaphysics* (🪐)
+- Multimodal *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), IntentionQA, MIND) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
 
 ## Education
 
@@ -45,7 +45,7 @@ actively researching in:
 
 ## Internship
 
-**Amazon Search Mission and Query Understanding, Amazon Inc, Palo Alto, CA, USA**
+**Amazon Search Mission and Query Understanding, Amazon Inc., Palo Alto, CA, USA**
 
 - Applied Scientist Intern, *Jun. 2024 -- Sep. 2024*
 
