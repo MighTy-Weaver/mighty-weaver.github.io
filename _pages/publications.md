@@ -28,15 +28,15 @@ Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Lu
 Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2304.10392.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
 
-- **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.**\
-Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-*Arxiv Preprint*, 2022. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
-
 - **EntailE: Introducing Textual Entailment in Commonsense Knowledge Graph Completion.**\
 Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Tong Zhang, Lei Chen.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
 
 ## Journals
+
+- **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.**\
+Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
+*Artificial Intelligence*, 2024. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
 - **Deep Learning Analysis of Smart Meter Data from a Small Sample of Room Air Conditioners Facilitates Routine Assessment of their Operational Efficiency.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Sybil Derrible, Yangqiu Song, Zhongming Lu.\
