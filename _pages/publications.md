@@ -8,6 +8,10 @@ author_profile: true
 *Remark: \* indicates equal contribution.*
 
 ## Preprints
+- **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
+Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2405.07497)
+
 - **NegotiationToM: A Benchmark for Stress-testing Machine Theory of Mind on Negotiation Surrounding.**\
 Chunkit Chan, Jiayang Cheng, Yauwai Yim, Zheye Deng, Wei Fan, Haoran Li, Xin Liu, Hongming Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2404.13627.pdf)
