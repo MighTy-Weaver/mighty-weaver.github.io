@@ -8,6 +8,10 @@ author_profile: true
 *Remark: \* indicates equal contribution.*
 
 ## Preprints
+- **🪐MARS: Benchmarking Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
+<span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
+*Coming soon*, 2024.
+
 - **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
 Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2405.07497)
@@ -19,10 +23,6 @@ Chunkit Chan, Jiayang Cheng, Yauwai Yim, Zheye Deng, Wei Fan, Haoran Li, Xin Liu
 - **Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction.**\
 Zheye Deng, Chunkit Chan, <span style="color:darkblue">**Weiqi Wang**</span>, Yuxi Sun, Wei Fan, Tianshi Zheng, Yauwai Yim, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2404.14215.pdf), [[code]](https://github.com/HKUST-KnowComp/LiveSum-TTT)
-
-- **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
-<span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [[code]](https://github.com/HKUST-KnowComp/CANDLE)
 
 - **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
 Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
@@ -37,7 +37,6 @@ Ying Su, Tianqing Fang, Huiru Xiao, <span style="color:darkblue">**Weiqi Wang**<
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2402.09666.pdf)
 
 ## Journals
-
 - **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.**\
 Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Artificial Intelligence*, 2024. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
@@ -51,6 +50,10 @@ In *Energy and AI*, 2024. [[pdf]](https://doi.org/10.1016/j.egyai.2024.100338), 
 In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
 ## Conference Proceedings
+- **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
+<span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
+In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024)*. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [[code]](https://github.com/HKUST-KnowComp/CANDLE)
+
 - **Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation.**\
 Wei Fan, Weijia Zhang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song, Hao Liu.\
 In *Proceedings of Database Systems for Advanced Applications - 29th International Conference (DASFAA-2024)*. [[pdf]](https://arxiv.org/pdf/2310.17922.pdf), [[code]](https://github.com/AlexFanw/CoCHPL)
