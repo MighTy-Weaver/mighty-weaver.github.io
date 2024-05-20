@@ -22,7 +22,7 @@ with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multi-m
 Reasoning and Application)** to pursue publications. Looking for individuals who are **self-motivated, academically**
 **strong, and possess excellent coding abilities**. Due to limited bandwidth, please first apply by emailing me with your CV and unofficial transcript.</small>
 
-This webpage is last updated on **2024/5/16**.
+This webpage is last updated on **2024/5/21**.
 
 ## Research Interest
 
