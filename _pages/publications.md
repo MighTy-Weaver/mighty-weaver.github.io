@@ -22,10 +22,6 @@ Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu
 Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.18169.pdf), [[code]](https://github.com/zzq2000/MIKO)
 
-- **CKBP v2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population.**\
-Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/pdf/2304.10392.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
-
 ## Journals
 - **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.**\
 Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
