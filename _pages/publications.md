@@ -29,7 +29,7 @@ Tianqing Fang\*, Quyet V. Do\*, Sehyun Choi, <span style="color:darkblue">**Weiq
 ## Journals
 - **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.**\
 Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-*Artificial Intelligence*, 2024. [[pdf]](https://arxiv.org/pdf/2206.01532.pdf), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
+*Artificial Intelligence*, 2024. [[pdf]](https://doi.org/10.1016/j.artint.2024.104149), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
 - **Deep Learning Analysis of Smart Meter Data from a Small Sample of Room Air Conditioners Facilitates Routine Assessment of their Operational Efficiency.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Sybil Derrible, Yangqiu Song, Zhongming Lu.\
