@@ -17,12 +17,15 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-<small>I'm [<span style="color:darkblue">**actively looking for undergraduate students**</span>](https://urop.hkust.edu.hk/projects/reasoning-large-foundation-models) who are interested in collaborating
-with me in the field of **NLP (Knowledge-enhanced LLM for Reasoning) and Multi-modality (Large Vision-Language Model's
-Reasoning and Application)** to pursue publications. Looking for individuals who are **self-motivated, academically**
-**strong, and possess excellent coding abilities**. Due to limited bandwidth, please first apply by emailing me with your CV and unofficial transcript.</small>
+[//]: # (<small>I'm [<span style="color:darkblue">**actively looking for undergraduate students**</span>]&#40;https://urop.hkust.edu.hk/projects/reasoning-large-foundation-models&#41; who are interested in collaborating)
 
-This webpage is last updated on **2024/5/16**.
+[//]: # (with me in the field of **NLP &#40;Knowledge-enhanced LLM for Reasoning&#41; and Multi-modality &#40;Large Vision-Language Model's)
+
+[//]: # (Reasoning and Application&#41;** to pursue publications. Looking for individuals who are **self-motivated, academically**)
+
+[//]: # (**strong, and possess excellent coding abilities**. Due to limited bandwidth, please first apply by emailing me with your CV and unofficial transcript.</small>)
+
+This webpage is last updated on **2024/5/25**.
 
 ## Research Interest
 
@@ -51,7 +54,7 @@ actively researching in:
 
 ## Academic Service
 
-* Area Chair: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024)
+* **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024)
 * Conference Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023),
   SemEval (2023, 2024), KDD (2023, 2024)
 * Conference Volunteer: IJCAI-2023
