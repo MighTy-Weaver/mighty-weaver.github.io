@@ -10,7 +10,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 *Remark: \* indicates equal contribution.*
 
 ## Preprints
-- **🪐MARS: Benchmarking Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
+- **🪐MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Coming soon*, 2024. [pdf], [[code]](https://github.com/HKUST-KnowComp/MARS)
 
