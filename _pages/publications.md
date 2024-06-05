@@ -12,7 +12,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 ## Preprints
 - **🪐MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-*Coming soon*, 2024. [pdf], [[code]](https://github.com/HKUST-KnowComp/MARS)
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.02106), [[code]](https://github.com/HKUST-KnowComp/MARS)
 
 - **IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Large Language Models in E-commerce.**\
 Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng Douglas Kwok, Minghao Liu, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Bing Yin, Junxian He, Yangqiu Song.\
