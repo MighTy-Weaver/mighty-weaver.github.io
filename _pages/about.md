@@ -17,14 +17,6 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-[//]: # (<small>I'm [<span style="color:darkblue">**actively looking for undergraduate students**</span>]&#40;https://urop.hkust.edu.hk/projects/reasoning-large-foundation-models&#41; who are interested in collaborating)
-
-[//]: # (with me in the field of **NLP &#40;Knowledge-enhanced LLM for Reasoning&#41; and Multi-modality &#40;Large Vision-Language Model's)
-
-[//]: # (Reasoning and Application&#41;** to pursue publications. Looking for individuals who are **self-motivated, academically**)
-
-[//]: # (**strong, and possess excellent coding abilities**. Due to limited bandwidth, please first apply by emailing me with your CV and unofficial transcript.</small>)
-
 This webpage is last updated on **2024/6/5**.
 
 ## Research Interest
