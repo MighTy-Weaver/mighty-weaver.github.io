@@ -24,7 +24,7 @@ Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng D
 
 - **MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding.**\
 Baixuan Xu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Wenxuan Ding, Huihao Jing, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Bing Yin, Long Chen, Yangqiu Song.\
-*Coming soon*, 2024. [pdf], [[code]](https://github.com/HKUST-KnowComp/MIND)
+*Coming soon*, 2024. [pdf], [[code]](https://github.com/HKUST-KnowComp/MIND_Distillation)
 
 - **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
 Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
