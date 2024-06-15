@@ -18,15 +18,15 @@ and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 Currently, I'm in the San Francisco Bay Area for my internship at Amazon.com.
 
-This webpage is last updated on **2024/6/13**.
+This webpage is last updated on **2024/6/15**.
 
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing. In the era of Large Foundation Models, I'm
 actively researching in:
 
-- Towards more Robust and Generalizable Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf)) and *Metaphysics* ([🪐](https://arxiv.org/pdf/2406.02106))
-- Multimodal *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), IntentionQA, MIND) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
+- Towards Robust and Generalizable Reasoning via *Conceptualization* ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf)) and *Metaphysics* ([🪐](https://arxiv.org/pdf/2406.02106))
+- *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), IntentionQA, MIND) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
 
 ## Education
 
@@ -48,8 +48,7 @@ actively researching in:
 ## Academic Service
 
 * **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024)
-* Conference Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023),
-  SemEval (2023, 2024), KDD (2023, 2024)
+* Conference Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023), KDD (2023, 2024), NeurIPS (2024), NeurIPS-DB (2024)
 * Conference Volunteer: IJCAI-2023
 
 ## Awards

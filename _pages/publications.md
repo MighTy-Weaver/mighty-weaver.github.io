@@ -14,18 +14,16 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.02106), [[code]](https://github.com/HKUST-KnowComp/MARS)
 
-[//]: # (- **Exploring Entity and Event-Level Abstraction for Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\)
+- **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\
+<span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Yangqiu Song.\
+*Coming soon*, 2024. [pdf]
 
-[//]: # (<span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wei Fan, Jiaxin Bai, Haoran Li, Yangqiu Song.\)
-
-[//]: # (*Coming soon*, 2024. [pdf])
-
-- **IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Large Language Models in E-commerce.**\
-Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng Douglas Kwok, Minghao Liu, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Bing Yin, Junxian He, Yangqiu Song.\
+- **IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce.**\
+Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng Douglas Kwok, Minghao Liu, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Junxian He, Yangqiu Song.\
 *Coming soon*, 2024. [pdf], [[code]](https://github.com/HKUST-KnowComp/IntentionQA)
 
 - **MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding.**\
-Baixuan Xu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Wenxuan Ding, Huihao Jing, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Bing Yin, Long Chen, Yangqiu Song.\
+Baixuan Xu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Wenxuan Ding, Huihao Jing, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Long Chen, Yangqiu Song.\
 *Coming soon*, 2024. [pdf], [[code]](https://github.com/HKUST-KnowComp/MIND_Distillation)
 
 - **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
