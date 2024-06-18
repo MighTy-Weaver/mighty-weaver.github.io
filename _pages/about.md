@@ -26,7 +26,7 @@ I'm mainly interested in the research of Natural Language Processing. In the era
 actively researching in:
 
 - Towards Robust and Generalizable Reasoning via [*Conceptualization*](https://arxiv.org/pdf/2406.10885) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://arxiv.org/pdf/2401.07286.pdf)) and *Metaphysics* ([🪐](https://arxiv.org/pdf/2406.02106))
-- *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), MIND, 📅) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
+- *Intentional Commonsense Knowledge* Discovery with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), 📅) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
 
 ## Education
 
