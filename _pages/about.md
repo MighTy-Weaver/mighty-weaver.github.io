@@ -18,7 +18,7 @@ and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 Currently, I'm in the San Francisco Bay Area for my internship at Amazon.com.
 
-This webpage is last updated on **2024/6/16**.
+This webpage is last updated on **2024/6/17**.
 
 ## Research Interest
 
