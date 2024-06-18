@@ -16,7 +16,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 
 - **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
-*Coming soon*, 2024. [pdf]
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.10885)
 
 - **IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce.**\
 Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng Douglas Kwok, Minghao Liu, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Junxian He, Yangqiu Song.\
