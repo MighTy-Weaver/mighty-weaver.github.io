@@ -18,7 +18,7 @@ and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 Currently, I'm in the San Francisco Bay Area for my internship at Amazon.com.
 
-This webpage is last updated on **2024/6/26**.
+This webpage is last updated on **2024/6/27**.
 
 ## Research Interest
 
@@ -64,7 +64,5 @@ actively working on:
 ## Contact me!
 
 You can reach me at `mightyweaver829 [at] gmail [dot] com`.
-
-## Sitemap
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=tt&d=DE2rC1_XQk9C3olzhHZGibG_eT8m4xfWcetZ15Zm4mQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
