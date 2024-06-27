@@ -8,6 +8,11 @@ redirect_from:
 
 I use this webpage to keep track of some non-academic experiences/achievements.
 
+## Teaching
+
+* COMP4332 Big Data Mining and Management Teaching Assistant (Spring 2023)
+* CSE Department Teaching Assistant Coordinator (Fall 2023, Spring 2024, Fall 2024, Spring 2025)
+
 ### Campus Experience
 
 - I was the subcommittee member of [**MSSSUG**](http://ug.msss.ust.hk/) (Mainland Scholar and Students Society
@@ -24,11 +29,3 @@ I use this webpage to keep track of some non-academic experiences/achievements.
 - I am an avid fan of FPS games, such as CS-2, Call of Duty, and Battlefield. Additionally, I enjoy playing sports games such as NBA2K and FIFA, as well as mobile games such as Honor of Kings. My passion for gaming has led me to achieve notable accomplishments, including ranking in the top 50 of CrossFire Ranking China in 2018 and currently holding the rank of global elite player in CS:GO.
 
 ![Travis](https://steam-stat.vercel.app/api?profileName=mighty-weaver)
-
-### Buddies
-
-- I'm extremely thankful to [Jiefu](https://jefferyo.github.io/) and [Tianqing](https://tqfang.github.io/) for bringing me into the world of NLP. Check them out!
-
-### Personal Resume
-
-- My CV is available upon request. Drop me an email if you need it.

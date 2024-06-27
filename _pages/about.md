@@ -61,11 +61,6 @@ actively working on:
 * Dean's List for the School of Engineering (Fall 2018, Fall 2019, Fall 2020, Spring 2022)
 * University's Scholarship Scheme for Continuing Undergraduate Students (2019 - 2022)
 
-## Teaching
-
-* COMP4332 Big Data Mining and Management Teaching Assistant (Spring 2023)
-* CSE Department Teaching Assistant Coordinator (Fall 2023, Spring 2024, Fall 2024, Spring 2025)
-
 ## Contact me!
 
 You can reach me at `mightyweaver829 [at] gmail [dot] com`.
