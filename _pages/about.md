@@ -15,8 +15,7 @@ I'm a second year Ph.D. Student in [Computer Science and Engineering](https://cs
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) supervised
 by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science
 and Mathematics from the same institution in 2022, and I'm now funded by
-the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
-Currently, I'm in the San Francisco Bay Area for my internship at Amazon.com.
+the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award. Currently, I'm in the San Francisco Bay Area for my internship at Amazon.com.
 
 This webpage is last updated on **2024/6/27**.
 
