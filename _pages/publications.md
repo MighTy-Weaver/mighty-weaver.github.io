@@ -26,26 +26,18 @@ Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng D
 Baixuan Xu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Wenxuan Ding, Huihao Jing, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Long Chen, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.10701), [[code]](https://github.com/HKUST-KnowComp/MIND_Distillation)
 
-- **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
-Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2405.07497)
-
 - **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
 Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.18169.pdf), [[code]](https://github.com/zzq2000/MIKO)
+
+- **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
+Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2405.07497)
 
 ## Journals
 - **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.**\
 Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Artificial Intelligence*, 2024. [[pdf]](https://doi.org/10.1016/j.artint.2024.104149), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
-
-- **Deep Learning Analysis of Smart Meter Data from a Small Sample of Room Air Conditioners Facilitates Routine Assessment of their Operational Efficiency.**\
-<span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Sybil Derrible, Yangqiu Song, Zhongming Lu.\
-In *Energy and AI*, 2024. [[pdf]](https://doi.org/10.1016/j.egyai.2024.100338), [[code]](https://github.com/MighTy-Weaver/SMD4RAC_Detection)
-
-- **Data-driven Assessment of Room Air Conditioner Efficiency for Saving Energy.**\
-<span style="color:darkblue">**Weiqi Wang**</span>\*, Zixuan Zhou\*, Zhongming Lu.\
-In *Journal of Cleaner Production*, 2022. [[pdf]](https://doi.org/10.1016/j.jclepro.2022.130615), [[code]](https://github.com/MighTy-Weaver/Inefficient-AC-detection)
 
 ## Conference Proceedings
 - **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
@@ -64,6 +56,10 @@ In *Proceedings of the 61st Annual Meeting of the Association for Computational 
 Haochen Shi\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song.\
 In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://aclanthology.org/2023.findings-emnlp.1023.pdf), [[code]](https://github.com/HKUST-KnowComp/QaDynamics)
 
+- **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset.**\
+Tianqing Fang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He.\
+In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP-2021)*. [[pdf]](https://aclanthology.org/2021.emnlp-main.705.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
+
 - **Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection.**\
 Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Xin Liu, Yangqiu Song.\
 In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://aclanthology.org/2023.findings-emnlp.232.pdf), [[code]](https://github.com/HKUST-KnowComp/GOLD)
@@ -71,7 +67,3 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 - **FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery.**\
 Changlong Yu, <span style="color:darkblue">**Weiqi Wang**</span>, Xin Liu, Jiaxin Bai, Yangqiu Song, Zheng Li, Yifan Gao, Tianyu Cao, Bing Yin.\
 In *Findings of the Association for Computational Linguistics: ACL 2023 (Findings of ACL-2023)*. [[pdf]](https://aclanthology.org/2023.findings-acl.76.pdf), [[code]](https://github.com/HKUST-KnowComp/FolkScope)
-
-- **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset.**\
-Tianqing Fang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He.\
-In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP-2021)*. [[pdf]](https://aclanthology.org/2021.emnlp-main.705.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)

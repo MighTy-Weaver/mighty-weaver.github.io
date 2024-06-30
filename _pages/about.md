@@ -17,7 +17,7 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award. Currently, I'm in the San Francisco Bay Area for my internship at Amazon.com.
 
-This webpage is last updated on **2024/6/27**.
+This webpage is last updated on **2024/6/29**.
 
 ## Research Interest
 
@@ -36,10 +36,6 @@ actively working on:
 
 - Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Jul. 2026 (Expected)*
 - Bachelor of Science in Computer Science and Mathematics,  *Sep. 2018 -- Jun. 2022*, *First Class Honors*
-
-**Beijing No.8 Middle School [(BJBZ)](http://www.no8ms.bj.cn/)**
-
-- High School Diploma in Science, *Sep. 2015 -- Jun. 2018*
 
 ## Internship
 
