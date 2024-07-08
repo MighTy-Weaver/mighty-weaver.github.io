@@ -17,7 +17,7 @@ by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bach
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award. Currently, I'm in the San Francisco Bay Area for my internship at Amazon.com.
 
-This webpage is last updated on **2024/6/29**.
+This webpage is last updated on **2024/7/8**.
 
 ## Research Interest
 
@@ -46,11 +46,12 @@ actively working on:
 ## Academic Service
 
 * **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024)
-* Conference Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023), KDD (2023, 2024), NeurIPS (2024), NeurIPS-DB (2024)
+* Conference Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023), KDD (2023, 2024, 2025), NeurIPS (2024), NeurIPS-DB (2024)
 * Conference Volunteer: IJCAI-2023
 
 ## Awards
 
+* HKUST RedBird Academic Excellence Award for Continuing PhD Students (2023 - 2024)
 * Hong Kong PhD Fellowship (2022 - 2026)
 * HKUST RedBird PhD Scholarship (2022)
 * Dean's List for the School of Engineering (Fall 2018, Fall 2019, Fall 2020, Spring 2022)
