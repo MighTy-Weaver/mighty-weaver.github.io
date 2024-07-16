@@ -26,10 +26,6 @@ Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng D
 Baixuan Xu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Wenxuan Ding, Huihao Jing, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Long Chen, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.10701), [[code]](https://github.com/HKUST-KnowComp/MIND_Distillation)
 
-- **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
-Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2402.18169.pdf), [[code]](https://github.com/zzq2000/MIKO)
-
 - **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
 Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2405.07497)
@@ -51,6 +47,10 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 - **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.\
 In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, <span style="color:red">**Oral**</span>)*. [[pdf]](https://aclanthology.org/2023.acl-long.733.pdf), [[code]](https://github.com/HKUST-KnowComp/CAT)
+
+- **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
+Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
+In *Proceedings of the 32nd ACM International Conference on Multimedia (ACMMM-2024)*. [[pdf]](https://arxiv.org/pdf/2402.18169.pdf), [[code]](https://github.com/zzq2000/MIKO)
 
 - **QaDynamics: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering.**\
 Haochen Shi\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song.\
