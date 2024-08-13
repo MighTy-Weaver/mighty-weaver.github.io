@@ -38,7 +38,7 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 ## Conference Proceedings
 - **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
-In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024)*. [[pdf]](https://arxiv.org/pdf/2401.07286.pdf), [[code]](https://github.com/HKUST-KnowComp/CANDLE)
+In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024)*. [[pdf]](https://aclanthology.org/2024.acl-long.128.pdf), [[code]](https://github.com/HKUST-KnowComp/CANDLE)
 
 - **🚗CAR: Conceptualization-Augmented Reasoner for Zero-Shot Commonsense Question Answering.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Wenxuan Ding, Baixuan Xu, Xin Liu, Yangqiu Song, Antoine Bosselut.\
