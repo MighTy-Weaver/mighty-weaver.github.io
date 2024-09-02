@@ -10,6 +10,9 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 *Remark: \* indicates equal contribution.*
 
 ## Preprints
+- **EcomPlanning: Unifying E-commerce and Planning via Step-wise Intention-Driven Product Recommendations.**\
+*Coming soon*, 2024.
+
 - **🪐MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.02106), [[code]](https://github.com/HKUST-KnowComp/MARS)

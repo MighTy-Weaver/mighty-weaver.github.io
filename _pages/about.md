@@ -11,13 +11,13 @@ redirect_from:
 ## About me
 
 Hi there! Welcome to my personal homepage.
-I'm a second year Ph.D. Student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at
+I'm a third year Ph.D. Student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at
 the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) supervised
 by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science
 and Mathematics from the same institution in 2022, and I'm now funded by
 the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award. Currently, I'm in the San Francisco Bay Area for my internship at Amazon.com.
 
-This webpage is last updated on **2024/8/12**.
+This webpage is last updated on **2024/9/1**.
 
 ## Research Interest
 
@@ -44,8 +44,8 @@ I'm mainly interested in the research of Natural Language Processing. In the era
 
 ## Academic Service
 
-* **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024)
-* Conference Reviewer: ACL Rolling Review (2022 - Now), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023), KDD (2023, 2024, 2025), NeurIPS (2024), NeurIPS-DB (2024)
+* **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024), NAACL (2025)
+* Conference Reviewer: ACL Rolling Review (2022 - 2023), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023), KDD (2023, 2024, 2025), NeurIPS (2024), NeurIPS-DB (2024), ICLR (2025)
 * Conference Volunteer: IJCAI-2023
 
 ## Awards
