@@ -10,25 +10,29 @@ redirect_from:
 
 ## About me
 
-Hi there! Welcome to my personal homepage.
-I'm a third year Ph.D. Student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at
-the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) supervised
-by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science
-and Mathematics from the same institution in 2022, and I'm now funded by
-the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award. Currently, I'm in the San Francisco Bay Area for my internship at Amazon.com.
+Hi there! Welcome to my personal homepage. 
+I'm a third-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
+I am also an incoming Ph.D. student visitor at [Johns Hopkins University](https://www.jhu.edu/), where I will be supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). 
+Previously, I was an applied scientist intern at Amazon in Palo Alto, CA, USA during 2024 summer. 
+I received my bachelor's degree in Computer Science and Mathematics from the same institution in 2022, and I am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2024/9/1**.
+This webpage is last updated on **2024/9/20**.
 
 ## Research Interest
 
-I'm mainly interested in the research of Natural Language Processing. In the era of Large Language Models, I'm actively working on:
+I'm mainly interested in the research of Natural Language Processing. In the era of Large Language Models, I'm actively
+working on:
 
-- **Creative and Generalizable System II Reasoning** with LLMs via [*Conceptualization*](https://arxiv.org/pdf/2406.10885) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf)) and *Metaphysical Reasoning* ([🪐](https://arxiv.org/pdf/2406.02106))
-- **Human Behavior Understanding via Intention Modeling** with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), 📅) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
+- **Trustworthy Creativity and Generalizable System II Reasoning** with LLMs via [
+  *Conceptualization*](https://arxiv.org/pdf/2406.10885) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf))
+  and *Metaphysical Reasoning* ([🪐](https://arxiv.org/pdf/2406.02106))
+- **Human Behavior Understanding via Complex Intention Modeling** with Large Foundation Models in
+  E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), 📅) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
 
 ## Education
 
 **Johns Hopkins University [(JHU)](https://www.jhu.edu/)**
+
 - Visiting PhD Scholar at [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), *Nov. 2024 - Apr. 2025*
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
@@ -44,8 +48,9 @@ I'm mainly interested in the research of Natural Language Processing. In the era
 
 ## Academic Service
 
-* **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024), NAACL (2025)
-* Conference Reviewer: ACL Rolling Review (2022 - 2023), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023), KDD (2023, 2024, 2025), NeurIPS (2024), NeurIPS-DB (2024), ICLR (2025)
+* **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024), COLING (2025), NAACL (2025)
+* Conference Reviewer: ACL Rolling Review (2022 - 2023), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023),
+  KDD (2023, 2024, 2025), NeurIPS (2024), NeurIPS-DB (2024), ICLR (2025)
 * Conference Volunteer: IJCAI-2023
 
 ## Awards

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Selected Representative Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,6 +10,9 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 *Remark: \* indicates equal contribution.*
 
 ## Preprints
+- **EcomScript: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
+*Coming Soon*.
+
 - **🪐MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.02106), [[code]](https://github.com/HKUST-KnowComp/MARS)
@@ -17,14 +20,6 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 - **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.10885)
-
-- **IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce.**\
-Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng Douglas Kwok, Minghao Liu, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Junxian He, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.10173), [[code]](https://github.com/HKUST-KnowComp/IntentionQA)
-
-- **MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding.**\
-Baixuan Xu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Wenxuan Ding, Huihao Jing, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Long Chen, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.10701), [[code]](https://github.com/HKUST-KnowComp/MIND_Distillation)
 
 - **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
 Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
@@ -47,6 +42,14 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 - **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.\
 In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, <span style="color:red">**Oral**</span>)*. [[pdf]](https://aclanthology.org/2023.acl-long.733.pdf), [[code]](https://github.com/HKUST-KnowComp/CAT)
+
+- **IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce.**\
+Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng Douglas Kwok, Minghao Liu, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Junxian He, Yangqiu Song.\
+In *Findings of the Association for Computational Linguistics: EMNLP 2024 (Findings of EMNLP-2024)*. [[pdf]](https://arxiv.org/pdf/2406.10173), [[code]](https://github.com/HKUST-KnowComp/IntentionQA)
+
+- **MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding.**\
+Baixuan Xu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Wenxuan Ding, Huihao Jing, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Long Chen, Yangqiu Song.\
+In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-2024)*. [[pdf]](https://arxiv.org/pdf/2406.10701), [[code]](https://github.com/HKUST-KnowComp/MIND_Distillation)
 
 - **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
 Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
