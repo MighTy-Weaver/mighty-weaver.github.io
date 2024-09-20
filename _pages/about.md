@@ -23,7 +23,7 @@ This webpage is last updated on **2024/9/20**.
 I'm mainly interested in the research of Natural Language Processing. In the era of Large Language Models, I'm actively
 working on:
 
-- **Trustworthy Creativity and Generalizable System II Reasoning** with LLMs via [
+- Unlocking **Trustworthy Creativity and Generalizable System II Reasoning** within LLMs via [
   *Conceptualization*](https://arxiv.org/pdf/2406.10885) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf))
   and *Metaphysical Reasoning* ([🪐](https://arxiv.org/pdf/2406.02106))
 - **Human Behavior Understanding via Complex Intention Modeling** with Large Foundation Models in
