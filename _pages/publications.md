@@ -12,7 +12,6 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 ## Preprints
 - **EcomScript: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\
-2024. [pdf], [code]
 
 - **🪐MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
