@@ -27,7 +27,7 @@ working on:
   *Conceptualization*](https://arxiv.org/pdf/2406.10885) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf))
   and *Metaphysical Reasoning* ([🪐](https://arxiv.org/pdf/2406.02106))
 - **Human Behavior Understanding via Complex Intention Modeling** with Large Foundation Models in
-  E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), 📅) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
+  E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701)) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
 
 ## Education
 

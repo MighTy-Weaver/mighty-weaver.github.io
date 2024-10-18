@@ -22,6 +22,10 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.10885)
 
+- **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
+Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
+*Under Review*, 2024. [pdf], [code]
+
 - **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
 Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2405.07497)
