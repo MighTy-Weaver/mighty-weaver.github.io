@@ -10,7 +10,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 *Remark: \* indicates equal contribution.*
 
 ## Preprints
-- **EcomScript: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
+- **EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\
 *Under Review*, 2024.
 
@@ -24,7 +24,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 
 - **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
 Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
-*Under Review*, 2024. [[pdf]](https://arxiv.org/pdf/2410.14276)
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2410.14276)
 
 - **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
 Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
