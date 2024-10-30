@@ -21,10 +21,10 @@ repository               : "MighTy-Weaver/mighty-weaver.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Avatar_small_2024_Oct.png"
+  avatar           : "Avatar_small_2024_Oct.png"
+  name             : "Weiqi Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Third Year PhD Student at HKUST focusing on NLP"
+  bio              : "Third Year PhD Student at HKUST; Visiting PhD Scholar at JHU"
   location         : "Baltimore, MD, USA"
   employer         : "Johns Hopkins University"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1617-9805"
   semantic         : "https://www.semanticscholar.org/author/1587728690"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Weiqi_Wang15"
   scopus           : # URL
 
