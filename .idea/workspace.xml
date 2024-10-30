@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d39abdca-5259-4909-9a34-9f75a287977c" name="Default Changelist" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +70,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/HKUST Files/PersonalWeb - 副本/_data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/HKUST Files/PersonalWeb - 副本/_pages&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -81,11 +82,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\HKUST Files\PersonalWeb - 副本\_pages" />
       <recent name="F:\HKUST Files\PersonalWeb - 副本\_data" />
       <recent name="F:\HKUST Files\PersonalWeb\images" />
       <recent name="F:\HKUST Files\PersonalWeb\files" />
       <recent name="F:\UG Files\PersonalWeb\files" />
-      <recent name="F:\UG Files\PersonalWeb" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\HKUST Files\PersonalWeb\files" />
@@ -639,7 +640,7 @@
       <workItem from="1729957755610" duration="69000" />
       <workItem from="1730001380620" duration="66000" />
       <workItem from="1730032768115" duration="83000" />
-      <workItem from="1730263507687" duration="441000" />
+      <workItem from="1730263507687" duration="1020000" />
     </task>
     <task id="LOCAL-00320" summary="update">
       <created>1678703137001</created>
@@ -984,7 +985,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687237141789</updated>
     </task>
-    <option name="localTasksCounter" value="500" />
+    <option name="localTasksCounter" value="503" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
