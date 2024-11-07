@@ -16,7 +16,7 @@ Currently, I am a visiting Ph.D. student at [Johns Hopkins University](https://w
 Previously, I was an applied scientist intern at Amazon in Palo Alto, CA, USA, working with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/). 
 I received my bachelor's degree in Computer Science and Mathematics from the same institution in 2022, and I am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2024/11/5**.
+This webpage is last updated on **2024/11/6**.
 
 ## Research Interest
 
@@ -37,7 +37,7 @@ working on:
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Jul. 2026 (Expected)*
+- Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Aug. 2026 (Expected)*
 - Bachelor of Science in Computer Science and Mathematics,  *Sep. 2018 -- Jun. 2022*, *First Class Honors*
 
 ## Internship
