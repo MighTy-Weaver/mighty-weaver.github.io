@@ -50,15 +50,15 @@ In *Proceedings of the 61st Annual Meeting of the Association for Computational 
 
 - **IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce.**\
 Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng Douglas Kwok, Minghao Liu, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Junxian He, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: EMNLP 2024 (Findings of EMNLP-2024)*. [[pdf]](https://arxiv.org/pdf/2406.10173), [[code]](https://github.com/HKUST-KnowComp/IntentionQA)
+In *Findings of the Association for Computational Linguistics: EMNLP 2024 (Findings of EMNLP-2024)*. [[pdf]](https://aclanthology.org/2024.findings-emnlp.123.pdf), [[code]](https://github.com/HKUST-KnowComp/IntentionQA)
 
 - **MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding.**\
 Baixuan Xu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Wenxuan Ding, Huihao Jing, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Long Chen, Yangqiu Song.\
-In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-2024)*. [[pdf]](https://arxiv.org/pdf/2406.10701), [[code]](https://github.com/HKUST-KnowComp/MIND_Distillation)
+In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-2024)*. [[pdf]](https://aclanthology.org/2024.emnlp-main.446.pdf), [[code]](https://github.com/HKUST-KnowComp/MIND_Distillation)
 
 - **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
 Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
-In *Proceedings of the 32nd ACM International Conference on Multimedia (ACMMM-2024)*. [[pdf]](https://arxiv.org/pdf/2402.18169.pdf), [[code]](https://github.com/zzq2000/MIKO)
+In *Proceedings of the 32nd ACM International Conference on Multimedia (ACMMM-2024)*. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681339), [[code]](https://github.com/zzq2000/MIKO)
 
 - **QaDynamics: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering.**\
 Haochen Shi\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song.\
