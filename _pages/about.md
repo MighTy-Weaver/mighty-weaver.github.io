@@ -14,9 +14,9 @@ Hi there! Welcome to my personal homepage.
 I'm a third-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
 Currently, I am a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), where I am supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). 
 Previously, I was an applied scientist intern at Amazon in Palo Alto, CA, USA, working with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/). 
-I received my bachelor's degree in Computer Science and Mathematics from the same institution in 2022, and I am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
+I received my bachelor's degree in Computer Science and Mathematics from HKUST in 2022, and I am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2024/11/15**.
+This webpage is last updated on **2024/11/17**.
 
 ## Research Interest
 
