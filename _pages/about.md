@@ -33,7 +33,7 @@ working on:
 
 **Johns Hopkins University [(JHU)](https://www.jhu.edu/)**
 
-- Visiting PhD Scholar at [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), *Nov. 2024 - Apr. 2025*
+- Visiting PhD Student at [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), *Nov. 2024 - Apr. 2025*
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
