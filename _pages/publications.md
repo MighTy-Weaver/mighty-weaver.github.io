@@ -12,7 +12,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 ## Preprints
 - **EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\
-*Under Review*, 2024.
+*Under Review*, 2024. [pdf]
 
 - **🪐MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
@@ -21,6 +21,10 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 - **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.10885)
+
+- **ConceptEdit: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning.**\
+Liyu Zhang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Yangqiu Song.\
+*Arxiv Preprint*, 2024. [pdf]
 
 - **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
 Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
@@ -58,7 +62,7 @@ In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language 
 
 - **MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery.**\
 Feihong Lu\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Yangyifei Luo, Ziqin Zhu, Qingyun Sun, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li.\
-In *Proceedings of the 32nd ACM International Conference on Multimedia (ACMMM-2024)*. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681339), [[code]](https://github.com/zzq2000/MIKO)
+In *Proceedings of the 32nd ACM International Conference on Multimedia (ACMMM-2024)*. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3664647.3681339), [[code]](https://github.com/RingBDStack/Miko)
 
 - **QaDynamics: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering.**\
 Haochen Shi\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Baixuan Xu, Wenxuan Ding, Xin Liu, Yangqiu Song.\
@@ -67,6 +71,10 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 - **Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset.**\
 Tianqing Fang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He.\
 In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP-2021)*. [[pdf]](https://aclanthology.org/2021.emnlp-main.705.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
+
+- **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory.**\
+Wei Fan, Haoran Li, Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
+In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-2024, <span style="color:red">**Outstanding Paper Award**</span>)*. [[pdf]](https://aclanthology.org/2024.emnlp-main.195.pdf), [[code]](https://github.com/HKUST-KnowComp/GoldCoin)
 
 - **Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection.**\
 Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Xin Liu, Yangqiu Song.\

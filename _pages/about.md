@@ -16,7 +16,7 @@ Currently, I am a visiting Ph.D. student at [Johns Hopkins University](https://w
 Previously, I was an applied scientist intern at Amazon in Palo Alto, CA, USA, working with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/). 
 I received my bachelor's degree in Computer Science and Mathematics from HKUST in 2022, and I am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2024/11/17**.
+This webpage is last updated on **2024/12/15**.
 
 ## Research Interest
 
@@ -27,7 +27,7 @@ working on:
   *Conceptualization*](https://arxiv.org/pdf/2406.10885) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf))
   and *Metaphysical Reasoning* ([🪐](https://arxiv.org/pdf/2406.02106))
 - **Human Behavior Understanding via Complex Intention Modeling** with Large Foundation Models in
-  E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701)) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
+  E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), EcomScriptBench) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
 
 ## Education
 
@@ -37,7 +37,7 @@ working on:
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Jul. 2026 (Expected)*
+- Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Aug. 2026 (Expected)*
 - Bachelor of Science in Computer Science and Mathematics,  *Sep. 2018 -- Jun. 2022*, *First Class Honors*
 
 ## Internship
@@ -50,7 +50,7 @@ working on:
 
 * **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024), COLING (2025), NAACL (2025)
 * Conference Reviewer: ACL Rolling Review (2022 - 2023), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023),
-  KDD (2023, 2024, 2025), NeurIPS (2024), NeurIPS-DB (2024), ICLR (2025)
+  KDD (2023, 2024, 2025, 2026), NeurIPS (2024), NeurIPS-DB (2024), ICLR (2025), ICML (2025)
 * Conference Volunteer: IJCAI-2023
 
 ## Awards
