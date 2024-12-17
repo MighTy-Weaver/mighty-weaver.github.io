@@ -24,7 +24,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 
 - **ConceptEdit: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning.**\
 Liyu Zhang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [pdf]
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2412.11418)
 
 - **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
 Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
