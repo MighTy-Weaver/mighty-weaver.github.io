@@ -28,6 +28,7 @@ working on:
   and *Metaphysical Reasoning* ([🪐](https://arxiv.org/pdf/2406.02106))
 - **Human Behavior Understanding via Complex Intention Modeling** with Large Foundation Models in
   E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), 📜) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
+- Scientific Tabular Generation and Summarization via Large Language Model
 
 ## Education
 
@@ -52,7 +53,7 @@ working on:
 
 ## Academic Service
 
-* **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024), EMNLP (2024), COLING (2025), NAACL (2025)
+* **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024, 2025), EMNLP (2024), COLING (2025), NAACL (2025)
 * Conference Reviewer: ACL Rolling Review (2022 - 2023), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023),
   KDD (2023, 2024, 2025, 2026), NeurIPS (2024), NeurIPS-DB (2024), ICLR (2025), ICML (2025)
 * Conference Volunteer: IJCAI-2023
