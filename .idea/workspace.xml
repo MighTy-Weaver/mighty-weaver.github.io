@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d39abdca-5259-4909-9a34-9f75a287977c" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/files/PGTA_survey.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/PGTA_survey_student.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/slides1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/slides2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/slides3.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -672,7 +666,7 @@
       <workItem from="1735008643268" duration="634000" />
       <workItem from="1735316934497" duration="209000" />
       <workItem from="1735317208396" duration="145000" />
-      <workItem from="1735484602898" duration="531000" />
+      <workItem from="1735484602898" duration="1163000" />
     </task>
     <task id="LOCAL-00320" summary="update">
       <created>1678703137001</created>
@@ -1017,7 +1011,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687237141789</updated>
     </task>
-    <option name="localTasksCounter" value="520" />
+    <option name="localTasksCounter" value="521" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
