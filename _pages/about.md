@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! Welcome to my homepage! I’m a third-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Currently, I am a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). Previously, I was an applied scientist intern at Amazon Search Experience Science in Palo Alto, where I worked with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/). Next summer, I will return to Amazon for another applied scientist internship at Amazon Rufus LLM in Palo Alto, working with [Dr. Xin Liu](https://seanliu96.github.io/) and [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350). I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022, and I am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2024/12/27**.
+This webpage is last updated on **2024/1/24**.
 
 ## Research Interest
 
@@ -49,7 +49,7 @@ working on:
 
 ## Academic Service
 
-* **Area Chair**: ACL Rolling Review (2024 - Now), ACL (2024, 2025), EMNLP (2024), COLING (2025), NAACL (2025), COLM (2025)
+* **Area Chair: ACL Rolling Review (2024 - Now), ACL (2024, 2025), EMNLP (2024), COLING (2025), NAACL (2025), COLM (2025)**
 * Conference Reviewer: ACL Rolling Review (2022 - 2023), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023),
   KDD (2023, 2024, 2025, 2026), NeurIPS (2024), NeurIPS-DB (2024), ICLR (2025), ICML (2025)
 * Conference Volunteer: IJCAI-2023
