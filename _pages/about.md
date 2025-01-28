@@ -49,9 +49,9 @@ working on:
 
 ## Academic Service
 
-* **Area Chair: ACL Rolling Review (2024 - Now), ACL (2024, 2025), EMNLP (2024), COLING (2025), NAACL (2025), COLM (2025)**
+* **Area Chair: ACL Rolling Review (2024 - Now), ACL (2024, 2025), EMNLP (2024), COLING (2025), NAACL (2025), COLM (2025), ICML (2025)**
 * Conference Reviewer: ACL Rolling Review (2022 - 2023), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023),
-  KDD (2023, 2024, 2025, 2026), NeurIPS (2024), NeurIPS-DB (2024), ICLR (2025), ICML (2025)
+  KDD (2023, 2024, 2025, 2026), NeurIPS (2024), NeurIPS-DB (2024), ICLR (2025)
 * Conference Volunteer: IJCAI-2023
 
 ## Awards
