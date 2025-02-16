@@ -26,13 +26,25 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.10885)
 
-- **ConceptEdit: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning.**\
+- **SessionIntentBench: A Multi-task Inter-Session Intention-Shift Modeling Benchmark for E-commerce Customer Behavior Understanding.**\
+Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Wei Fan, Qing Zong, Chunkit Chan, Zheye Deng, Xin Liu, Yifan Gao, Changlong Yu, Chen Luo, Yang Li, Zheng Li, Qingyu Yin, Bing Yin, Yangqiu Song.\
+*Under Review*, 2025. [pdf]
+
+- **ConKE: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning.**\
 Liyu Zhang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2412.11418)
 
 - **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
 Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2410.14276)
+
+- **Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations.**\
+Chunyang Li, <span style="color:darkblue">**Weiqi Wang**</span>, Tianshi Zheng, Yangqiu Song.\
+*Under Review*, 2025. [pdf], [data]
+
+- **PAINT with Words: A Dataset and Cognitive Framework for Evaluating Visual Creativity.**\
+Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tianshi Zheng, Qing Zong, Baixuan Xu, Chunyang Li, Yangqiu Song.\
+*Under Review*, 2025. [pdf], [data]
 
 - **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
 Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
