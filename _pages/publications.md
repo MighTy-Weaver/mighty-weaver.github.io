@@ -40,7 +40,7 @@ Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, H
 
 - **Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations.**\
 Chunyang Li, <span style="color:darkblue">**Weiqi Wang**</span>, Tianshi Zheng, Yangqiu Song.\
-*Under Review*, 2025. [pdf], [data]
+*Under Review*, 2025. [[pdf]](https://arxiv.org/pdf/2502.16169), [[data]](https://github.com/lcy2723/Robust-Rule-Induction)
 
 - **PAINT with Words: A Dataset and Cognitive Framework for Evaluating Visual Creativity.**\
 Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tianshi Zheng, Qing Zong, Baixuan Xu, Chunyang Li, Yangqiu Song.\
