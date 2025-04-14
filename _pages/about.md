@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! Welcome to my homepage! I’m a third-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Currently, I am a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). Previously, I was an applied scientist intern at Amazon Search Experience Science in Palo Alto, where I worked with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/). Next summer, I will return to Amazon for another applied scientist internship at Amazon Rufus LLM in Palo Alto, working with [Dr. Xin Liu](https://seanliu96.github.io/) and [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350). I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022, and I am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2024/2/25**.
+This webpage is last updated on **2025/4/14**.
 
 ## Research Interest
 
@@ -24,7 +24,7 @@ working on:
   and *Metaphysical Reasoning* ([🪐](https://arxiv.org/pdf/2406.02106))
 - **Human Behavior Understanding via Complex Intention Modeling** with Large Foundation Models in
   E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), 📜) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
-- Scientific Tabular Generation and Summarization via Large Language Model
+- Scientific Tabular Generation and Summarization via Large Language Model (arXiv2Table)
 
 ## Education
 

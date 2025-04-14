@@ -131,8 +131,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
-        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
@@ -682,7 +682,10 @@
       <workItem from="1739729172988" duration="1028000" />
       <workItem from="1740326408868" duration="227000" />
       <workItem from="1740326710523" duration="601000" />
-      <workItem from="1740534633873" duration="148000" />
+      <workItem from="1740534633873" duration="166000" />
+      <workItem from="1742932129358" duration="437000" />
+      <workItem from="1742932608069" duration="252000" />
+      <workItem from="1744638473246" duration="1744000" />
     </task>
     <task id="LOCAL-00320" summary="update">
       <created>1678703137001</created>
@@ -1027,7 +1030,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687237141789</updated>
     </task>
-    <option name="localTasksCounter" value="533" />
+    <option name="localTasksCounter" value="534" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

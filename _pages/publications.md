@@ -12,7 +12,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 ## Preprints
 - **Can LLMs Generate Tabular Summaries of Science Papers? Rethinking the Evaluation Protocol.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi.\
-*Under Review*, 2025. [pdf], [data]
+*Under Review*, 2025. [pdf], [[data]](https://github.com/JHU-CLSP/arXiv2Table)
 
 - **📜EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\
@@ -34,10 +34,6 @@ Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, W
 Liyu Zhang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2412.11418)
 
-- **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
-Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2410.14276)
-
 - **Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations.**\
 Chunyang Li, <span style="color:darkblue">**Weiqi Wang**</span>, Tianshi Zheng, Yangqiu Song.\
 *Under Review*, 2025. [[pdf]](https://arxiv.org/pdf/2502.16169), [[data]](https://github.com/lcy2723/Robust-Rule-Induction)
@@ -45,6 +41,14 @@ Chunyang Li, <span style="color:darkblue">**Weiqi Wang**</span>, Tianshi Zheng, 
 - **PAINT with Words: A Dataset and Cognitive Framework for Evaluating Visual Creativity.**\
 Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tianshi Zheng, Qing Zong, Baixuan Xu, Chunyang Li, Yangqiu Song.\
 *Under Review*, 2025. [pdf], [data]
+
+- **Science Hierarchography: Hierarchical Organization of Science Literature.**\
+Muhan Gao, Jash Shah, <span style="color:darkblue">**Weiqi Wang**</span>, Daniel Khashabi.\
+*Under Review*, 2025. [pdf], [[code]](https://github.com/JHU-CLSP/science-cartography)
+
+- **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
+Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2410.14276)
 
 - **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
 Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
