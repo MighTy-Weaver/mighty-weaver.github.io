@@ -12,7 +12,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 ## Preprints
 - **Can LLMs Generate Tabular Summaries of Science Papers? Rethinking the Evaluation Protocol.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi.\
-*Under Review*, 2025. [pdf], [[data]](https://github.com/JHU-CLSP/arXiv2Table)
+*Under Review*, 2025. [[pdf]](https://arxiv.org/pdf/2504.10284), [[data]](https://github.com/JHU-CLSP/arXiv2Table)
 
 - **📜EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\

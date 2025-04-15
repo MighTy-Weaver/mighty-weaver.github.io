@@ -24,7 +24,7 @@ working on:
   and *Metaphysical Reasoning* ([🪐](https://arxiv.org/pdf/2406.02106))
 - **Human Behavior Understanding via Complex Intention Modeling** with Large Foundation Models in
   E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), 📜) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
-- Scientific Tabular Generation and Summarization via Large Language Model (arXiv2Table)
+- Scientific Tabular Generation and Summarization via Large Language Model ([arXiv2Table](https://arxiv.org/pdf/2504.10284))
 
 ## Education
 
