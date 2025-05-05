@@ -10,7 +10,11 @@ redirect_from:
 
 ## About me
 
-Hi there! Welcome to my homepage! I’m a third-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). Currently, I am a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). Previously, I was an applied scientist intern at Amazon Search Experience Science in Palo Alto, where I worked with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/). Next summer, I will return to Amazon for another applied scientist internship at Amazon Rufus LLM in Palo Alto, working with [Dr. Xin Liu](https://seanliu96.github.io/) and [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350). I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022, and I am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
+I’m a third-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
+Previously, I was a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). 
+I also interned as an applied scientist at Amazon Search Experience Science in Palo Alto, where I worked with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/). 
+Next summer, I will return to Amazon for another applied scientist internship at Amazon Rufus LLM in Palo Alto, working with [Dr. Xin Liu](https://seanliu96.github.io/) and [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350).
+I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
 This webpage is last updated on **2025/5/5**.
 
