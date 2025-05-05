@@ -46,6 +46,10 @@ Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tia
 Muhan Gao, Jash Shah, <span style="color:darkblue">**Weiqi Wang**</span>, Daniel Khashabi.\
 *Under Review*, 2025. [pdf], [[code]](https://github.com/JHU-CLSP/science-cartography)
 
+- **Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?.**\
+Jiayu Liu, Qing Zong, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
+*Under Review*, 2025. [pdf], [code]
+
 - **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
 Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2410.14276)
