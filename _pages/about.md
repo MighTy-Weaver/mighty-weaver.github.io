@@ -16,7 +16,7 @@ I also interned as an applied scientist at Amazon Search Experience Science in P
 Next summer, I will return to Amazon for another applied scientist internship at Amazon Rufus LLM in Palo Alto, working with [Dr. Xin Liu](https://seanliu96.github.io/) and [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350).
 I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2025/5/5**.
+This webpage is last updated on **2025/5/15**.
 
 ## Research Interest
 

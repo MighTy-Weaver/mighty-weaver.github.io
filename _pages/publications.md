@@ -14,13 +14,6 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 <span style="color:darkblue">**Weiqi Wang**</span>, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi.\
 *Under Review*, 2025. [[pdf]](https://arxiv.org/pdf/2504.10284), [[data]](https://github.com/JHU-CLSP/arXiv2Table)
 
-- **📜EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
-<span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\
-*Under Review*, 2024. [pdf]
-
-- **🪐MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
-<span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.02106), [[code]](https://github.com/HKUST-KnowComp/MARS)
 
 - **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
@@ -30,14 +23,6 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Wei Fan, Qing Zong, Chunkit Chan, Zheye Deng, Xin Liu, Yifan Gao, Changlong Yu, Chen Luo, Yang Li, Zheng Li, Qingyu Yin, Bing Yin, Yangqiu Song.\
 *Under Review*, 2025. [pdf]
 
-- **ConKE: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning.**\
-Liyu Zhang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2412.11418)
-
-- **Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations.**\
-Chunyang Li, <span style="color:darkblue">**Weiqi Wang**</span>, Tianshi Zheng, Yangqiu Song.\
-*Under Review*, 2025. [[pdf]](https://arxiv.org/pdf/2502.16169), [[data]](https://github.com/lcy2723/Robust-Rule-Induction)
-
 - **PAINT with Words: A Dataset and Cognitive Framework for Evaluating Visual Creativity.**\
 Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tianshi Zheng, Qing Zong, Baixuan Xu, Chunyang Li, Yangqiu Song.\
 *Under Review*, 2025. [pdf], [data]
@@ -45,10 +30,6 @@ Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tia
 - **Science Hierarchography: Hierarchical Organization of Science Literature.**\
 Muhan Gao, Jash Shah, <span style="color:darkblue">**Weiqi Wang**</span>, Daniel Khashabi.\
 *Under Review*, 2025. [pdf], [[code]](https://github.com/JHU-CLSP/science-cartography)
-
-- **Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?.**\
-Jiayu Liu, Qing Zong, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-*Under Review*, 2025. [pdf], [code]
 
 - **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
 Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
@@ -64,6 +45,14 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 *Artificial Intelligence*, 2024. [[pdf]](https://doi.org/10.1016/j.artint.2024.104149), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
 ## Conference Proceedings
+- **📜EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
+<span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\
+In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [pdf]
+
+- **🪐MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
+<span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
+In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2406.02106), [[code]](https://github.com/HKUST-KnowComp/MARS)
+
 - **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
 In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024)*. [[pdf]](https://aclanthology.org/2024.acl-long.128.pdf), [[code]](https://github.com/HKUST-KnowComp/CANDLE)
@@ -100,6 +89,14 @@ In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language 
 Wei Fan, Haoran Li, Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
 In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-2024, <span style="color:red">**Outstanding Paper Award**</span>)*. [[pdf]](https://aclanthology.org/2024.emnlp-main.195.pdf), [[code]](https://github.com/HKUST-KnowComp/GoldCoin)
 
+- **ConKE: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning.**\
+Liyu Zhang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Yangqiu Song.\
+In *Findings of the Association for Computational Linguistics: ACL 2025 (Findings of ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2412.11418)
+
+- **Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations.**\
+Chunyang Li, <span style="color:darkblue">**Weiqi Wang**</span>, Tianshi Zheng, Yangqiu Song.\
+In *Findings of the Association for Computational Linguistics: ACL 2025 (Findings of ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2502.16169), [[data]](https://github.com/lcy2723/Robust-Rule-Induction)
+
 - **Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection.**\
 Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Xin Liu, Yangqiu Song.\
 In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findings of EMNLP-2023)*. [[pdf]](https://aclanthology.org/2023.findings-emnlp.232.pdf), [[code]](https://github.com/HKUST-KnowComp/GOLD)
@@ -107,3 +104,7 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 - **FolkScope: Intention Knowledge Graph Construction for E-commerce Commonsense Discovery.**\
 Changlong Yu, <span style="color:darkblue">**Weiqi Wang**</span>, Xin Liu, Jiaxin Bai, Yangqiu Song, Zheng Li, Yifan Gao, Tianyu Cao, Bing Yin.\
 In *Findings of the Association for Computational Linguistics: ACL 2023 (Findings of ACL-2023)*. [[pdf]](https://aclanthology.org/2023.findings-acl.76.pdf), [[code]](https://github.com/HKUST-KnowComp/FolkScope)
+
+- **Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?.**\
+Jiayu Liu, Qing Zong, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
+In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [pdf], [code]
