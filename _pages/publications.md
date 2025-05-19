@@ -12,8 +12,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 ## Preprints
 - **Can LLMs Generate Tabular Summaries of Science Papers? Rethinking the Evaluation Protocol.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi.\
-*Under Review*, 2025. [[pdf]](https://arxiv.org/pdf/2504.10284), [[data]](https://github.com/JHU-CLSP/arXiv2Table)
-
+*Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2504.10284), [[data]](https://github.com/JHU-CLSP/arXiv2Table)
 
 - **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
@@ -26,6 +25,10 @@ Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, W
 - **PAINT with Words: A Dataset and Cognitive Framework for Evaluating Visual Creativity.**\
 Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tianshi Zheng, Qing Zong, Baixuan Xu, Chunyang Li, Yangqiu Song.\
 *Under Review*, 2025. [pdf], [data]
+
+- **Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study.**\
+Baixuan Xu**, Chunyang Li**, <span style="color:darkblue">**Weiqi Wang**</span>, Wei Fan, Tianshi Zheng, Haochen Shi, Tao Fan, Yangqiu Song, Qiang Yang.\
+*Arxiv Preprint*, 2025. [[pdf]](https://www.arxiv.org/pdf/2505.07313)
 
 - **Science Hierarchography: Hierarchical Organization of Science Literature.**\
 Muhan Gao, Jash Shah, <span style="color:darkblue">**Weiqi Wang**</span>, Daniel Khashabi.\
