@@ -20,19 +20,23 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 
 - **SessionIntentBench: A Multi-task Inter-Session Intention-Shift Modeling Benchmark for E-commerce Customer Behavior Understanding.**\
 Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Wei Fan, Qing Zong, Chunkit Chan, Zheye Deng, Xin Liu, Yifan Gao, Changlong Yu, Chen Luo, Yang Li, Zheng Li, Qingyu Yin, Bing Yin, Yangqiu Song.\
-*Under Review*, 2025. [pdf]
+*Under Review*, 2025.
+
+- **Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study.**\
+Baixuan Xu\*, Chunyang Li\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Wei Fan, Tianshi Zheng, Haochen Shi, Tao Fan, Yangqiu Song, Qiang Yang.\
+*Arxiv Preprint*, 2025. [[pdf]](https://www.arxiv.org/pdf/2505.07313)
+
+- **InferenceDynamics: Efficient Routing Across LLMs through Structured Capability and Knowledge Profiling.**\
+Haochen Shi\*, Tianshi Zheng\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Chunyang Li, Chunkit Chan, Tao Fan, Yangqiu Song, Qiang Yang.\
+*Arxiv Preprint*, 2025.
 
 - **PAINT with Words: A Dataset and Cognitive Framework for Evaluating Visual Creativity.**\
 Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tianshi Zheng, Qing Zong, Baixuan Xu, Chunyang Li, Yangqiu Song.\
-*Under Review*, 2025. [pdf], [data]
-
-- **Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study.**\
-Baixuan Xu**, Chunyang Li**, <span style="color:darkblue">**Weiqi Wang**</span>, Wei Fan, Tianshi Zheng, Haochen Shi, Tao Fan, Yangqiu Song, Qiang Yang.\
-*Arxiv Preprint*, 2025. [[pdf]](https://www.arxiv.org/pdf/2505.07313)
+*Under Review*, 2025.
 
 - **Science Hierarchography: Hierarchical Organization of Science Literature.**\
 Muhan Gao, Jash Shah, <span style="color:darkblue">**Weiqi Wang**</span>, Daniel Khashabi.\
-*Under Review*, 2025. [pdf], [[code]](https://github.com/JHU-CLSP/science-cartography)
+*Under Review*, 2025. [[pdf]](https://arxiv.org/pdf/2504.13834), [[code]](https://github.com/JHU-CLSP/science-cartography)
 
 - **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
 Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
@@ -50,11 +54,11 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 ## Conference Proceedings
 - **📜EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\
-In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [pdf]
+In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2505.15196)
 
 - **🪐MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2406.02106), [[code]](https://github.com/HKUST-KnowComp/MARS)
+In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2406.02106), [[data]](https://github.com/HKUST-KnowComp/MARS)
 
 - **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
