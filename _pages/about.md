@@ -11,17 +11,17 @@ redirect_from:
 ## About me
 
 I’m a third-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
+Currently, I'm an applied scientist intern at Amazon Rufus LLM in Palo Alto, working with [Dr. Xin Liu](https://seanliu96.github.io/) and [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350).
 Previously, I was a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). 
 I also interned as an applied scientist at Amazon Search Experience Science in Palo Alto, where I worked with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/). 
-In June, I will return to Amazon for another applied scientist internship at Amazon Rufus LLM in Palo Alto, working with [Dr. Xin Liu](https://seanliu96.github.io/) and [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350).
 I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2025/5/22**.
+This webpage is last updated on **2025/6/14**.
 
 ## Research Interest
 
-I'm mainly interested in the research of Natural Language Processing. In the era of Large Language Models, I'm actively
-working on:
+I'm mainly interested in the research of Natural Language Processing and Large Language Models.
+Currently, I'm working on:
 
 - Unlocking **Trustworthy Creativity and Generalizable System II Reasoning** within LLMs via [
   *Conceptualization*](https://arxiv.org/pdf/2406.10885) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf))
@@ -29,23 +29,24 @@ working on:
 - **Human Behavior Understanding via Complex Intention Modeling** with Large Foundation Models in
   E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), [📜](https://arxiv.org/pdf/2505.15196)) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
 - Scientific Knowledge Exploration via Large Language Model ([arXiv2Table](https://arxiv.org/pdf/2504.10284), [Science Hierarchography](https://arxiv.org/pdf/2504.13834), [ClaimCheck](https://arxiv.org/pdf/2503.21717v1))
+- Efficient Data Selection-based Training Recipe for LLMs
 
 ## Education
-
-**Johns Hopkins University [(JHU)](https://www.jhu.edu/)**
-
-- Visiting PhD Student at [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), *Nov. 2024 - Apr. 2025*
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
 - Doctor of Philosophy in Computer Science and Engineering,  *Sep. 2022 -- Aug. 2026 (Expected)*
 - Bachelor of Science in Computer Science and Mathematics,  *Sep. 2018 -- Jun. 2022*, *First Class Honors*
 
+**Johns Hopkins University [(JHU)](https://www.jhu.edu/)**
+
+- Visiting PhD Student at [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), *Nov. 2024 - Apr. 2025*
+
 ## Internship
 
 **Amazon Rufus LLM, Amazon Inc., Palo Alto, CA, USA**
 
-- Applied Scientist Intern, *Jun. 2025 -- Oct. 2025*
+- Applied Scientist Intern, *Jun. 2025 -- Dec. 2025*
 
 **Amazon Search Experience Science, Amazon Inc., Palo Alto, CA, USA**
 

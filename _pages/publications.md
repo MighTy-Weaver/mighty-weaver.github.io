@@ -28,7 +28,7 @@ Baixuan Xu\*, Chunyang Li\*, <span style="color:darkblue">**Weiqi Wang**</span>\
 
 - **InferenceDynamics: Efficient Routing Across LLMs through Structured Capability and Knowledge Profiling.**\
 Haochen Shi\*, Tianshi Zheng\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Chunyang Li, Chunkit Chan, Tao Fan, Yangqiu Song, Qiang Yang.\
-*Arxiv Preprint*, 2025.
+*Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2505.16303)
 
 - **PAINT with Words: A Dataset and Cognitive Framework for Evaluating Visual Creativity.**\
 Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tianshi Zheng, Qing Zong, Baixuan Xu, Chunyang Li, Yangqiu Song.\
@@ -98,7 +98,7 @@ In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language 
 
 - **ConKE: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning.**\
 Liyu Zhang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: ACL 2025 (Findings of ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2412.11418)
+In *Findings of the Association for Computational Linguistics: ACL 2025 (Findings of ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2412.11418), [[code]](https://github.com/HKUST-KnowComp/ConKE)
 
 - **Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations.**\
 Chunyang Li, <span style="color:darkblue">**Weiqi Wang**</span>, Tianshi Zheng, Yangqiu Song.\
@@ -114,4 +114,4 @@ In *Findings of the Association for Computational Linguistics: ACL 2023 (Finding
 
 - **Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?.**\
 Jiayu Liu, Qing Zong, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [pdf], [code]
+In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2505.24778), [[code]](https://github.com/HKUST-KnowComp/MarCon)
