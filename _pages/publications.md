@@ -92,13 +92,13 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 Tianqing Fang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sehyun Choi, Shibo Hao, Hongming Zhang, Yangqiu Song, Bin He.\
 In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP-2021)*. [[pdf]](https://aclanthology.org/2021.emnlp-main.705.pdf), [[code]](https://github.com/HKUST-KnowComp/CSKB-Population)
 
-- **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory.**\
-Wei Fan, Haoran Li, Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-2024, <span style="color:red">**Outstanding Paper Award**</span>)*. [[pdf]](https://aclanthology.org/2024.emnlp-main.195.pdf), [[code]](https://github.com/HKUST-KnowComp/GoldCoin)
-
 - **ConKE: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning.**\
 Liyu Zhang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Yangqiu Song.\
 In *Findings of the Association for Computational Linguistics: ACL 2025 (Findings of ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2412.11418), [[code]](https://github.com/HKUST-KnowComp/ConKE)
+
+- **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory.**\
+Wei Fan, Haoran Li, Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
+In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP-2024, <span style="color:red">**Outstanding Paper Award**</span>)*. [[pdf]](https://aclanthology.org/2024.emnlp-main.195.pdf), [[code]](https://github.com/HKUST-KnowComp/GoldCoin)
 
 - **Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations.**\
 Chunyang Li, <span style="color:darkblue">**Weiqi Wang**</span>, Tianshi Zheng, Yangqiu Song.\
