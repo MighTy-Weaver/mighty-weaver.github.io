@@ -16,20 +16,17 @@ Previously, I was a visiting Ph.D. student at [Johns Hopkins University](https:/
 I also interned as an applied scientist at Amazon Search Experience Science in Palo Alto, where I worked with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/). 
 I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2025/6/29**.
+This webpage is last updated on **2025/7/9**.
 
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing and Large Language Models.
 Currently, I'm working on:
 
-- Unlocking **Trustworthy Creativity and Generalizable System II Reasoning** within LLMs via [
-  *Conceptualization*](https://arxiv.org/pdf/2406.10885) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf))
-  and *Metaphysical Reasoning* ([🪐](https://arxiv.org/pdf/2406.02106))
-- **Human Behavior Understanding via Complex Intention Modeling** with Large Foundation Models in
-  E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), [📜](https://arxiv.org/pdf/2505.15196)) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf))
-- Scientific Knowledge Exploration via Large Language Model ([arXiv2Table](https://arxiv.org/pdf/2504.10284), [Science Hierarchography](https://arxiv.org/pdf/2504.13834), [ClaimCheck](https://arxiv.org/pdf/2503.21717v1))
-- Scaling Law Analysis for Reinforcement Learning with Large Language Models
+- **Scaling Laws and Training Dynamics of Reinforcement Learning with Large Language Models**, exploring scaling behaviors, data efficiency, and curriculum learning dynamics in reinforcement learning methods
+- Unlocking **Creative and Generalizable System II Reasoning** within LLMs through [*conceptualization*](https://arxiv.org/pdf/2406.10885) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf)) and *metaphysical reasoning* ([🪐](https://arxiv.org/pdf/2406.02106)) to enable reasoning in novel situations beyond intuition and pattern matching
+- **Human Behavior Understanding and Intention Modeling** with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://arxiv.org/pdf/2406.10173), [MIND](https://arxiv.org/pdf/2406.10701), [📜](https://arxiv.org/pdf/2505.15196)) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf)), focusing on agent-level comprehension and prediction of human goals and intentions
+- **Scientific Knowledge Exploration via Large Language Models**, studying their role in organizing, summarizing, and discovering scientific knowledge ([arXiv2Table](https://arxiv.org/pdf/2504.10284), [Science Hierarchography](https://arxiv.org/pdf/2504.13834), [ClaimCheck](https://arxiv.org/pdf/2503.21717v1))
 
 ## Education
 
@@ -46,7 +43,7 @@ Currently, I'm working on:
 
 **Amazon Rufus LLM, Amazon Inc., Palo Alto, CA, USA**
 
-- Applied Scientist Intern, *Jun. 2025 -- Dec. 2025*
+- Applied Scientist Intern, *Jun. 2025 -- Sep. 2025*
 
 **Amazon Search Experience Science, Amazon Inc., Palo Alto, CA, USA**
 
