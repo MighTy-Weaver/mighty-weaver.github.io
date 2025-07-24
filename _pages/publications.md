@@ -54,11 +54,11 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 ## Conference Proceedings
 - **📜EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\
-In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2505.15196)
+In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://aclanthology.org/2025.acl-long.1.pdf)
 
 - **🪐MARS: Benchmarking the Metaphysical Reasoning Abilities of Language Models with a Multi-task Evaluation Dataset.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2406.02106), [[data]](https://github.com/HKUST-KnowComp/MARS)
+In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://aclanthology.org/2025.acl-long.79.pdf), [[data]](https://github.com/HKUST-KnowComp/MARS)
 
 - **🕯️CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Chunyang Li, Haochen Shi, Wenxuan Ding, Baixuan Xu, Zhaowei Wang, Jiaxin Bai, Xin Liu, Jiayang Cheng, Chunkit Chan, Yangqiu Song.\
