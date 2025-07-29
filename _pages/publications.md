@@ -20,7 +20,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 
 - **SessionIntentBench: A Multi-task Inter-Session Intention-Shift Modeling Benchmark for E-commerce Customer Behavior Understanding.**\
 Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Wei Fan, Qing Zong, Chunkit Chan, Zheye Deng, Xin Liu, Yifan Gao, Changlong Yu, Chen Luo, Yang Li, Zheng Li, Qingyu Yin, Bing Yin, Yangqiu Song.\
-*Under Review*, 2025.
+*Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2507.20185)
 
 - **Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study.**\
 Baixuan Xu\*, Chunyang Li\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Wei Fan, Tianshi Zheng, Haochen Shi, Tao Fan, Yangqiu Song, Qiang Yang.\
@@ -36,7 +36,7 @@ Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tia
 
 - **Science Hierarchography: Hierarchical Organization of Science Literature.**\
 Muhan Gao, Jash Shah, <span style="color:darkblue">**Weiqi Wang**</span>, Daniel Khashabi.\
-*Under Review*, 2025. [[pdf]](https://arxiv.org/pdf/2504.13834), [[code]](https://github.com/JHU-CLSP/science-cartography)
+*Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2504.13834), [[code]](https://github.com/JHU-CLSP/science-cartography)
 
 - **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
 Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
