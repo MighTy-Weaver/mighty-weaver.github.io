@@ -18,6 +18,8 @@ I received my bachelor’s degree in Computer Science and Mathematics from HKUST
 
 This webpage is last updated on **2025/8/20**.
 
+I'm on the industrial job market for a full-time research position starting from **2026/8**. Feel free to reach out to me if you have any opportunities!
+
 ## Research Interest
 
 I'm mainly interested in the research of Natural Language Processing and Large Language Models.
