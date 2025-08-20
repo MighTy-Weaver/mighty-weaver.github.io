@@ -14,10 +14,6 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 <span style="color:darkblue">**Weiqi Wang**</span>, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi.\
 *Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2504.10284), [[data]](https://github.com/JHU-CLSP/arXiv2Table)
 
-- **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\
-<span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2406.10885)
-
 - **SessionIntentBench: A Multi-task Inter-Session Intention-Shift Modeling Benchmark for E-commerce Customer Behavior Understanding.**\
 Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Wei Fan, Qing Zong, Chunkit Chan, Zheye Deng, Xin Liu, Yifan Gao, Changlong Yu, Chen Luo, Yang Li, Zheng Li, Qingyu Yin, Bing Yin, Yangqiu Song.\
 *Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2507.20185)
@@ -52,6 +48,10 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 *Artificial Intelligence*, 2024. [[pdf]](https://doi.org/10.1016/j.artint.2024.104149), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
 ## Conference Proceedings
+- **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\
+<span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
+In *Findings of the Association for Computational Linguistics: EMNLP 2025 (Findings of EMNLP-2025)*. [[pdf]](https://arxiv.org/pdf/2406.10885)
+
 - **📜EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\
 In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://aclanthology.org/2025.acl-long.1.pdf)
