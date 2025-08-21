@@ -18,14 +18,16 @@ I received my bachelor’s degree in Computer Science and Mathematics from HKUST
 
 This webpage is last updated on **2025/8/20**.
 
-I'm on the industrial job market for a full-time research position starting from **2026/8**. Feel free to reach out to me if you have any opportunities!
+<p style="color:darkred; font-size:18px;">
+🚀 <b>I'm on the industrial job market for a full-time research position starting from <u>August 2026</u>.</b><br>
+👉 Feel free to reach out to me if you have any opportunities!
+</p>
 
 ## Research Interest
 
-I'm mainly interested in the research of Natural Language Processing and Large Language Models.
-Currently, I'm working on:
+I'm mainly interested in the research of large language models. Currently, I'm working on:
 
-- **Data Efficient Training Recipe of Reinforcement Learning with Large Language Models** on mathematics tasks.
+- **Data Efficient Training Recipe of Reinforcement Learning with Large Language Models** on mathematics and agentic tasks.
 - Unlocking **Creative and Generalizable System II Reasoning** within LLMs through [*conceptualization*](https://arxiv.org/pdf/2406.10885) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf)) and *metaphysical reasoning* ([🪐](https://aclanthology.org/2025.acl-long.79.pdf)) to enable reasoning in novel situations beyond intuition and pattern matching
 - **Human Behavior Understanding and Intention Modeling** with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://aclanthology.org/2024.findings-emnlp.123.pdf), [MIND](https://aclanthology.org/2024.emnlp-main.446.pdf), [📜](https://aclanthology.org/2025.acl-long.1.pdf)) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf)), focusing on agent-level comprehension and prediction of human goals and intentions
 - **Scientific Knowledge Exploration via Large Language Models**, studying their role in organizing, summarizing, and discovering scientific knowledge ([arXiv2Table](https://arxiv.org/pdf/2504.10284), [Science Hierarchography](https://arxiv.org/pdf/2504.13834), [ClaimCheck](https://arxiv.org/pdf/2503.21717v1))
