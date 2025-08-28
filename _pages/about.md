@@ -16,7 +16,7 @@ Previously, I was a visiting Ph.D. student at [Johns Hopkins University](https:/
 I also interned as an applied scientist at Amazon Search Experience Science in Palo Alto, where I worked with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/).
 I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2025/8/20**.
+This webpage is last updated on **2025/8/27**.
 
 <p style="color:darkred; font-size:18px;">
 🚀 <b>I'm on the industrial job market for a full-time research position starting from <u>Fall 2026</u>.</b><br>
@@ -47,7 +47,7 @@ I'm mainly interested in the research of large language models. Currently, I'm w
 
 **Amazon Stores Foundational AI, Amazon Inc., Palo Alto, CA, USA**
 
-- Applied Scientist Intern, _Jun. 2025 -- Sep. 2025_
+- Applied Scientist Intern, _Jun. 2025 -- Dec. 2025_
 
 **Amazon Search Experience Science, Amazon Inc., Palo Alto, CA, USA**
 
