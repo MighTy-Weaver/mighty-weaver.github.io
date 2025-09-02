@@ -10,16 +10,16 @@ redirect_from:
 
 ## About me
 
-I’m a third-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
-Currently, I'm an applied scientist intern at Amazon Rufus LLM in Palo Alto, working with [Dr. Xin Liu](https://seanliu96.github.io/) and [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350).
+I’m a final year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
+Currently, I'm an applied scientist intern at Amazon Stores Foundational AI in Palo Alto, working with [Dr. Xin Liu](https://seanliu96.github.io/) and [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350).
 Previously, I was a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/).
 I also interned as an applied scientist at Amazon Search Experience Science in Palo Alto, where I worked with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/).
 I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2025/8/27**.
+This webpage is last updated on **2025/9/2**.
 
 <p style="color:darkred; font-size:18px;">
-🚀 <b>I'm on the industrial job market for a full-time research position starting from <u>Fall 2026</u>.</b><br>
+🚀 <b>I'm on the industrial job market for a full-time position with large language models and its agentic application starting from <u>Fall 2026</u>.</b><br>
 👉 Feel free to reach out to me if you have any opportunities!
 </p>
 
