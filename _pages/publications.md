@@ -50,7 +50,7 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 ## Conference Proceedings
 - **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: EMNLP 2025 (Findings of EMNLP-2025)*. [[pdf]](https://arxiv.org/pdf/2406.10885)
+In *Findings of the Association for Computational Linguistics: EMNLP 2025 (Findings of EMNLP-2025)*. [[pdf]](https://aclanthology.org/2025.findings-emnlp.122.pdf)
 
 - **📜EcomScriptBench: A Multi-task Benchmark for E-commerce Script Planning via Step-wise Intention-Driven Product Association.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Limeng Cui, Xin Liu, Sreyashi Nag, Wenju Xu, Sheikh Sarwar, Chen Luo, Yang Laurence Li, Hansu Gu, Hui Liu, Changlong Yu, Jiaxin Bai, Yifan Gao, Haiyang Zhang, Qi He, Shuiwang Ji, Yangqiu Song.\
