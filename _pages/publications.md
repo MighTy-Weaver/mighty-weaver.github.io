@@ -10,7 +10,8 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 *Remark: \* indicates equal contribution.*
 
 ## Preprints
-- HeaPA
+- **HeaPA: Difficulty-Aware Heap Sampling and On-Policy Query Augmentation for LLM Reinforcement Learning.**
+
 
 - **Can LLMs Generate Tabular Summaries of Science Papers? Rethinking the Evaluation Protocol.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi.\
