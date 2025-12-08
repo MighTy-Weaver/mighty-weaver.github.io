@@ -10,6 +10,8 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 *Remark: \* indicates equal contribution.*
 
 ## Preprints
+- HeaPA
+
 - **Can LLMs Generate Tabular Summaries of Science Papers? Rethinking the Evaluation Protocol.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi.\
 *Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2504.10284), [[data]](https://github.com/JHU-CLSP/arXiv2Table)

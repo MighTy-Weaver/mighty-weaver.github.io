@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weiqi Wang 王伟琪 Mighty"
+title: "Weiqi Wang 王伟琪"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -16,12 +16,7 @@ Previously, I was a visiting Ph.D. student at [Johns Hopkins University](https:/
 I also interned as an applied scientist at Amazon Search Experience Science in Palo Alto, where I worked with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/).
 I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2025/11/2**.
-
-<p style="color:darkred; font-size:18px;">
-🚀 <b>I'm on the industrial job market for a full-time position with large language models and its agentic application starting from <u>Fall 2026</u>.</b><br>
-👉 Feel free to reach out to me if you have any opportunities!
-</p>
+This webpage is last updated on **2025/12/7**.
 
 ## Research Interest
 
