@@ -10,13 +10,10 @@ redirect_from:
 
 ## About me
 
-I’m a final year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/).
-Currently, I'm an applied scientist intern at Amazon Stores Foundational AI in Palo Alto, working with [Dr. Xin Liu](https://seanliu96.github.io/) and [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350).
-Previously, I was a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/).
-I also interned as an applied scientist at Amazon Search Experience Science in Palo Alto, where I worked with [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), [Dr. Xin Liu](https://seanliu96.github.io/), and [Dr. Chen Luo](https://chen-luo.com/).
-I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
+I’m a final-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
+Previously, I was twice an Applied Scientist intern at Amazon in Palo Alto, at the Stores Foundational AI team and the Search Experience Science team, mentored by [Dr. Xin Liu](https://seanliu96.github.io/), [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350), [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), and [Dr. Chen Luo](https://chen-luo.com/). I was also a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2025/12/7**.
+This webpage is last updated on **2025/12/13**.
 
 ## Research Interest
 
@@ -31,7 +28,7 @@ I'm mainly interested in the research of large language models. Currently, I'm w
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Doctor of Philosophy in Computer Science and Engineering, _Sep. 2022 -- May. 2026 (Expected)_
+- Doctor of Philosophy in Computer Science and Engineering, _Sep. 2022 -- Apr. 2026 (Expected)_
 - Bachelor of Science in Computer Science and Mathematics, _Sep. 2018 -- Jun. 2022_, _First Class Honors_
 
 **Johns Hopkins University [(JHU)](https://www.jhu.edu/)**
