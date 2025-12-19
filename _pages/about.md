@@ -11,24 +11,26 @@ redirect_from:
 ## About me
 
 I’m a final-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
-Previously, I was twice an Applied Scientist intern at Amazon in Palo Alto, at the Stores Foundational AI team and the Search Experience Science team, mentored by [Dr. Xin Liu](https://seanliu96.github.io/), [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350), [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), and [Dr. Chen Luo](https://chen-luo.com/). I was also a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
+Previously, I was twice an Applied Scientist intern at Amazon in Palo Alto, at the Stores Foundational AI team and the Search Experience Science team, mentored by [Dr. Xin Liu](https://seanliu96.github.io/), [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350), [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), and [Dr. Chen Luo](https://chen-luo.com/). 
+I was also a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). 
+I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
-This webpage is last updated on **2025/12/13**.
+This webpage is last updated on **2025/12/19**.
 
 ## Research Interest
 
 I'm mainly interested in the research of large language models. Currently, I'm working on:
 
-- **Data Efficient Training Infrastructure of Reinforcement Learning with Large Language Models** on mathematics and agentic tasks.
+- **Advanced Sampling and On-policy Augmentation Recipe** for more Efficient and Stabilized Reinforcement Learning with Large Language Models [HeaPA](https://weiqiwang.notion.site/HeaPA-Difficulty-Aware-Heap-Sampling-and-On-Policy-Query-Augmentation-for-LLM-Reinforcement-Learnin-2c0be69e159180058fcfd3c75c0f4dc9).
 - Unlocking **Creative and Generalizable System II Reasoning** within LLMs through [_conceptualization_](https://aclanthology.org/2025.findings-emnlp.122.pdf) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf)) and _metaphysical reasoning_ ([🪐](https://aclanthology.org/2025.acl-long.79.pdf)) to enable reasoning in novel situations beyond intuition and pattern matching
 - **Human Behavior Understanding and Intention Modeling** with Large Foundation Models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://aclanthology.org/2024.findings-emnlp.123.pdf), [MIND](https://aclanthology.org/2024.emnlp-main.446.pdf), [📜](https://aclanthology.org/2025.acl-long.1.pdf)) and Social Media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf)), focusing on agent-level comprehension and prediction of human goals and intentions
-- **Scientific Knowledge Exploration via Large Language Models**, studying their role in organizing, summarizing, and discovering scientific knowledge ([arXiv2Table](https://arxiv.org/pdf/2504.10284), [Science Hierarchography](https://arxiv.org/pdf/2504.13834), [ClaimCheck](https://arxiv.org/pdf/2503.21717v1))
+- **Scientific Knowledge Exploration via Large Language Models**, studying their role in organizing, summarizing, and discovering scientific knowledge ([arXiv2Table](https://arxiv.org/pdf/2504.10284), [Science Hierarchography](https://arxiv.org/pdf/2504.13834), [ClaimCheck](https://aclanthology.org/2025.findings-emnlp.1185.pdf))
 
 ## Education
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Doctor of Philosophy in Computer Science and Engineering, _Sep. 2022 -- Apr. 2026 (Expected)_
+- Doctor of Philosophy in Computer Science and Engineering, _Sep. 2022 -- Mar. 2026 (Expected)_
 - Bachelor of Science in Computer Science and Mathematics, _Sep. 2018 -- Jun. 2022_, _First Class Honors_
 
 **Johns Hopkins University [(JHU)](https://www.jhu.edu/)**

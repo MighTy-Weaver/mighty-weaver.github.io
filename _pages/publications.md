@@ -21,29 +21,13 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Wei Fan, Qing Zong, Chunkit Chan, Zheye Deng, Xin Liu, Yifan Gao, Changlong Yu, Chen Luo, Yang Li, Zheng Li, Qingyu Yin, Bing Yin, Yangqiu Song.\
 *Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2507.20185)
 
-- **Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study.**\
-Baixuan Xu\*, Chunyang Li\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Wei Fan, Tianshi Zheng, Haochen Shi, Tao Fan, Yangqiu Song, Qiang Yang.\
-*Arxiv Preprint*, 2025. [[pdf]](https://www.arxiv.org/pdf/2505.07313)
-
 - **InferenceDynamics: Efficient Routing Across LLMs through Structured Capability and Knowledge Profiling.**\
 Haochen Shi\*, Tianshi Zheng\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Chunyang Li, Chunkit Chan, Tao Fan, Yangqiu Song, Qiang Yang.\
 *Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2505.16303)
 
-- **PAINT with Words: A Dataset and Cognitive Framework for Evaluating Visual Creativity.**\
-Hongyu Luo, <span style="color:darkblue">**Weiqi Wang**</span>, Haochen Shi, Tianshi Zheng, Qing Zong, Baixuan Xu, Chunyang Li, Yangqiu Song.\
-*Under Review*, 2025.
-
 - **Science Hierarchography: Hierarchical Organization of Science Literature.**\
 Muhan Gao, Jash Shah, <span style="color:darkblue">**Weiqi Wang**</span>, Daniel Khashabi.\
 *Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2504.13834), [[code]](https://github.com/JHU-CLSP/science-cartography)
-
-- **EcomEdit: An Automated E-commerce Knowledge Editing Framework for Enhanced Product and Purchase Intention Understanding.**\
-Ching Ming Samuel Lau\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Haochen Shi, Baixuan Xu, Jiaxin Bai, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2410.14276)
-
-- **Towards Subgraph Isomorphism Counting with Graph Kernels.**\
-Xin Liu, <span style="color:darkblue">**Weiqi Wang**</span>, Jiaxin Bai, Yangqiu Song.\
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/pdf/2405.07497)
 
 ## Journals
 - **Acquiring and Modelling Abstract Commonsense Knowledge via Conceptualization.**\
