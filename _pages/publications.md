@@ -12,7 +12,7 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 ## Preprints
 - **HeaPA: Difficulty-Aware Heap Sampling and On-Policy Query Augmentation for LLM Reinforcement Learning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Xin Liu, Binxuan Huang, Hejie Cui, Rongzhi Zhang, Changlong Yu, Shuowei Jin, Jingfeng Yang, Qingyu Yin, Zhengyang Wang, Zheng Li, Yifan Gao, Priyanka Nigam, Bing Yin, Lihong Li, Yangqiu Song.\
-*Under Review*, 2026.
+*Arxiv Preprint*, 2026. [[pdf]](https://arxiv.org/pdf/2601.22448), [[code]](https://github.com/horizon-rl/HeaPA)
 
 - **arXiv2Table: Toward Realistic Benchmarking and Evaluation for LLM-Based Literature-Review Table Generation.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi.\
