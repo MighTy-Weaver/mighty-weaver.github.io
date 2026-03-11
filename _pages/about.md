@@ -40,7 +40,7 @@ During my PhD, I also actively worked on **human behavior understanding and inte
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Doctor of Philosophy in Computer Science and Engineering, _Sep. 2022 -- Mar. 2026
+- Doctor of Philosophy in Computer Science and Engineering, _Sep. 2022 -- Mar. 2026_
 - Bachelor of Science in Computer Science and Mathematics, _Sep. 2018 -- Jun. 2022_, _First Class Honors_
 
 **Johns Hopkins University [(JHU)](https://www.jhu.edu/)**
