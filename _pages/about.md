@@ -10,21 +10,21 @@ redirect_from:
 
 ## About me
 
-I’m a final-year Ph.D. student in [Computer Science and Engineering](https://cse.hkust.edu.hk/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
-Previously, I was twice an Applied Scientist intern at Amazon in Palo Alto, at the Stores Foundational AI team and the Search Experience Science team, mentored by [Dr. Xin Liu](https://seanliu96.github.io/), [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350), [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), and [Dr. Chen Luo](https://chen-luo.com/). 
-I was also a visiting Ph.D. student at [Johns Hopkins University](https://www.jhu.edu/), supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). 
-I received my bachelor’s degree in Computer Science and Mathematics from HKUST in 2022 and am currently funded by the [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
+I received my Ph.D. degree and my B.Sc. degree in [Computer Science and Engineering](https://cse.hkust.edu.hk/) from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in 2026 and 2022, respectively, where my research was supervised by Professor [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and generously supported by the [HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html) award.  
+I was also a visiting Ph.D. scholar at [Johns Hopkins University](https://www.jhu.edu/), where I was supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/).  
+Previously, I was twice an Applied Scientist intern at Amazon in Palo Alto, working with the Stores Foundational AI team and the Customer Search Experience team, mentored by [Dr. Xin Liu](https://seanliu96.github.io/), [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350), [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), and [Dr. Chen Luo](https://chen-luo.com/).
 
-This webpage is last updated on **2026/3/11**.
+This webpage was last updated on **2026/4/4**.
 
 ## Research Interest
 
 I'm mainly interested in research on large language models. Currently, I'm working on:
 
-- **GUI Agents and Tool-Use**: Applying RL-based post-training to agents that perceive, plan, and act in real interfaces, with an emphasis on long-horizon decision-making, interactive feedback and reward design, and reliable agentic behavior.
-- **RL-Empowered Reasoning in LLMs**: Developing efficient and scalable reinforcement learning methods that improve LLM reasoning performance ([HeaPA](https://arxiv.org/pdf/2601.22448)). I am also interested in enabling **generalizable System II reasoning** in novel situations. During my PhD, I focused on exploring [_conceptualization_](https://aclanthology.org/2025.findings-emnlp.122.pdf) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf)) and _metaphysical reasoning_ ([🪐](https://aclanthology.org/2025.acl-long.79.pdf)), with an emphasis on robustness and reliable reasoning beyond pattern matching.
-
-During my PhD, I also actively worked on **human behavior understanding and intention modeling** with large foundation models in E-Commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://aclanthology.org/2024.findings-emnlp.123.pdf), [MIND](https://aclanthology.org/2024.emnlp-main.446.pdf), [📜](https://aclanthology.org/2025.acl-long.1.pdf)) and social media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf)), as well as **scientific knowledge exploration via large language models**, studying their role in organizing, summarizing, and discovering scientific knowledge ([arXiv2Table](https://arxiv.org/pdf/2504.10284), [Science Hierarchography](https://arxiv.org/pdf/2504.13834), [ClaimCheck](https://aclanthology.org/2025.findings-emnlp.1185.pdf)).
+- **GUI/CLI Agents and Tool-Use**: Applying RL-based post-training to agents that perceive, plan, and act in real interfaces, with an emphasis on long-horizon decision-making, interactive feedback and reward design, and reliable agentic behavior.
+- **RL-Empowered Reasoning in LLMs**: Developing efficient and scalable reinforcement learning methods that improve LLM reasoning performance ([HeaPA](https://arxiv.org/pdf/2601.22448)). I am also interested in enabling **generalizable System II reasoning** in novel situations. 
+- 
+- During my PhD, I focused on exploring [_conceptualization_](https://aclanthology.org/2025.findings-emnlp.122.pdf) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf)) and _metaphysical reasoning_ ([🪐](https://aclanthology.org/2025.acl-long.79.pdf)), with an emphasis on robustness and reliable reasoning beyond pattern matching.
+I also actively worked on **human behavior understanding and intention modeling** with large foundation models in E-commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://aclanthology.org/2024.findings-emnlp.123.pdf), [MIND](https://aclanthology.org/2024.emnlp-main.446.pdf), [📜](https://aclanthology.org/2025.acl-long.1.pdf)) and social media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf)), as well as **scientific knowledge exploration via large language models**, studying their role in organizing, summarizing, and discovering scientific knowledge ([arXiv2Table](https://arxiv.org/pdf/2504.10284), [Science Hierarchography](https://arxiv.org/pdf/2504.13834), [ClaimCheck](https://aclanthology.org/2025.findings-emnlp.1185.pdf)).
 
 ## Employment
 
@@ -49,7 +49,7 @@ During my PhD, I also actively worked on **human behavior understanding and inte
 
 ## Academic Service
 
-- **Area Chair: ACL Rolling Review (2024 - Now), ACL (2024, 2025, 2026), EMNLP (2024, 2025), COLING (2025), NAACL (2025), COLM (2025, 2026), ICML (2025)**
+- **Area Chair: ACL Rolling Review (2024 - Now), ACL (2024, 2025, 2026), EMNLP (2024, 2025, 2026), COLING (2025), NAACL (2025), COLM (2025, 2026), ICML (2025)**
 - Conference Reviewer: ACL Rolling Review (2022 - 2023), EACL (2024), NAACL (2024), EMNLP (2022, 2023), ACL (2023),
   KDD (2023, 2024, 2025, 2026), NeurIPS (2024), NeurIPS-DB (2024), ICLR (2025), AACL (2025)
 - Conference Volunteer: IJCAI-2023

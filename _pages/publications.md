@@ -26,12 +26,8 @@ Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, W
 Haochen Shi\*, Tianshi Zheng\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Chunyang Li, Chunkit Chan, Tao Fan, Yangqiu Song, Qiang Yang.\
 *Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2505.16303)
 
-- **Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study.**\
-Baixuan Xu\*, Chunyang Li\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Wei Fan, Tianshi Zheng, Haochen Shi, Tao Fan, Yangqiu Song.\
-*Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2505.07313)
-
-- **Science Hierarchography: Hierarchical Organization of Science Literature.**\
-Muhan Gao, Jash Shah, <span style="color:darkblue">**Weiqi Wang**</span>, Daniel Khashabi.\
+- **From Papers to Panoramas: Building Hierarchies of Scientific Literature at Scale.**\
+Muhan Gao, Jash Shah, <span style="color:darkblue">**Weiqi Wang**</span>, Kuan-Hao Huang, Daniel Khashabi.\
 *Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2504.13834), [[code]](https://github.com/JHU-CLSP/science-cartography)
 
 ## Journals
