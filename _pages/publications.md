@@ -14,18 +14,6 @@ I'm falling behind on tracking all my publications. [Google Scholar](https://sch
 <span style="color:darkblue">**Weiqi Wang**</span>, Xin Liu, Binxuan Huang, Hejie Cui, Rongzhi Zhang, Changlong Yu, Shuowei Jin, Jingfeng Yang, Qingyu Yin, Zhengyang Wang, Zheng Li, Yifan Gao, Priyanka Nigam, Bing Yin, Lihong Li, Yangqiu Song.\
 *Arxiv Preprint*, 2026. [[pdf]](https://arxiv.org/pdf/2601.22448), [[code]](https://github.com/horizon-rl/HeaPA)
 
-- **arXiv2Table: Toward Realistic Benchmarking and Evaluation for LLM-Based Literature-Review Table Generation.**\
-<span style="color:darkblue">**Weiqi Wang**</span>, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi.\
-*Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2504.10284), [[data]](https://github.com/JHU-CLSP/arXiv2Table)
-
-- **SessionIntentBench: A Multi-task Inter-Session Intention-Shift Modeling Benchmark for E-commerce Customer Behavior Understanding.**\
-Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Wei Fan, Qing Zong, Chunkit Chan, Zheye Deng, Xin Liu, Yifan Gao, Changlong Yu, Chen Luo, Yang Li, Zheng Li, Qingyu Yin, Bing Yin, Yangqiu Song.\
-*Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2507.20185)
-
-- **InferenceDynamics: Efficient Routing Across LLMs through Structured Capability and Knowledge Profiling.**\
-Haochen Shi\*, Tianshi Zheng\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Chunyang Li, Chunkit Chan, Tao Fan, Yangqiu Song, Qiang Yang.\
-*Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2505.16303)
-
 - **From Papers to Panoramas: Building Hierarchies of Scientific Literature at Scale.**\
 Muhan Gao, Jash Shah, <span style="color:darkblue">**Weiqi Wang**</span>, Kuan-Hao Huang, Daniel Khashabi.\
 *Arxiv Preprint*, 2025. [[pdf]](https://arxiv.org/pdf/2504.13834), [[code]](https://github.com/JHU-CLSP/science-cartography)
@@ -36,6 +24,10 @@ Mutian He, Tianqing Fang, <span style="color:darkblue">**Weiqi Wang**</span>, Ya
 *Artificial Intelligence*, 2024. [[pdf]](https://doi.org/10.1016/j.artint.2024.104149), [[code]](https://github.com/HKUST-KnowComp/atomic-conceptualization)
 
 ## Conference Proceedings
+- **ArXiv2Table: Toward Realistic Benchmarking and Evaluation for LLM-Based Literature-Review Table Generation.**\
+<span style="color:darkblue">**Weiqi Wang**</span>, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi.\
+In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL-2026)*, 2026. [[pdf]](https://arxiv.org/pdf/2504.10284), [[data]](https://github.com/JHU-CLSP/arXiv2Table)
+
 - **On the Role of Entity and Event Level Conceptualization in Generalizable Reasoning: A Survey of Tasks, Methods, Applications, and Future Directions.**\
 <span style="color:darkblue">**Weiqi Wang**</span>, Tianqing Fang, Haochen Shi, Baixuan Xu, Wenxuan Ding, Liyu Zhang, Wei Fan, Jiaxin Bai, Haoran Li, Xin Liu, Yangqiu Song.\
 In *Findings of the Association for Computational Linguistics: EMNLP 2025 (Findings of EMNLP-2025)*. [[pdf]](https://aclanthology.org/2025.findings-emnlp.122.pdf)
@@ -59,6 +51,14 @@ In *Findings of the Association for Computational Linguistics: EMNLP 2023 (Findi
 - **🐈CAT: A Contextualized Conceptualization and Instantiation Framework for Commonsense Reasoning.**\
 <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang\*, Baixuan Xu, Chun Yi Louis Bo, Yangqiu Song, Lei Chen.\
 In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023, <span style="color:red">**Oral**</span>)*. [[pdf]](https://aclanthology.org/2023.acl-long.733.pdf), [[code]](https://github.com/HKUST-KnowComp/CAT)
+
+- **SessionIntentBench: A Multi-task Inter-Session Intention-Shift Modeling Benchmark for E-commerce Customer Behavior Understanding.**\
+Yuqi Yang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Wei Fan, Qing Zong, Chunkit Chan, Zheye Deng, Xin Liu, Yifan Gao, Changlong Yu, Chen Luo, Yang Li, Zheng Li, Qingyu Yin, Bing Yin, Yangqiu Song.\
+In *Findings of the Association for Computational Linguistics: ACL 2026 (Findings of ACL-2026)*, 2026. [[pdf]](https://arxiv.org/pdf/2507.20185)
+
+- **InferenceDynamics: Efficient Routing Across LLMs through Structured Capability and Knowledge Profiling.**\
+Haochen Shi\*, Tianshi Zheng\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Baixuan Xu, Chunyang Li, Chunkit Chan, Tao Fan, Yangqiu Song, Qiang Yang.\
+In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL-2026)*, 2026. [[pdf]](https://arxiv.org/pdf/2505.16303)
 
 - **IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce.**\
 Wenxuan Ding\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Sze Heng Douglas Kwok, Minghao Liu, Tianqing Fang, Jiaxin Bai, Xin Liu, Changlong Yu, Zheng Li, Chen Luo, Qingyu Yin, Bing Yin, Junxian He, Yangqiu Song.\
