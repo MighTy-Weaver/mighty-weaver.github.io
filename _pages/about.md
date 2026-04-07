@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I received my Ph.D. degree and my B.Sc. degree in [Computer Science and Engineering](https://cse.hkust.edu.hk/) from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in 2026 and 2022, respectively, where my research was supervised by Professor [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and generously supported by the [HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html) award. I was also a visiting Ph.D. scholar at [Johns Hopkins University](https://www.jhu.edu/), where I was supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). Previously, I was twice an Applied Scientist intern at Amazon in Palo Alto, working with the Stores Foundational AI team and the Customer Search Experience team, mentored by [Dr. Xin Liu](https://seanliu96.github.io/), [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350), [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), and [Dr. Chen Luo](https://chen-luo.com/).
+I received my Ph.D. and B.Sc. degrees in [Computer Science and Engineering](https://cse.hkust.edu.hk/) from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in March 2026 and July 2022, respectively. My research was supervised by Professor [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and generously supported by the [HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html) award. I was also a visiting Ph.D. scholar at [Johns Hopkins University](https://www.jhu.edu/), where I was supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). Previously, I was twice an Applied Scientist intern at Amazon.com in Palo Alto, where I worked with the Stores Foundational AI team and the Customer Search Experience team, mentored by [Dr. Xin Liu](https://seanliu96.github.io/), [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350), [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), and [Dr. Chen Luo](https://chen-luo.com/).
 
 This webpage was last updated on **2026/4/6**.
 
@@ -39,7 +39,7 @@ I also actively worked on **human behavior understanding and intention modeling*
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
 - Doctor of Philosophy in Computer Science and Engineering, _Sep. 2022 -- Mar. 2026_
-- Bachelor of Science in Computer Science and Mathematics, _Sep. 2018 -- Jun. 2022_, _First Class Honors_
+- Bachelor of Science in Computer Science and Mathematics, _Sep. 2018 -- Jul. 2022_, _First Class Honors_
 
 **Johns Hopkins University [(JHU)](https://www.jhu.edu/)**
 
