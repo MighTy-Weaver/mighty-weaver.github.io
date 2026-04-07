@@ -82,7 +82,7 @@ In *Proceedings of the 2021 Conference on Empirical Methods in Natural Language 
 
 - **ConKE: Conceptualization-Augmented Knowledge Editing in Large Language Models for Commonsense Reasoning.**\
 Liyu Zhang\*, <span style="color:darkblue">**Weiqi Wang**</span>\*, Tianqing Fang, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: ACL 2025 (Findings of ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2412.11418), [[code]](https://github.com/HKUST-KnowComp/ConKE)
+In *Findings of the Association for Computational Linguistics: ACL 2025 (Findings of ACL-2025)*, 2025. [[pdf]](https://aclanthology.org/2025.findings-acl.35.pdf), [[code]](https://github.com/HKUST-KnowComp/ConKE)
 
 - **GoldCoin: Grounding Large Language Models in Privacy Laws via Contextual Integrity Theory.**\
 Wei Fan, Haoran Li, Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
@@ -90,7 +90,7 @@ In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language 
 
 - **Patterns Over Principles: The Fragility of Inductive Reasoning in LLMs under Noisy Observations.**\
 Chunyang Li, <span style="color:darkblue">**Weiqi Wang**</span>, Tianshi Zheng, Yangqiu Song.\
-In *Findings of the Association for Computational Linguistics: ACL 2025 (Findings of ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2502.16169), [[data]](https://github.com/lcy2723/Robust-Rule-Induction)
+In *Findings of the Association for Computational Linguistics: ACL 2025 (Findings of ACL-2025)*, 2025. [[pdf]](https://aclanthology.org/2025.findings-acl.1006.pdf), [[data]](https://github.com/lcy2723/Robust-Rule-Induction)
 
 - **Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection.**\
 Zheye Deng, <span style="color:darkblue">**Weiqi Wang**</span>, Zhaowei Wang, Xin Liu, Yangqiu Song.\
@@ -102,4 +102,4 @@ In *Findings of the Association for Computational Linguistics: ACL 2023 (Finding
 
 - **Revisiting Epistemic Markers in Confidence Estimation: Can Markers Accurately Reflect Large Language Models' Uncertainty?.**\
 Jiayu Liu, Qing Zong, <span style="color:darkblue">**Weiqi Wang**</span>, Yangqiu Song.\
-In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://arxiv.org/pdf/2505.24778), [[code]](https://github.com/HKUST-KnowComp/MarCon)
+In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*, 2025. [[pdf]](https://aclanthology.org/2025.acl-short.18.pdf), [[code]](https://github.com/HKUST-KnowComp/MarConf)
