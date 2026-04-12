@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Weiqi Wang 王伟琪"
 title_separator          : "-"
 name                     : &name "Weiqi Wang"
-description              : &description "LLM Researcher"
+description              : &description "LLM Research Scientist at Tencent"
 url                      : "https://mighty-weaver.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MighTy-Weaver/mighty-weaver.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "Avatar_small_2024_Oct.png"
   name             : "Weiqi Wang"
   pronouns         : "He/Him"
-  bio              : 
+  bio              : "LLM Research Scientist"
   location         : "Beijing, China"
-  employer         : 
+  employer         : "Tencent"
   uri              : # URL
   email            : "mightyweaver829 [at] gmail [dot] com"
 

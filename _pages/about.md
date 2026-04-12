@@ -10,21 +10,23 @@ redirect_from:
 
 ## About me
 
-I received my Ph.D. and B.Sc. degrees in [Computer Science and Engineering](https://cse.hkust.edu.hk/) from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in March 2026 and July 2022, respectively. My research was supervised by Professor [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and generously supported by the [HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html) award. I was also a visiting Ph.D. scholar at [Johns Hopkins University](https://www.jhu.edu/), where I was supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). Previously, I was twice an Applied Scientist intern at Amazon.com in Palo Alto, where I worked with the Stores Foundational AI team and the Customer Search Experience team, mentored by [Dr. Xin Liu](https://seanliu96.github.io/), [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350), [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), and [Dr. Chen Luo](https://chen-luo.com/).
+I'm a Research Scientist at Tencent Hunyuan in Beijing. Previously, I received my Ph.D. and B.Sc. degrees in [Computer Science and Engineering](https://cse.hkust.edu.hk/) from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) in March 2026 and July 2022, respectively. My research was supervised by Professor [Yangqiu Song](https://www.cse.ust.hk/~yqsong/) and generously supported by the [HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html) award. I was also a visiting Ph.D. scholar at [Johns Hopkins University](https://www.jhu.edu/), where I was supervised by [Prof. Daniel Khashabi](https://danielkhashabi.com/). Before that, I completed two Applied Scientist internships at Amazon in Palo Alto, where I worked with the Stores Foundational AI team and the Customer Search Experience team under the mentorship of [Dr. Xin Liu](https://seanliu96.github.io/), [Dr. Qingyu Yin](https://scholar.google.com/citations?user=P-mBKNYAAAAJ&hl=zh-CN&inst=1381320739207392350), [Dr. Limeng Cui](https://scholar.google.com/citations?user=pfd4pUkAAAAJ&inst=1381320739207392350), and [Dr. Chen Luo](https://chen-luo.com/).
 
-This webpage was last updated on **2026/4/9**.
+This webpage was last updated on **April 12, 2026**.
 
 ## Research Interest
 
-I'm mainly interested in research on large language models. Currently, I'm working on:
+I'm mainly interested in research on large language models. My current work focuses on:
 
-- **GUI/CLI Agents and Tool-Use**: Applying RL-based post-training to agents that perceive, plan, and act in real interfaces, with an emphasis on long-horizon decision-making, interactive feedback and reward design, and reliable agentic behavior.
-- **RL-Empowered Reasoning in LLMs**: Developing efficient and scalable reinforcement learning methods that improve LLM reasoning performance ([HeaPA](https://arxiv.org/pdf/2601.22448)). I am also interested in enabling **generalizable System II reasoning** in novel situations. 
- 
-During my PhD, my [thesis](https://mighty-weaver.github.io/files/Thesis.pdf) focused on exploring [_conceptualization_](https://aclanthology.org/2025.findings-emnlp.122.pdf) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf)) and _metaphysical reasoning_ ([🪐](https://aclanthology.org/2025.acl-long.79.pdf)), with an emphasis on robustness and reliable reasoning beyond pattern matching.
-I also actively worked on **human behavior understanding and intention modeling** with large foundation models in E-commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://aclanthology.org/2024.findings-emnlp.123.pdf), [MIND](https://aclanthology.org/2024.emnlp-main.446.pdf), [📜](https://aclanthology.org/2025.acl-long.1.pdf)) and social media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf)), as well as **scientific knowledge exploration via large language models**, studying their role in organizing, summarizing, and discovering scientific knowledge ([arXiv2Table](https://arxiv.org/pdf/2504.10284), [Science Hierarchography](https://arxiv.org/pdf/2504.13834), [ClaimCheck](https://aclanthology.org/2025.findings-emnlp.1185.pdf)).
+- **GUI/CLI Agents Post-Training**: applying RL-based post-training to agents that perceive, plan, and act in real interfaces, with an emphasis on long-horizon decision-making, interactive feedback and reward design, and reliable agentic behavior.
+- **RL-Empowered Reasoning in LLMs**: developing efficient and scalable reinforcement learning methods to improve LLM reasoning performance ([HeaPA](https://arxiv.org/pdf/2601.22448)). I am also interested in enabling **generalizable System II reasoning** in novel situations.
+
+During my Ph.D., my [thesis](https://mighty-weaver.github.io/files/Thesis.pdf) focused on exploring [_conceptualization_](https://aclanthology.org/2025.findings-emnlp.122.pdf) ([🐈](https://aclanthology.org/2023.acl-long.733.pdf), [🚗](https://aclanthology.org/2023.findings-emnlp.902.pdf), [🕯️](https://aclanthology.org/2024.acl-long.128.pdf)) and _metaphysical reasoning_ ([🪐](https://aclanthology.org/2025.acl-long.79.pdf)), with an emphasis on robustness and reliable reasoning beyond pattern matching. I also actively worked on **human behavior understanding and intention modeling** with large foundation models in e-commerce ([FolkScope](https://aclanthology.org/2023.findings-acl.76.pdf), [IntentionQA](https://aclanthology.org/2024.findings-emnlp.123.pdf), [MIND](https://aclanthology.org/2024.emnlp-main.446.pdf), [📜](https://aclanthology.org/2025.acl-long.1.pdf)) and social media ([MIKO](https://arxiv.org/pdf/2402.18169.pdf)), as well as on **scientific knowledge exploration with large language models**, studying their role in organizing, summarizing, and discovering scientific knowledge ([arXiv2Table](https://arxiv.org/pdf/2504.10284), [Science Hierarchography](https://arxiv.org/pdf/2504.13834), [ClaimCheck](https://aclanthology.org/2025.findings-emnlp.1185.pdf)).
 
 ## Employment
+**Tencent Hunyuan, Beijing, China**
+
+- Research Scientist, _Apr. 2026 -- Now_
 
 **Amazon Stores Foundational AI, Amazon Inc., Palo Alto, CA, USA**
 
